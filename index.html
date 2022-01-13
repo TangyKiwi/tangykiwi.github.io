@@ -1,0 +1,109 @@
+<head>
+    <script src="js/animatedtitle.js"></script>
+    <script src="js/jparticles.js"></script>
+    <script src="js/particle.js"></script>
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="tangykiwi" />
+    <meta property="og:image" content="https://cdn.discordapp.com/avatars/476264177204199444/800f5f3c6c9a933da5c4cea6239b7c82.webp?size=128" />
+    <meta name="twitter:description" content="tangykiwi's website" />
+
+    <link rel="shortcut icon" type="image/x-icon" href="assets/icon.ico">
+    <style>
+		@font-face {
+			font-family: "Roboto";
+			font-style: normal;
+			font-weight: 400;
+			src: local("Roboto"), local("Roboto-Regular"), url(https://fonts.gstatic.com/s/roboto/v15/oMMgfZMQthOryQo9n22dcuvvDin1pK8aKteLpeZ5c0A.woff2) format('woff2');
+			unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+		}
+		html {
+			color: #ffffff;
+			height: 100%;
+			background-image: url("assets/background.png");
+			background-position: center;
+			background-repeat: no-repeat;
+			background-size: cover;
+			animation-name: fadein;
+			animation-duration: 1s;
+			font-family: roboto;
+		}
+		.center {
+			border-radius: 5%;
+			background-color: #000000a0;
+			padding: 20px;
+			position: absolute;
+			margin: auto;
+			left: 50%;
+			top: 50%;
+			transform: translate(-50%, -50%);
+			text-align: center;
+			animation-name: fadein;
+			animation-duration: 1s;
+		}
+		.right {
+			float: right;
+			text-align: right;
+		}
+		.img {
+			border-radius: 60%;
+			width: 150px;
+			height: 150px;
+			animation-name: imgpopout;
+			animation-duration: 1s;
+		}
+		p {
+			margin: 0px;
+			padding: 0px;
+		}
+		div { cursor: default; }
+		a { color: #f5ad42; }
+		.center hr {
+			width: 50%;
+			animation-name: flowout;
+			animation-duration: 2s;
+		}
+		hr { color: #f5ad42; }
+		div:hover, a:hover { text-shadow: 0px 0px 8px; }
+		@keyframes fadein {
+			0% { opacity: 0%; }
+			100% { opacity: 100%; }
+		}
+		@keyframes flowout {
+			0% { width: 0%; }
+			100% { width: 50%; }
+		}
+		@keyframes imgpopout {
+			0% {
+				width: 0px;
+				height: 0px;
+			}
+			100% {
+				width: 150px;
+				height: 150px;
+			}
+		}
+	</style>
+</head>
+
+<body>
+<div id="particles" style="position: fixed; width: 100%; height: 100%;"></div>
+<span class="center">
+		<img class="img" src="assets/duck.jpg">
+		<div style="font-size: 180%;">TangyKiwi</div>
+		<hr>
+		<p>
+			<a href="https://github.com/TangyKiwi" target="_blank">Github</a>
+		</p>
+		<hr>
+	</span>
+<script>
+		new JParticles.particle('#particles', {
+			color: ['white', '#f5ad42'],
+			proximity: 80,
+			range: 120,
+			parallax: true,
+			maxSpeed: 0.55,
+     		minSpeed: 0.55
+		});
+	</script>
+</body>
