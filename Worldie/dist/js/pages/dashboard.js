@@ -2,7 +2,7 @@
  * Author: Abdullah A Almsaeed
  * Date: 4 Jan 2014
  * Description:
- *      This is a demo file used only for the main dashboard (annex.md)
+ *      This is a demo file used only for the main dashboard (annex.html)
  **/
 
 /* global moment:false, Chart:false, Sparkline:false */
