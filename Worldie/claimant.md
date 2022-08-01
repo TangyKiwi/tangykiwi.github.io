@@ -1,0 +1,1130 @@
+---
+permalink: /claimant.md
+---
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Worldie | Depp vs. NGN</title>
+
+  <!-- Google Font: Source Sans Pro -->
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback">
+  <!-- Font Awesome -->
+  <link rel="stylesheet" href="plugins/fontawesome-free/css/all.min.css">
+  <!-- AdminLTE css -->
+  <link rel="stylesheet" href="dist/css/adminlte.min.css">
+</head>
+<body class="hold-transition sidebar-mini layout-fixed">
+<div class="wrapper">
+
+  <!-- Preloader -->
+<!--    <div class="preloader flex-column justify-content-center align-items-center">-->
+<!--      <img src="dist/img/worldie_logo.png" alt="worldie_logo" height="169" width="500">-->
+<!--      <img class="image" src="dist/img/loading.gif" alt="loading_gif" height="75" width="75">-->
+<!--    </div>-->
+
+  <!-- Main Sidebar Container -->
+  <aside class="main-sidebar sidebar-light-primary elevation-4">
+    <!-- Brand Logo -->
+    <a href="annex.md" class="brand-link">
+      <img src="dist/img/worldie_logo.png" alt="worldie_logo" class="brand-image img-circle elevation-3" style="opacity: .8">
+      <span class="brand-text font-weight-light">Depp vs. NGN</span>
+    </a>
+
+    <!-- Sidebar -->
+    <div class="sidebar">
+      <!-- Sidebar Menu -->
+      <nav class="mt-2">
+        <ul class="nav nav-pills nav-sidebar flex-column" data-widget="treeview" role="menu" data-accordion="false">
+          <!-- Add icons to the links using the .nav-icon class
+               with font-awesome or any other icon font library -->
+          <li class="nav-item menu-open">
+            <a href="#" class="nav-link active">
+              <i class="nav-icon fas fa-tachometer-alt"></i>
+              <p>
+                Timelines
+                <i class="right fas fa-angle-left"></i>
+              </p>
+            </a>
+            <ul class="nav nav-treeview">
+              <li class="nav-item">
+                <a href="./annex.md" class="nav-link">
+                  <i class="far fa-circle nav-icon"></i>
+                  <p>Annex</p>
+                </a>
+              </li>
+              <li class="nav-item">
+                <a href="./claimant.md" class="nav-link active">
+                  <i class="far fa-check-circle nav-icon"></i>
+                  <p>Claimant</p>
+                </a>
+              </li>
+              <li class="nav-item">
+                <a href="./defendant.md" class="nav-link">
+                  <i class="far fa-circle nav-icon"></i>
+                  <p>Defendant</p>
+                </a>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </nav>
+      <!-- /.sidebar-menu -->
+    </div>
+    <!-- /.sidebar -->
+  </aside>
+
+  <!-- Content Wrapper. Contains page content -->
+  <div class="content-wrapper">
+    <!-- Content Header (Page header) -->
+    <div class="content-header">
+      <div class="container-fluid">
+        <div class="row mb-2">
+          <div class="col-sm-6">
+            <h1 class="m-0">Claimant Timeline</h1>
+          </div><!-- /.col -->
+        </div><!-- /.row -->
+      </div><!-- /.container-fluid -->
+    </div>
+    <!-- /.content-header -->
+
+    <!-- Main content -->
+    <section class="content">
+      <div class="container-fluid">
+
+        <!-- Timelime example  -->
+        <div class="row">
+          <div class="col-md-12">
+            <!-- The time line -->
+            <div class="timeline">
+              <!-- timeline time label -->
+              <div class="time-label">
+                <span class="bg-blue">Mar. 2013</span>
+              </div>
+              <!-- /.timeline-label -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">March 2013</a></h3>
+                  <div class="timeline-body">March 2013, it has been hard to keep up and make sense of Ms Heard(cid:182)s evidence.   </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_9aaf63a412534537b472b5f5e8e6ddf0.pdf#page=10" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">March  2013</a></h3>
+                  <div class="timeline-body">b.  Secondly, Ms Heard fell back on her recent change of accounts from there
+                    having  been one very  striking assault in March 2013, to it be a month of
+                    assaults.  By  re-examination  (Trial  Day  13,  page  2033),  Ms  Heard  was
+                    claiming  that  there  were  (cid:179)at  least  three  incidents(cid:180)  in  March  2013,  which
+                    involved the filming of the Keith Richards documentary.  </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_9aaf63a412534537b472b5f5e8e6ddf0.pdf#page=28" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">March 2013</a></h3>
+                  <div class="timeline-body">b.  Secondly, Ms Heard fell back on her recent change of accounts from there
+                    having  been one very  striking assault in March 2013, to it be a month of
+                    assaults.  By  re-examination  (Trial  Day  13,  page  2033),  Ms  Heard  was
+                    claiming  that  there  were  (cid:179)at  least  three  incidents(cid:180)  in  March  2013,  which
+                    involved the filming of the Keith Richards documentary.  </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_9aaf63a412534537b472b5f5e8e6ddf0.pdf#page=28" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">March 2013</a></h3>
+                  <div class="timeline-body">March 2013. The Claimant also disclosed an undated photograph of Ms Heard with
+                    Ia(cid:81) McLa(cid:74)a(cid:81), Ke(cid:76)(cid:87)(cid:75) R(cid:76)c(cid:75)a(cid:85)d(cid:86)(cid:182) (cid:78)e(cid:92)b(cid:82)a(cid:85)d (cid:83)(cid:79)a(cid:92)e(cid:85).
+
+                    6th July 2020
+                  </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_9aaf63a412534537b472b5f5e8e6ddf0.pdf#page=27" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">March 2013</a></h3>
+                  <div class="timeline-body">March 2013. The Claimant also disclosed an undated photograph of Ms Heard with
+                    Ia(cid:81) McLa(cid:74)a(cid:81), Ke(cid:76)(cid:87)(cid:75) R(cid:76)c(cid:75)a(cid:85)d(cid:86)(cid:182) (cid:78)e(cid:92)b(cid:82)a(cid:85)d (cid:83)(cid:79)a(cid:92)e(cid:85).
+
+                    6th July 2020
+                  </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_9aaf63a412534537b472b5f5e8e6ddf0.pdf#page=27" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">March 2013</a></h3>
+                  <div class="timeline-body">6.  M(cid:86) Hea(cid:85)d(cid:182)(cid:86) 1st (cid:90)(cid:76)(cid:87)(cid:81)e(cid:86)(cid:86) (cid:86)(cid:87)a(cid:87)e(cid:80)e(cid:81)(cid:87) (cid:83)(cid:88)(cid:87) (cid:87)(cid:75)e (cid:76)(cid:81)c(cid:76)de(cid:81)(cid:87) (cid:76)(cid:81) (cid:179)March 2013(cid:180): AH 1st at 52 </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_9aaf63a412534537b472b5f5e8e6ddf0.pdf#page=26" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">March 2013</a></h3>
+                  <div class="timeline-body">8th March 2013 </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_9aaf63a412534537b472b5f5e8e6ddf0.pdf#page=19" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">March 2013</a></h3>
+                  <div class="timeline-body">8th March 2013 </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_9aaf63a412534537b472b5f5e8e6ddf0.pdf#page=19" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">8 March 2013</a></h3>
+                  <div class="timeline-body">there were two incidents (one on 8 March 2013 to which the text mentioning the </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_9aaf63a412534537b472b5f5e8e6ddf0.pdf#page=19" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">8 March 2013</a></h3>
+                  <div class="timeline-body">there were two incidents (one on 8 March 2013 to which the text mentioning the </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_9aaf63a412534537b472b5f5e8e6ddf0.pdf#page=19" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">9  March
+                    2013</a></h3>
+                  <div class="timeline-body">11. AH 5th WS, Ms Heard stated (cid:179)41. O(cid:81) 10 Ma(cid:85)c(cid:75) 2013 I (cid:87)(cid:82)(cid:79)d Ka(cid:87)e ab(cid:82)(cid:88)(cid:87) J(cid:82)(cid:75)(cid:81)(cid:81)(cid:92) (cid:75)(cid:76)(cid:87)(cid:87)(cid:76)(cid:81)(cid:74)
+                    me  after  being  upset  about  Tasya.  The  day  after  the  painting  incident  (9  March
+                    2013), I sent a text to Kate, telling her (cid:179)The(cid:85)e (cid:90)a(cid:86) l(cid:82)(cid:81)g d(cid:85)a(cid:80)a la(cid:86)(cid:87) (cid:81)igh(cid:87) a(cid:81)d I(cid:182)ll (cid:87)ell
+                    he(cid:85) (cid:87)he (cid:86)(cid:87)(cid:82)(cid:85)(cid:92) la(cid:87)e(cid:85)(cid:180).   2.1/71.3/E606.30-31
+                  </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_9aaf63a412534537b472b5f5e8e6ddf0.pdf#page=26" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">12 March 2013</a></h3>
+                  <div class="timeline-body">text: that text is 12 March 2013. </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_9aaf63a412534537b472b5f5e8e6ddf0.pdf#page=26" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">12 March 2013</a></h3>
+                  <div class="timeline-body">3.  Amended Defence relied (cid:88)(cid:83)(cid:82)(cid:81) (cid:179)disco bloodbath(cid:180) (cid:87)e(cid:91)(cid:87) (cid:80)e(cid:86)(cid:86)a(cid:74)e as referring to this
+                    incident; and pleaded that the Claimant (cid:179)subsequently(cid:180) (cid:86)e(cid:81)(cid:87) that text referring to
+                    that evening. The date of that text is 12 March 2013.
+                  </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_9aaf63a412534537b472b5f5e8e6ddf0.pdf#page=25" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">20  March
+                    2013</a></h3>
+                  <div class="timeline-body">12. The  Claimant  disclosed  an  email  between  the  him  and  Jane  Rose  of  20  March
+                    2013 (cid:177) 8/63(a)/I1.1 This email demonstrates that Ms Heard first met Keith Richards
+                    on evening of 20 March.
+
+                    4th July 2020
+                  </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_9aaf63a412534537b472b5f5e8e6ddf0.pdf#page=26" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">22 March 2013</a></h3>
+                  <div class="timeline-body">15. AH(cid:182)(cid:86) 7th WS at 5: Ms Heard changed the date of the alleged incident in purported
+                    reliance on a photograph of lines of cocaine on a kitchen glass table. There is no
+                    apparent causal connection, as to why that photo of drugs taken at her house on
+                    22 March 2013 could possibly make Ms Heard change or recall the date of Second
+                    Incident.
+                  </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_9aaf63a412534537b472b5f5e8e6ddf0.pdf#page=27" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">22
+                    March 2013</a></h3>
+                  <div class="timeline-body">20  Finally, the Court should not that at the time, Ms Heard told Nathan Holmes on 22
+                    March 2013 at 12:37 that she was (cid:181)trying to wake(cid:182) Mr Depp [7/1e/H21A.17A], but
+                    in  cross-examination  that  M(cid:85)  De(cid:83)(cid:83)  (cid:82)(cid:81)  22  Ma(cid:85)c(cid:75)  (cid:90)a(cid:86)  (cid:179)(cid:82)(cid:81)  a  24  (cid:75)(cid:82)(cid:88)(cid:85) c(cid:82)(cid:78)e-fueled
+                    be(cid:81)de(cid:85)(cid:180) (Transcript, Day 11, page 1810) a(cid:81)d M(cid:86) He(cid:81)(cid:85)(cid:76)(cid:84)(cid:88)e(cid:86)(cid:182)(cid:86) e(cid:89)(cid:76)de(cid:81)ce (cid:90)a(cid:86) (cid:87)(cid:75)a(cid:87)
+                    was in the kitchen (Transcript Day 13, pages 2123-2124).
+                  </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_9aaf63a412534537b472b5f5e8e6ddf0.pdf#page=28" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">23 March 2013</a></h3>
+                  <div class="timeline-body">Script Notes showing that Mr McLagan was only on set on 23 March 2013.
+                  </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_9aaf63a412534537b472b5f5e8e6ddf0.pdf#page=27" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline time label -->
+              <div class="time-label">
+                <span class="bg-blue">Aug. 2014</span>
+              </div>
+              <!-- /.timeline-label -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">August 2014</a></h3>
+                  <div class="timeline-body">8.  Fifth Incident: Bahamas detox in August 2014 (ReAmDef �8.a.5)  </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_9aaf63a412534537b472b5f5e8e6ddf0.pdf#page=21" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline time label -->
+              <div class="time-label">
+                <span class="bg-blue">Oct. 2015</span>
+              </div>
+              <!-- /.timeline-label -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">October 2015</a></h3>
+                  <div class="timeline-body">8.1. Ms Heard had not (cid:177) at the time of the above exchanges in October 2015 about
+                    obtaining evidence from Kate James (cid:177) pleaded guilty to any charge. She was (as
+                    recorded in the transcript of the 18 April 2016 hearing) offering to do so as part of
+                    a plea bargain.
+                  </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_9aaf63a412534537b472b5f5e8e6ddf0.pdf#page=31" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">October
+
+                    2015</a></h3>
+                  <div class="timeline-body">nan</div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_9aaf63a412534537b472b5f5e8e6ddf0.pdf#page=30" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">October  2015</a></h3>
+                  <div class="timeline-body">8.2. At  that  time,  i.e.  October  2015,  Ms  Heard  had  every  reason  to  ask  someone
+                    (whether  Kevin  Murphy  or Kate  James)  to  lie  for  her  in  order to  strengthen  her
+                    hand in that plea bargaining, to get the more serious charges dropped (cid:177) and Mr
+                    Murphy  felt  compelled  to  do  so  in  his  declaration  of  13  October  2015
+                    [5.1/201(a)/F1303.1-2]. </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_9aaf63a412534537b472b5f5e8e6ddf0.pdf#page=31" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">October  2015</a></h3>
+                  <div class="timeline-body">
+                    4.  As  the  Court  transcript  records:  (cid:179)On  13th  of  October  2015,  Ms  Heard  provided  an
+                    unsworn statement to the Prosecution regarding her actions and state of mind relevant </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_9aaf63a412534537b472b5f5e8e6ddf0.pdf#page=29" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">11 October
+                    2015</a></h3>
+                  <div class="timeline-body">7.2. When pressed on the documents, including the email at F885 dated 11 October
+                    2015, Ms Heard again denied that she had intended to try to pressure anyone to
+                    provide a helpful statement: </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_9aaf63a412534537b472b5f5e8e6ddf0.pdf#page=30" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">13  October  2015</a></h3>
+                  <div class="timeline-body">8.2. At  that  time,  i.e.  October  2015,  Ms  Heard  had  every  reason  to  ask  someone
+                    (whether  Kevin  Murphy  or Kate  James)  to  lie  for  her  in  order to  strengthen  her
+                    hand in that plea bargaining, to get the more serious charges dropped (cid:177) and Mr
+                    Murphy  felt  compelled  to  do  so  in  his  declaration  of  13  October  2015
+                    [5.1/201(a)/F1303.1-2]. </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_9aaf63a412534537b472b5f5e8e6ddf0.pdf#page=31" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline time label -->
+              <div class="time-label">
+                <span class="bg-blue">Nov. 2015</span>
+              </div>
+              <!-- /.timeline-label -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">November 2015</a></h3>
+                  <div class="timeline-body">12. Eleventh Incident: Thanksgiving, November 2015 (Re-Am Def �8.a.14) </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_9aaf63a412534537b472b5f5e8e6ddf0.pdf#page=22" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">November 2015</a></h3>
+                  <div class="timeline-body">to the offence, and on 3rd of November 2015, there was an indication that she would
+                    plea to the charge that she made the false statement, on the basis that the other two
+                    charges were discontinued. This has, in effect, occurred today (cid:171)(cid:180) [F1303.5]
+                  </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_9aaf63a412534537b472b5f5e8e6ddf0.pdf#page=30" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline time label -->
+              <div class="time-label">
+                <span class="bg-blue">Dec. 2015</span>
+              </div>
+              <!-- /.timeline-label -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">December 2015</a></h3>
+                  <div class="timeline-body">Depp in December 2015 [2/59B/D227-D231], Ms Heard created a wholly new, but </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_9aaf63a412534537b472b5f5e8e6ddf0.pdf#page=12" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline time label -->
+              <div class="time-label">
+                <span class="bg-blue">Apr. 2016</span>
+              </div>
+              <!-- /.timeline-label -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">April 2016</a></h3>
+                  <div class="timeline-body">8.1. Ms Heard had not (cid:177) at the time of the above exchanges in October 2015 about
+                    obtaining evidence from Kate James (cid:177) pleaded guilty to any charge. She was (as
+                    recorded in the transcript of the 18 April 2016 hearing) offering to do so as part of
+                    a plea bargain.
+                  </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_9aaf63a412534537b472b5f5e8e6ddf0.pdf#page=31" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">17 April 2016</a></h3>
+                  <div class="timeline-body">5.1. Ms Heard swore an affidavit the previous day, 17 April 2016, in which she set out
+                    matters  she  relied  upon  in  mitigation,  namely  blaming  others,  Kate  James  and
+                    Kevin  Murphy,  see  paras  26-38  [5.1/200/F1229-F1242].  The  magistrate  in
+                    sentencing relied upon that evidence incl(cid:88)ding concl(cid:88)ding (cid:87)ha(cid:87) (cid:179)(cid:171)Ms Heard was
+                    unaware  of  the  documentation  for  the  dogs(cid:182)  importation  into  Australia  had  not
+                    been complete(cid:180) [5.1/201(b)/F1303.6]. </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_9aaf63a412534537b472b5f5e8e6ddf0.pdf#page=30" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">18  April
+                    2016</a></h3>
+                  <div class="timeline-body">
+                    1.  The  Australian  criminal  proceedings  against  Ms  Heard  were  concluded  on  18  April
+                    2016 when Ms Heard entered a plea of guilty to a  summary offence of producing a
+                    false  or  misleading  document.  A  transcript  is  at  [5.1/201(b)/F1303.3-8].  The  Court
+                    Order  of  18  April  2016  is  at  [5.1/200/F1219-F1220].  A  helpful  report  of  those  court
+                    proceedings from The Guardian, 18 April 2016 is at [11/190/P173-P176]. </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_9aaf63a412534537b472b5f5e8e6ddf0.pdf#page=29" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">18  April  2016</a></h3>
+                  <div class="timeline-body">
+                    1.  The  Australian  criminal  proceedings  against  Ms  Heard  were  concluded  on  18  April
+                    2016 when Ms Heard entered a plea of guilty to a  summary offence of producing a
+                    false  or  misleading  document.  A  transcript  is  at  [5.1/201(b)/F1303.3-8].  The  Court
+                    Order  of  18  April  2016  is  at  [5.1/200/F1219-F1220].  A  helpful  report  of  those  court
+                    proceedings from The Guardian, 18 April 2016 is at [11/190/P173-P176]. </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_9aaf63a412534537b472b5f5e8e6ddf0.pdf#page=29" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">18 April 2016</a></h3>
+                  <div class="timeline-body">
+                    1.  The  Australian  criminal  proceedings  against  Ms  Heard  were  concluded  on  18  April
+                    2016 when Ms Heard entered a plea of guilty to a  summary offence of producing a
+                    false  or  misleading  document.  A  transcript  is  at  [5.1/201(b)/F1303.3-8].  The  Court
+                    Order  of  18  April  2016  is  at  [5.1/200/F1219-F1220].  A  helpful  report  of  those  court
+                    proceedings from The Guardian, 18 April 2016 is at [11/190/P173-P176]. </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_9aaf63a412534537b472b5f5e8e6ddf0.pdf#page=29" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">18 April 2016</a></h3>
+                  <div class="timeline-body">8.1. Ms Heard had not (cid:177) at the time of the above exchanges in October 2015 about
+                    obtaining evidence from Kate James (cid:177) pleaded guilty to any charge. She was (as
+                    recorded in the transcript of the 18 April 2016 hearing) offering to do so as part of
+                    a plea bargain.
+                  </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_9aaf63a412534537b472b5f5e8e6ddf0.pdf#page=31" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">18  April  2016</a></h3>
+                  <div class="timeline-body">5.2. There  had  been  more  serious  charges,  which  were  dropped.  See  (i)  written
+                    submissions  of  the  prosecution  dated  18  April  2016  [5.1/200/F1278-F1284]  at
+                    para 7: (cid:179)the two other charges having been withdrawn and the plea having been
+                    proposed  at  an  earlier  time(cid:171)(cid:180)  F1279  and  (ii)  the  written  submissions  of  Ms
+                    Hea(cid:85)d(cid:182)(cid:86)
+                    the  same  date
+                    [5.1/200/F1288]. Further, as those submissions on M(cid:86) Hea(cid:85)d(cid:182)(cid:86) behalf made clear,
+                    she was relying on a mistake and that staff had obtained permission for the dogs;
+                    the  Court  is  invited  to  read  para  8  of  those  submissions  in  full  [F1289].  Her
+                    submissions continued: (cid:179)The details of her belief and the bases for it are described
+                    in the sworn declaration of Ms Heard. It is supported by the sworn declaration by
+                    Kevin Murph(cid:92), who is the estate manager for Ms Heard(cid:182)s husband, Mr Depp. The
+                    Crown  does  not  challenge  this  evidence.(cid:180)  That  is  a  reference  to  M(cid:86)  Hea(cid:85)d(cid:182)(cid:86)
+                    affida(cid:89)i(cid:87) and M(cid:85) M(cid:88)(cid:85)(cid:83)h(cid:92)(cid:182)(cid:86) decla(cid:85)a(cid:87)ion da(cid:87)ed 13 Oc(cid:87)obe(cid:85) 2015 [5.1/201(a)/F1303.1-
+                    2]  </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_9aaf63a412534537b472b5f5e8e6ddf0.pdf#page=30" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline time label -->
+              <div class="time-label">
+                <span class="bg-blue">May 2016</span>
+              </div>
+              <!-- /.timeline-label -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">May 2016</a></h3>
+                  <div class="timeline-body">of May 2016. </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_9aaf63a412534537b472b5f5e8e6ddf0.pdf#page=15" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">May 2016</a></h3>
+                  <div class="timeline-body">28 May 2016 at 6/148E/894.257 (cid:177) F894.259 which Ms Heard states (cid:90)e(cid:85)e (cid:179)photos </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_9aaf63a412534537b472b5f5e8e6ddf0.pdf#page=24" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">May 2016</a></h3>
+                  <div class="timeline-body">Sun having previously published (a) an article in May 2016, in which it had reported </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_9aaf63a412534537b472b5f5e8e6ddf0.pdf#page=17" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">May 21, 2016</a></h3>
+                  <div class="timeline-body">14. Fourteenth Incident: May 21, 2016 at the Eastern Columbia (Re-AmDef �8(d)-(l)) </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_9aaf63a412534537b472b5f5e8e6ddf0.pdf#page=23" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">26  May  2016</a></h3>
+                  <div class="timeline-body">26  May  2016  and  (cid:177)  where  they  have  given  evidence  (cid:177)  references  to  where  that </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_9aaf63a412534537b472b5f5e8e6ddf0.pdf#page=13" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">27 MAY 2016</a></h3>
+                  <div class="timeline-body">________________________________________________________________
+                    ANNEX E (cid:55)O CLAIMAN(cid:55)(cid:182)(cid:54) CLO(cid:54)ING (cid:54)KELETON (cid:177)
+                    CON(cid:54)IDERA(cid:55)ION OF M(cid:54) HEARD(cid:182)(cid:54) E(cid:57)IDENCE A(cid:55)(cid:55)ENDANCE A(cid:55) (cid:55)HE
+                    COURTHOUSE ON 27 MAY 2016
+                    ________________________________________________________________ </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_9aaf63a412534537b472b5f5e8e6ddf0.pdf#page=36" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">27  May  2016</a></h3>
+                  <div class="timeline-body">1.  It  was  put  to Ms  Heard  that  her  attendance  at  the  Courthouse  on  27  May  2016
+                    was a publicity stunt  (cid:177) her attendance being unnecessary (See Transcript, DAY
+                    12, pages 1991-2 of the Transcript):  </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_9aaf63a412534537b472b5f5e8e6ddf0.pdf#page=36" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">28 May 2016</a></h3>
+                  <div class="timeline-body">28 May 2016 at 6/148E/894.257 (cid:177) F894.259 which Ms Heard states (cid:90)e(cid:85)e (cid:179)photos </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_9aaf63a412534537b472b5f5e8e6ddf0.pdf#page=24" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline time label -->
+              <div class="time-label">
+                <span class="bg-blue">Jun. 2016</span>
+              </div>
+              <!-- /.timeline-label -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">17 June 2016</a></h3>
+                  <div class="timeline-body">4.  The  form  requesting  a  Temporary  Restraining  Order  was  completed  on  Ms
+                    Heard(cid:182)s behalf on 26 Ma(cid:92) 2016. It states, in terms, that upon granting or refusing
+                    the TRO application, the Court will schedule a hearing on the petitioner(cid:182)s request
+                    (see  Section  25  of Form  DV-100  [4/111/F646]). The  next form  in  the  procedure
+                    (DV-109) shows, at Section 4, that any orders granted on the initial request are
+                    granted  (or  refused)  until  the  court  hearing  [4/111/F667].  Section  5  [on  F668]
+                    makes  it  clear  that  any  order  made  on  filing  the  application  is  made  until  the
+                    hearing. The hearing was listed for 17 June 2016 [4/112/F677].  </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_9aaf63a412534537b472b5f5e8e6ddf0.pdf#page=37" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline time label -->
+              <div class="time-label">
+                <span class="bg-blue">Jul. 2016</span>
+              </div>
+              <!-- /.timeline-label -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">18 July 2016</a></h3>
+                  <div class="timeline-body">66. In short, the contents of the deposition of Officer Saenz on 18 July 2016 [3/87/F43-</div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_9aaf63a412534537b472b5f5e8e6ddf0.pdf#page=14" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">18 July 2016</a></h3>
+                  <div class="timeline-body">66. In short, the contents of the deposition of Officer Saenz on 18 July 2016 [3/87/F43-</div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_9aaf63a412534537b472b5f5e8e6ddf0.pdf#page=14" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">28 July 2016</a></h3>
+                  <div class="timeline-body">proceedings  and that in respect of the 28 July 2016  deposition, Mr  Harrell  was </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_9aaf63a412534537b472b5f5e8e6ddf0.pdf#page=15" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">28 July
+
+                    2016</a></h3>
+                  <div class="timeline-body">nan</div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_9aaf63a412534537b472b5f5e8e6ddf0.pdf#page=15" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline time label -->
+              <div class="time-label">
+                <span class="bg-blue">Aug. 2016</span>
+              </div>
+              <!-- /.timeline-label -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">August 2016</a></h3>
+                  <div class="timeline-body">she was deposed in August 2016. But her account of her injuries  were inconsistent </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_9aaf63a412534537b472b5f5e8e6ddf0.pdf#page=11" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">17 August 2016</a></h3>
+                  <div class="timeline-body">that there was no evidence warranting a report of a crime and (b) on 17 August 2016 </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_9aaf63a412534537b472b5f5e8e6ddf0.pdf#page=17" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline time label -->
+              <div class="time-label">
+                <span class="bg-blue">Mar. 2017</span>
+              </div>
+              <!-- /.timeline-label -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">March 2017</a></h3>
+                  <div class="timeline-body">2 In March 2017, HHJ Parkes QC sitting as a Deputy High Court Judge in Lisle-Mainwaring v ANL [2017]
+                    EWHC 543 (QB) observed at [62] (cid:179)I(cid:87) ha(cid:86) (cid:81)(cid:82)(cid:90) bec(cid:82)me c(cid:82)(cid:81)(cid:89)e(cid:81)(cid:87)i(cid:82)(cid:81)al (cid:87)(cid:82) (cid:85)ec(cid:82)g(cid:81)i(cid:86)e a (cid:181)ceili(cid:81)g(cid:182) f(cid:82)(cid:85) ge(cid:81)e(cid:85)al
+                    damages in defamation, which broadly corresponds to the maximum level of damages for pain, suffering
+                    and loss of amenity in personal injury cases. That figure now appears to be of the order of �300,000
+                    (see Cairns v Modi at [25] and Simmons v Castle (No.2) [2012] EWCA Civ 1288, [2013] EMLR 4 )(cid:180) </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_9aaf63a412534537b472b5f5e8e6ddf0.pdf#page=17" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline time label -->
+              <div class="time-label">
+                <span class="bg-blue">Jun. 2019</span>
+              </div>
+              <!-- /.timeline-label -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">21 June 2019</a></h3>
+                  <div class="timeline-body">
+                    The  so-ca(cid:79)(cid:79)ed  (cid:179)Pa(cid:76)(cid:81)(cid:87)(cid:76)(cid:81)(cid:74)  I(cid:81)c(cid:76)de(cid:81)(cid:87)(cid:180)  (cid:82)(cid:85)  I(cid:81)c(cid:76)de(cid:81)(cid:87)  T(cid:90)(cid:82)  c(cid:75)a(cid:81)(cid:74)ed  (cid:85)ad(cid:76)ca(cid:79)(cid:79)(cid:92)  a(cid:81)d  on  multiple
+                    occasions in these proceedings.  The Court heard the shifting testimony at trial, but the
+                    distance  travelled  since  it  was  first  raised  is  extraordinary.  This  is  relied  upon  by  the
+                    C(cid:79)a(cid:76)(cid:80)a(cid:81)(cid:87) (cid:87)(cid:82) (cid:86)(cid:75)(cid:82)(cid:90) (cid:87)(cid:75)a(cid:87) M(cid:86) Hea(cid:85)d(cid:182)(cid:86) (cid:87)e(cid:86)(cid:87)(cid:76)(cid:80)(cid:82)(cid:81)(cid:92) (a(cid:81)d M(cid:86) W(cid:75)(cid:76)(cid:87)(cid:81)e(cid:92) He(cid:81)(cid:85)(cid:76)(cid:84)(cid:88)e(cid:86)(cid:182)(cid:86) (cid:87)e(cid:86)(cid:87)(cid:76)(cid:80)(cid:82)(cid:81)(cid:92) (cid:76)(cid:81)
+                    support) cannot be relied upon.
+
+
+                    21 June 2019
+                  </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_9aaf63a412534537b472b5f5e8e6ddf0.pdf#page=25" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline time label -->
+              <div class="time-label">
+                <span class="bg-blue">Dec. 2019</span>
+              </div>
+              <!-- /.timeline-label -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">12 December 2019</a></h3>
+                  <div class="timeline-body">12 December 2019
+                  </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_9aaf63a412534537b472b5f5e8e6ddf0.pdf#page=26" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">15 December 2019</a></h3>
+                  <div class="timeline-body">
+                    15 December 2019
+                  </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_9aaf63a412534537b472b5f5e8e6ddf0.pdf#page=26" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline time label -->
+              <div class="time-label">
+                <span class="bg-blue">Mar. 2020</span>
+              </div>
+              <!-- /.timeline-label -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">6 March 2020</a></h3>
+                  <div class="timeline-body">
+                    6 March 2020
+                  </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_9aaf63a412534537b472b5f5e8e6ddf0.pdf#page=26" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">20
+
+                    March 2020</a></h3>
+                  <div class="timeline-body">nan</div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_9aaf63a412534537b472b5f5e8e6ddf0.pdf#page=17" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline time label -->
+              <div class="time-label">
+                <span class="bg-blue">Jun. 2020</span>
+              </div>
+              <!-- /.timeline-label -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">June 2020</a></h3>
+                  <div class="timeline-body">
+                    20th June 2020
+                  </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_9aaf63a412534537b472b5f5e8e6ddf0.pdf#page=26" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">24 June 2020</a></h3>
+                  <div class="timeline-body">On or around 24 June 2020 </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_9aaf63a412534537b472b5f5e8e6ddf0.pdf#page=26" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">26.6.20</a></h3>
+                  <div class="timeline-body">extremely serious alleged assault: AH 5th WS of 26.6.20, Confidential Schedule </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_9aaf63a412534537b472b5f5e8e6ddf0.pdf#page=12" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline time label -->
+              <div class="time-label">
+                <span class="bg-blue">Jul. 2020</span>
+              </div>
+              <!-- /.timeline-label -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">July 2020</a></h3>
+                  <div class="timeline-body">12. The  Claimant  disclosed  an  email  between  the  him  and  Jane  Rose  of  20  March
+                    2013 (cid:177) 8/63(a)/I1.1 This email demonstrates that Ms Heard first met Keith Richards
+                    on evening of 20 March.
+
+                    4th July 2020
+                  </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_9aaf63a412534537b472b5f5e8e6ddf0.pdf#page=26" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">July 2020</a></h3>
+                  <div class="timeline-body">March 2013. The Claimant also disclosed an undated photograph of Ms Heard with
+                    Ia(cid:81) McLa(cid:74)a(cid:81), Ke(cid:76)(cid:87)(cid:75) R(cid:76)c(cid:75)a(cid:85)d(cid:86)(cid:182) (cid:78)e(cid:92)b(cid:82)a(cid:85)d (cid:83)(cid:79)a(cid:92)e(cid:85).
+
+                    6th July 2020
+                  </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_9aaf63a412534537b472b5f5e8e6ddf0.pdf#page=27" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">July 2020</a></h3>
+                  <div class="timeline-body">12. The  Claimant  disclosed  an  email  between  the  him  and  Jane  Rose  of  20  March
+                    2013 (cid:177) 8/63(a)/I1.1 This email demonstrates that Ms Heard first met Keith Richards
+                    on evening of 20 March.
+
+                    4th July 2020
+                  </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_9aaf63a412534537b472b5f5e8e6ddf0.pdf#page=26" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">10 July 2020</a></h3>
+                  <div class="timeline-body">Friday 10 July 2020 (22:15)
+                  </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_9aaf63a412534537b472b5f5e8e6ddf0.pdf#page=27" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">17 July 2020</a></h3>
+                  <div class="timeline-body">relies upon his evidence as hearsay (Claimant(cid:182)s Hearsa(cid:92) Notice, 17 July 2020). </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_9aaf63a412534537b472b5f5e8e6ddf0.pdf#page=14" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+
+            </div>
+          </div>
+          <!-- /.col -->
+        </div>
+      </div>
+      <!-- /.timeline -->
+
+    </section>
+    <!-- /.content -->
+  </div>
+  <!-- /.content-wrapper -->
+  <footer class="main-footer">
+    <strong>Made with <a href="https://adminlte.io">AdminLTE.io</a>.</strong>
+    <div class="float-right d-none d-sm-inline-block">
+      <b>Version</b> 3.2.0
+    </div>
+  </footer>
+
+  <!-- Control Sidebar -->
+  <aside class="control-sidebar control-sidebar-dark">
+    <!-- Control sidebar content goes here -->
+  </aside>
+  <!-- /.control-sidebar -->
+</div>
+<!-- ./wrapper -->
+
+<!-- jQuery -->
+<script src="../../plugins/jquery/jquery.min.js"></script>
+<!-- Bootstrap 4 -->
+<script src="../../plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
+<!-- AdminLTE App -->
+<script src="../../dist/js/adminlte.min.js"></script>
+</body>
+</html>

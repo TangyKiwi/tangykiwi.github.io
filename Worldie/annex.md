@@ -1,0 +1,3512 @@
+---
+permalink: /annex.md
+---
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Worldie | Depp vs. NGN</title>
+
+  <!-- Google Font: Source Sans Pro -->
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback">
+  <!-- Font Awesome -->
+  <link rel="stylesheet" href="plugins/fontawesome-free/css/all.min.css">
+  <!-- AdminLTE css -->
+  <link rel="stylesheet" href="dist/css/adminlte.min.css">
+</head>
+<body class="hold-transition sidebar-mini layout-fixed">
+<div class="wrapper">
+
+  <!-- Preloader -->
+<!--  <div class="preloader flex-column justify-content-center align-items-center">-->
+<!--    <img src="dist/img/worldie_logo.png" alt="worldie_logo" height="169" width="500">-->
+<!--    <img class="image" src="dist/img/loading.gif" alt="loading_gif" height="75" width="75">-->
+<!--  </div>-->
+
+  <!-- Main Sidebar Container -->
+  <aside class="main-sidebar sidebar-light-primary elevation-4">
+    <!-- Brand Logo -->
+    <a href="annex.md" class="brand-link">
+      <img src="dist/img/worldie_logo.png" alt="worldie_logo" class="brand-image img-circle elevation-3" style="opacity: .8">
+      <span class="brand-text font-weight-light">Depp vs. NGN</span>
+    </a>
+
+    <!-- Sidebar -->
+    <div class="sidebar">
+      <!-- Sidebar Menu -->
+      <nav class="mt-2">
+        <ul class="nav nav-pills nav-sidebar flex-column" data-widget="treeview" role="menu" data-accordion="false">
+          <!-- Add icons to the links using the .nav-icon class
+               with font-awesome or any other icon font library -->
+          <li class="nav-item menu-open">
+            <a href="#" class="nav-link active">
+              <i class="nav-icon fas fa-tachometer-alt"></i>
+              <p>
+                Timelines
+                <i class="right fas fa-angle-left"></i>
+              </p>
+            </a>
+            <ul class="nav nav-treeview">
+              <li class="nav-item">
+                <a href="./annex.md" class="nav-link active">
+                  <i class="far fa-check-circle nav-icon"></i>
+                  <p>Annex</p>
+                </a>
+              </li>
+              <li class="nav-item">
+                <a href="claimant.md" class="nav-link">
+                  <i class="far fa-circle nav-icon"></i>
+                  <p>Claimant</p>
+                </a>
+              </li>
+              <li class="nav-item">
+                <a href="defendant.md" class="nav-link">
+                  <i class="far fa-circle nav-icon"></i>
+                  <p>Defendant</p>
+                </a>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </nav>
+      <!-- /.sidebar-menu -->
+    </div>
+    <!-- /.sidebar -->
+  </aside>
+
+  <!-- Content Wrapper. Contains page content -->
+  <div class="content-wrapper">
+    <!-- Content Header (Page header) -->
+    <div class="content-header">
+      <div class="container-fluid">
+        <div class="row mb-2">
+          <div class="col-sm-6">
+            <h1 class="m-0">Annex Timeline</h1>
+          </div><!-- /.col -->
+        </div><!-- /.row -->
+      </div><!-- /.container-fluid -->
+    </div>
+    <!-- /.content-header -->
+
+    <!-- Main content -->
+    <section class="content">
+      <div class="container-fluid">
+
+        <!-- Timelime example  -->
+        <div class="row">
+          <div class="col-md-12">
+            <!-- The time line -->
+            <div class="timeline">
+              <!-- timeline time label -->
+              <div class="time-label">
+                <span class="bg-blue">May 2011</span>
+              </div>
+              <!-- /.timeline-label -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">May
+                    11</a></h3>
+                  <div class="timeline-body">P.1387
+                    10 You were asked questions about May
+                    11          22nd.
+
+                    12      A.  Yes.
+
+                    13      Q.  Let me ask you this.  You explained to Ms. Wass, when she
+                    14          asked you whether you had ever seen Ms. Heard leave the
+                    15          building without makeup, you thought for a little while and
+                    16          you said, yes, you had seen her.  Do you remember that?
+
+                    17      A.  Yes.
+
+                    18      Q.  On that day, on 22nd May, did you see Ms. Heard leave the
+                    19          building as soon as you spoke to her?
+
+                    20      A.  Oh, no.  She was, this was -- no, I left.  I left the scene.
+
+                    21      Q.  Do you know whether Ms. Heard, if she put on makeup, put on
+                    22          makeup in the car or anywhere else that day?
+
+                    23      A.  No, I would have no clue.
+
+                    P.1388
+
+                    4      Q.  You say in your witness statement, just summarising, that you
+                    5          saw her up close on May 22nd, you saw her up close again on
+                    6          May 23rd, you saw her up close also on May 24th, and you saw
+                    7          her up close again on either the 25th, you think, or even
+                    8          maybe the 26th, but you are not entirely sure; is that
+                    9          correct?
+
+                    10      A.  Sunday, Monday, Tuesday, Wednesday.  Sunday, the first
+                    11          interaction.  Monday, her knocking on my door for me to take
+                    12          the key, to see if I would take the key to let Hilda in to
+                    13          clean the apartment.  That is Monday.  Tuesday, twice, her </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_02c32292979f45da962280c334bc5815.pdf#page=216" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline time label -->
+              <div class="time-label">
+                <span class="bg-blue">Mar. 2013</span>
+              </div>
+              <!-- /.timeline-label -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">March 2013</a></h3>
+                  <div class="timeline-body">    19          marks or swellings."
+
+                    20      A.  That is correct.
+
+                    21      Q.  How certain are you about that?
+
+                    22      A.  100%.
+
+                    23      Q.  Now, you had known Ms. Heard for some time by May 2016, had
+                    24          you not?
+
+                    25      A.  Since March 2016, I mean 2013.
+
+                    P.1372
+
+                    2      Q.  2013.  They moved in in March 2013, so you had known her three
+                    3          years and two months; yes?
+
+                    4      A.  Is that how long that is?
+
+                    5      Q.  13 ----
+
+                    6      A.  From March 2013, from March 2013 is when I first met her, in
+                    7          March 2013.
+
+                    8      Q.  I understand.  Have you ever known her to go out to a party
+                    9          without makeup on?
+
+                    10      A.  I would not know that.
+
+                    20      MS. WASS:  Yes.  Mr. Baruch, I asked you, having known Ms. Heard
+                    21          for three years and a bit, whether you had ever known her go
+                    22          to a party or to an outside event without being made up;
+                    23          I think you said you could not say that.
+
+                    24      THE WITNESS:  Yes, I would not know that.  I do not know how many
+                    25          parties she went to.  I do not know, you know, if every time
+
+                    P.1373
+
+                    2          she went to a party.  So, I could not tell you.
+
+                    But when
+                    12          you have known that she has been going to a party, have you
+                    13          ever seen her without makeup?
+
+                    14      A.  Any time that I saw her go to an event, that she was decked
+                    15          out in, she had makeup on.
+
+                    16      MS. WASS:  Had you ever known her leave the apartment block and go
+                    17          to a public place without wearing makeup?
+
+                    18      A.  (Pause) I do not know.  Yes.  Yes.
+
+                  </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_02c32292979f45da962280c334bc5815.pdf#page=215" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">March 2013</a></h3>
+                  <div class="timeline-body">
+                    8      A.  On my shoulder up here, yes.
+
+                    9      Q.  Visible or not visible?
+
+                    10      A.  Visible if I have no sleeves or if my shirt is off.
+
+                    11      Q.  When did you get the tattoo changed from "Winona" to "wino
+                    12          forever", was it the beginning of 2013?
+
+                    13      A.  No, sir.  The tattoo was altered in about 1993.
+
+                    14      Q.  1993?
+
+                    15      A.  Yes.
+
+                    16      Q.  So, throughout your relationship in the 18 months or so before
+                    17          2013, that is the incident we are talking about, the tattoo
+                    18          had always read "wino forever"; yes or no?
+
+                    19      A.  Yes, that is correct.
+
+                    20      Q.  Was March 2013 the first time Ms. Heard had ever seen your
+                    21          tattoo?
+
+                    22      A.  No, sir.
+                  </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_02c32292979f45da962280c334bc5815.pdf#page=3" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">March 2013</a></h3>
+                  <div class="timeline-body">
+                    8      A.  On my shoulder up here, yes.
+
+                    9      Q.  Visible or not visible?
+
+                    10      A.  Visible if I have no sleeves or if my shirt is off.
+
+                    11      Q.  When did you get the tattoo changed from "Winona" to "wino
+                    12          forever", was it the beginning of 2013?
+
+                    13      A.  No, sir.  The tattoo was altered in about 1993.
+
+                    14      Q.  1993?
+
+                    15      A.  Yes.
+
+                    16      Q.  So, throughout your relationship in the 18 months or so before
+                    17          2013, that is the incident we are talking about, the tattoo
+                    18          had always read "wino forever"; yes or no?
+
+                    19      A.  Yes, that is correct.
+
+                    20      Q.  Was March 2013 the first time Ms. Heard had ever seen your
+                    21          tattoo?
+
+                    22      A.  No, sir.
+                  </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_02c32292979f45da962280c334bc5815.pdf#page=3" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">March 2013</a></h3>
+                  <div class="timeline-body">Incident 2: The Painting Incident/ Keith Richards Incident, March 2013
+                  </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_02c32292979f45da962280c334bc5815.pdf#page=4" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">March 2013</a></h3>
+                  <div class="timeline-body">18      Q.  And there was a date in March 2013 when you were extremely </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_02c32292979f45da962280c334bc5815.pdf#page=7" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">March 2013</a></h3>
+                  <div class="timeline-body">P.1792
+
+                    2      MS. LAWS:  I think there is an e-mail exchange which I can go to
+                    3          which indicates that Keith Richards was looking forward to
+                    4          seeing you.  That was on 20th March.  Is this you in the
+                    5          photograph with Mr. Richards?
+
+                    6      A.  Yes, it is.
+
+                    7      MR. JUSTICE NICOL:  Just a minute.  (Pause) Which one are you,
+                    8          please?
+
+                    9      A.  I am in between Johnny and Keith.  That is my sister next to
+                    10          Keith.
+
+                    11      MR. JUSTICE NICOL:  Yes.
+
+                    12      MS. LAWS:  Do you agree that there is absolutely no injury on your
+                    13          face in this photograph?
+
+                    14      A.  I cannot tell in this photograph.
+
+                    15      Q.  When do you say the incident took place?  Are you sticking
+                    16          with 23rd March?
+
+                    17      MR. JUSTICE NICOL:  22nd March.
+
+                    18      MS. LAWS:  22nd March, sorry.  Are you sticking with that date,
+                    19          22nd March?
+
+                    20      A.  For the painting incident or the one that we called disco
+                    21          bloodbath?
+
+                    22      Q.  The painting incident where you say you went to Keith
+                    23          Richards' filming?
+
+                    24      A.  The painting incident took place on the 22nd.
+
+                    25      MR. JUSTICE NICOL:  22nd March 2013?
+
+                    P.1793
+
+                    2      A.  Yes, exactly.
+
+                    3      MS. LAWS:  Does this photograph show you before or after you were
+                    4          hit by Mr. Depp?
+                  </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_02c32292979f45da962280c334bc5815.pdf#page=12" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">March 2013</a></h3>
+                  <div class="timeline-body">     7      A.  The 22nd.
+
+                    8      Q.  22nd March, 2013?
+
+                    9      A.  Yes.
+
+                    10      Q.  Thank you very much indeed.  As far as the painting incident
+                    11          was concerned, what you said in your original statement was
+                    12          that after the arguments, there was an episode of filming on
+                    13          that date?
+
+                    14      A.  Yes, that is correct.
+
+                    15      Q.  With Keith Richards?
+
+                    16      A.  Yes.
+
+                    17      Q.  Was that the only date in March 2013 when there was filming
+                    18          with Keith Richards?
+
+                    P.2033
+
+                    8      MS. WASS:  How many incidents were there in March 2013 which
+                    9          involved filming a documentary with Keith Richards?
+
+                    10      A.  At least three.
+
+                    P.2052
+                    6      Q.  Mr. Depp accepts in his evidence that there was an occasion at
+                    7          Orange Avenue when he politely, he says, asked you to remove a
+                    8          painting done by Tasya van Ree which was on your bedroom wall.
+
+                    9          Do you remember that part of the evidence?
+
+                    10      A.  I remember him saying that.
+
+                    11      Q.  Was it one of those two paintings that we see in those two
+                    12          documents in the trial bundle?
+
+                    13      A.  Well, he defaced both and was upset about ----
+
+                    14      MR. JUSTICE NICOL:  No no.  The question was whether you were able
+                    15          to say whether the painting that Mr. Depp asked you to remove
+                    16          was one of these two paintings.
+
+                    17      A.  Well, he did ask me to remove both of them, the one we have
+                    18          been talking about the burning is the one that is part of the
+                    19          text message screen grab between Mr. Hop, Johnny, and my
+                    20          sister.
+                  </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_02c32292979f45da962280c334bc5815.pdf#page=20" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">March 2013</a></h3>
+                  <div class="timeline-body">     7      A.  The 22nd.
+
+                    8      Q.  22nd March, 2013?
+
+                    9      A.  Yes.
+
+                    10      Q.  Thank you very much indeed.  As far as the painting incident
+                    11          was concerned, what you said in your original statement was
+                    12          that after the arguments, there was an episode of filming on
+                    13          that date?
+
+                    14      A.  Yes, that is correct.
+
+                    15      Q.  With Keith Richards?
+
+                    16      A.  Yes.
+
+                    17      Q.  Was that the only date in March 2013 when there was filming
+                    18          with Keith Richards?
+
+                    P.2033
+
+                    8      MS. WASS:  How many incidents were there in March 2013 which
+                    9          involved filming a documentary with Keith Richards?
+
+                    10      A.  At least three.
+
+                    P.2052
+                    6      Q.  Mr. Depp accepts in his evidence that there was an occasion at
+                    7          Orange Avenue when he politely, he says, asked you to remove a
+                    8          painting done by Tasya van Ree which was on your bedroom wall.
+
+                    9          Do you remember that part of the evidence?
+
+                    10      A.  I remember him saying that.
+
+                    11      Q.  Was it one of those two paintings that we see in those two
+                    12          documents in the trial bundle?
+
+                    13      A.  Well, he defaced both and was upset about ----
+
+                    14      MR. JUSTICE NICOL:  No no.  The question was whether you were able
+                    15          to say whether the painting that Mr. Depp asked you to remove
+                    16          was one of these two paintings.
+
+                    17      A.  Well, he did ask me to remove both of them, the one we have
+                    18          been talking about the burning is the one that is part of the
+                    19          text message screen grab between Mr. Hop, Johnny, and my
+                    20          sister.
+                  </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_02c32292979f45da962280c334bc5815.pdf#page=20" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">March 2013</a></h3>
+                  <div class="timeline-body">Ms Pennington�s vague account of what she allegedly saw in March 2013 was unconvincing.
+                  </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_02c32292979f45da962280c334bc5815.pdf#page=104" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">March 2013</a></h3>
+                  <div class="timeline-body">    19          marks or swellings."
+
+                    20      A.  That is correct.
+
+                    21      Q.  How certain are you about that?
+
+                    22      A.  100%.
+
+                    23      Q.  Now, you had known Ms. Heard for some time by May 2016, had
+                    24          you not?
+
+                    25      A.  Since March 2016, I mean 2013.
+
+                    P.1372
+
+                    2      Q.  2013.  They moved in in March 2013, so you had known her three
+                    3          years and two months; yes?
+
+                    4      A.  Is that how long that is?
+
+                    5      Q.  13 ----
+
+                    6      A.  From March 2013, from March 2013 is when I first met her, in
+                    7          March 2013.
+
+                    8      Q.  I understand.  Have you ever known her to go out to a party
+                    9          without makeup on?
+
+                    10      A.  I would not know that.
+
+                    20      MS. WASS:  Yes.  Mr. Baruch, I asked you, having known Ms. Heard
+                    21          for three years and a bit, whether you had ever known her go
+                    22          to a party or to an outside event without being made up;
+                    23          I think you said you could not say that.
+
+                    24      THE WITNESS:  Yes, I would not know that.  I do not know how many
+                    25          parties she went to.  I do not know, you know, if every time
+
+                    P.1373
+
+                    2          she went to a party.  So, I could not tell you.
+
+                    But when
+                    12          you have known that she has been going to a party, have you
+                    13          ever seen her without makeup?
+
+                    14      A.  Any time that I saw her go to an event, that she was decked
+                    15          out in, she had makeup on.
+
+                    16      MS. WASS:  Had you ever known her leave the apartment block and go
+                    17          to a public place without wearing makeup?
+
+                    18      A.  (Pause) I do not know.  Yes.  Yes.
+
+                  </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_02c32292979f45da962280c334bc5815.pdf#page=215" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">March 2013</a></h3>
+                  <div class="timeline-body">    19          marks or swellings."
+
+                    20      A.  That is correct.
+
+                    21      Q.  How certain are you about that?
+
+                    22      A.  100%.
+
+                    23      Q.  Now, you had known Ms. Heard for some time by May 2016, had
+                    24          you not?
+
+                    25      A.  Since March 2016, I mean 2013.
+
+                    P.1372
+
+                    2      Q.  2013.  They moved in in March 2013, so you had known her three
+                    3          years and two months; yes?
+
+                    4      A.  Is that how long that is?
+
+                    5      Q.  13 ----
+
+                    6      A.  From March 2013, from March 2013 is when I first met her, in
+                    7          March 2013.
+
+                    8      Q.  I understand.  Have you ever known her to go out to a party
+                    9          without makeup on?
+
+                    10      A.  I would not know that.
+
+                    20      MS. WASS:  Yes.  Mr. Baruch, I asked you, having known Ms. Heard
+                    21          for three years and a bit, whether you had ever known her go
+                    22          to a party or to an outside event without being made up;
+                    23          I think you said you could not say that.
+
+                    24      THE WITNESS:  Yes, I would not know that.  I do not know how many
+                    25          parties she went to.  I do not know, you know, if every time
+
+                    P.1373
+
+                    2          she went to a party.  So, I could not tell you.
+
+                    But when
+                    12          you have known that she has been going to a party, have you
+                    13          ever seen her without makeup?
+
+                    14      A.  Any time that I saw her go to an event, that she was decked
+                    15          out in, she had makeup on.
+
+                    16      MS. WASS:  Had you ever known her leave the apartment block and go
+                    17          to a public place without wearing makeup?
+
+                    18      A.  (Pause) I do not know.  Yes.  Yes.
+
+                  </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_02c32292979f45da962280c334bc5815.pdf#page=215" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">7          March 2013</a></h3>
+                  <div class="timeline-body">    19          marks or swellings."
+
+                    20      A.  That is correct.
+
+                    21      Q.  How certain are you about that?
+
+                    22      A.  100%.
+
+                    23      Q.  Now, you had known Ms. Heard for some time by May 2016, had
+                    24          you not?
+
+                    25      A.  Since March 2016, I mean 2013.
+
+                    P.1372
+
+                    2      Q.  2013.  They moved in in March 2013, so you had known her three
+                    3          years and two months; yes?
+
+                    4      A.  Is that how long that is?
+
+                    5      Q.  13 ----
+
+                    6      A.  From March 2013, from March 2013 is when I first met her, in
+                    7          March 2013.
+
+                    8      Q.  I understand.  Have you ever known her to go out to a party
+                    9          without makeup on?
+
+                    10      A.  I would not know that.
+
+                    20      MS. WASS:  Yes.  Mr. Baruch, I asked you, having known Ms. Heard
+                    21          for three years and a bit, whether you had ever known her go
+                    22          to a party or to an outside event without being made up;
+                    23          I think you said you could not say that.
+
+                    24      THE WITNESS:  Yes, I would not know that.  I do not know how many
+                    25          parties she went to.  I do not know, you know, if every time
+
+                    P.1373
+
+                    2          she went to a party.  So, I could not tell you.
+
+                    But when
+                    12          you have known that she has been going to a party, have you
+                    13          ever seen her without makeup?
+
+                    14      A.  Any time that I saw her go to an event, that she was decked
+                    15          out in, she had makeup on.
+
+                    16      MS. WASS:  Had you ever known her leave the apartment block and go
+                    17          to a public place without wearing makeup?
+
+                    18      A.  (Pause) I do not know.  Yes.  Yes.
+
+                  </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_02c32292979f45da962280c334bc5815.pdf#page=215" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">23 March 2013</a></h3>
+                  <div class="timeline-body">     3      MS. LAWS:  Yes, it is the angle I am interested in.  Was the wall
+                    4          to your right, literally facing your face there or was it
+                    5          behind you?
+
+                    6      THE WITNESS:  I cannot quite recall exactly where the wall -- if
+                    7          that was the doorway, I was closer to the doorway, or if I was
+                    8          facing towards the wall, but I was facing towards the living
+                    9          room.
+
+                    10      Q.  What did the blood spatter look like?  You say you do not know
+                    11          how it happened, but what did it look like?  I am sure that
+                    12          was memorable.
+
+                    13      A.  To be honest, we made light of it.  It was remarkable because
+                    14          of the, of what had happened, but I was quick to make light of
+                    15          it.  I know that sounds hard to imagine, but I was so ready to
+                    16          believe that it would never happen again that we were quick to
+                    17          make light of it.
+
+                    18      Q.  There was no blood on the wall, which is why you cannot
+                    19          describe it in any way, is it not?
+
+                    20      A.  That is not true.
+
+
+                    Ms Heard�s account evolved further when she was shown a photograph of herself with Ian
+                    McLagan taken on 23 March 2013, but once again Ms Heard sought to cover herself by
+                    giving evidence that she might be able to see an injury on a photograph where she clearly
+                    had none.
+
+                    P.1809
+                    23      A.  I do not know his name.
+
+                    24      Q.  You do not know his name.  He is, and he is ----
+
+                    25      MR. JUSTICE NICOL:  Ian McLagan.
+
+                    P.1810
+                    2      MS. LAWS:  He is the guitarist for Keith Richards.
+
+                    3      THE WITNESS:  Oh yes, I am vaguely familiar with this.
+
+                    4      Q.  You are familiar with this photograph.  It shows you with a
+                    5          clear face, does it not?
+
+                    6      A.  What do you mean?
+
+                    7      Q.  No injury?
+
+                    8      A.  No, I cannot see an injury to my face.
+
+                    9      Q.  No injury at all on that?
+
+                    10      A.  I cannot really tell if my lip is bruised.
+                  </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_02c32292979f45da962280c334bc5815.pdf#page=16" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline time label -->
+              <div class="time-label">
+                <span class="bg-blue">Jun. 2013</span>
+              </div>
+              <!-- /.timeline-label -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">June 2013</a></h3>
+                  <div class="timeline-body">Incident 3: Hicksville, June 2013  </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_02c32292979f45da962280c334bc5815.pdf#page=26" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline time label -->
+              <div class="time-label">
+                <span class="bg-blue">May 2014</span>
+              </div>
+              <!-- /.timeline-label -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">May 2014</a></h3>
+                  <div class="timeline-body">DAY 7 (Cross-examination of Kate James)
+
+                    Ms James saw Ms Heard in the immediate aftermath of the plane journey in May 2014
+
+                    P.1224
+
+                    23      Q.  Do you remember contacting Ms. Heard after she had returned on
+                    24          a plane journey from Boston, having travelled from New York,
+                    25          where she was filming The Adderall Diaries with James Franco?
+
+                    P.1225
+
+                    2      A.  I believe she contacted me first, ma'am.
+
+                    3      Q.  She contacted you.  What she says here ----
+
+                    4      A.  Yes.
+
+                    5      Q.  ---- in the text, and I will read it, is:  "I have to leave
+                    6          JD.  He's just freaked out on me.  He is drinking again.  It's
+                    7          bad, worse than ever.  I need out. ...(reads to the words)...
+                    8          Please, Stephen will help arrange".  Then, the next text
+                    9          reads: "Also, can you please see if you can redirect all of
+                    10          his texts to me to Whitney's phone, or just block him
+                    11          entirely.  I need to make this move".  Having seen those
+                    12          texts, are you reminded about -- (Pause) Are you reminded
+                    13          about what the subject-matter was?
+
+                    14      A.  Yes, I remember the day very clearly, trust me.
+
+                    15      Q.  Ms. Heard went to stay in a hotel?
+
+                    16      A.  I do not know why because she had an apartment, but yes.
+
+                    17      Q.  She had an apartment that she was sharing with Mr. Depp in the
+                    18          Eastern Columbia Building?
+
+                    19      A.  No, excuse me, ma'am, she had her own apartment that was still
+                    20          being paid for and maintained by Mr. Depp, which was on Orange
+                    21          Avenue.  You may have heard of that apartment before.
+
+                    22      Q.  We have heard of that apartment.  I suggest ----
+
+                    23      A.  That apartment was still fully functioning and liveable, so I
+                    24          do not know why she went to The Chateau.
+
+                    25      Q.  She did go to The Chateau, as you call it, the hotel?
+
+                    P.1226
+
+                    2      A.  Yes, she went to The Chateau with four of her friends and they
+                    3          basically had a pool party all day.
+
+                    4      Q.  She had friends who were supporting her in a traumatic event?
+                  </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_02c32292979f45da962280c334bc5815.pdf#page=53" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">May 2014</a></h3>
+                  <div class="timeline-body">     7      A.  You know, of that ilk.  It could cause quite unpleasant
+                    8          feeling in that area.  It could be that.  I do not know
+                    9          specifically.  I could not say specifically.
+
+                    10      Q.  We are on our way to 80, that is 80 Sweetzer Avenue, is that
+                    11          right, where he had a property in Hollywood?
+
+                    12      A.  Yes.
+
+                    13      Q.  Over the page, you carry on: "He has been sick.  We are going
+                    14          to get him straight to bed"?
+
+                    15      A.  Yes.
+
+                    16      Q.  Is that just tummy ache?
+
+                    17      A.  I mean, I cannot recall specifically.
+
+                    18      Q.  Or do you think, having seen what he said he had drunk and
+                    19          imbibed by way of controlled drugs, he might have just
+                    20          overdone it, and that is what made him ill?
+
+                    21      A.  It is possible, yes.
+
+                    22      Q.  That is possible as well?
+
+                    23      MR. JUSTICE NICOL:  Just a minute.  (Pause) By "overdone it", do
+                    24          you mean that he was drunk?
+
+                    25      A.  The behaviour was not the behaviour of a drunkard, but
+
+                    P.778
+
+                    2          nevertheless, the consumption, as you said, because of the
+                    3          consumption, it could be, you know, quite impressive, if you
+                    4          will, and it could be a cause of that, yes.  So, not
+                    5          necessarily behavioural but physical, yes.
+
+                    Mr Deuters rejected the description set out in Ms Heard�s email to herself which he was taken
+                    to
+
+                    P.778
+                    16      Q.  This is another e-mail from Ms. Heard to herself, but dated
+                    17          25th May 2014 at 11.32 p.m; all right?
+
+                    18      A.  Yes.
+
+                    19      Q.  That is what the date is recorded as?
+
+                    20      A.  Yes.
+
+                    21      Q.  It reads as follows, and I am going to ask you about whether
+                    22          you recognise the events that she is describing in case
+
+                    P.779 </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_02c32292979f45da962280c334bc5815.pdf#page=42" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline time label -->
+              <div class="time-label">
+                <span class="bg-blue">Aug. 2014</span>
+              </div>
+              <!-- /.timeline-label -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">August 2014</a></h3>
+                  <div class="timeline-body">     5      A.  And drinking and swimming and sunbathing and having fun.
+
+
+                    Incident 5: Bahamas Detox, August 2014 </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_02c32292979f45da962280c334bc5815.pdf#page=54" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">August 2014</a></h3>
+                  <div class="timeline-body">
+                    P.621
+                    20      Q.  Does your Lordship have that?  If you look at the first text,
+                    21          let us set in context what this is.  You will see from Rocky
+                    22          to you:  "Steve, it's Rocky" -- Steve was the affectionate
+                    23          name that Ms. Heard used for you and you used "Slim" for her;
+                    24          that is right, is it not?
+
+                    25      A.  Yes.
+
+                    P.622
+                    2      Q.  "Happy birthday dear sweet friend" -- this is from Rocky to
+                    3          you -- "changed my life, I'm so grateful you're in the world.
+                    4          Hope you have a wonderful day."  It is quite clear from the
+                    5          response:  "I am happy you are happy, doll, that's all that
+                    6          matters.  Slim and I just fucking adore you."  You are with
+                    7          Ms. Heard?
+
+                    8      A.  Yes.
+
+                    P.623
+                    7      Q.  If you look there, that is still 6th August 2014, and it is </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_02c32292979f45da962280c334bc5815.pdf#page=57" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline time label -->
+              <div class="time-label">
+                <span class="bg-blue">Sep. 2014</span>
+              </div>
+              <!-- /.timeline-label -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">September 2014</a></h3>
+                  <div class="timeline-body">The following month, September 2014, Mr Depp and Ms Heard were clearly going through a
+                    difficult time, but the documents show only Mr Depp hurting himself � and not attacking Ms
+                    Heard.
+                  </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_02c32292979f45da962280c334bc5815.pdf#page=57" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline time label -->
+              <div class="time-label">
+                <span class="bg-blue">Jan. 2015</span>
+              </div>
+              <!-- /.timeline-label -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">January 2015</a></h3>
+                  <div class="timeline-body">
+                    P.1928
+
+                    18      MS. LAWS:  My Lord, moving on to the Tokyo incident, incident 7,
+                    19          please, this is an allegation you make dated January 2015,
+                    20          where you say Mr. Depp slapped you, grabbed your hair, and
+                    21          yesterday we had a reference in your evidence that Mr. Depp,
+                    22          you say, knelt on your back and was hitting you.  Is that all
+                    23          true?
+
+                    24      A.  Yes.
+
+                    25      Q.  Did you attend a premier whilst in Tokyo?
+
+                    P.1929
+
+                    2      A.  Yes.
+
+                    3      Q.  At what point did you attend that premier -- before or after
+                    4          the assault?
+
+                    5      A.  Two days after.  I remember being concerned about any visible
+                    6          bruising on my back because my back was exposed.
+
+                    7      MR. JUSTICE NICOL:  Just a minute.  (Pause)
+
+                    8      MS. LAWS:  So the premier was two days after this assault?
+
+                    9      A.  I believe somewhere around there.
+
+                    10      Q.  Do you remember wearing a backless dress to that premier?
+
+                    11      A.  Very well.  Very well.
+                  </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_02c32292979f45da962280c334bc5815.pdf#page=63" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">January 2015</a></h3>
+                  <div class="timeline-body">DAY 4 (Re-examination of Mr Depp)
+
+                    Page 681
+
+                    17      Q.  That is in January 2015.  You explained that you were on a
+                    18          trip to Tokyo and that you went not only with Ms. Heard, but
+                    19          also with Lily-Rose, your daughter, and Jack?
+
+                    20      A.  That is correct.
+
+                    21      Q.  I think, to be fair, at that stage, I think Lily-Rose would
+                    22          have been 15 or 16 and Jack 12 or 13?
+
+                    23      A.  Somewhere around that.
+
+                    24      Q.  Do not worry.  You said they were sleeping in an adjoining
+                    25          room to yours and Ms. Heard's?
+
+                    Page 682
+                    2      A.  Yes.
+
+                    3      Q.  How do you remember the time in the hotel with the children
+                    4          and Ms. Heard?  Did you all interact together or were you very
+                    5          separate?
+
+                    6      A.  I was doing -- mostly, I was doing press, but when we were all
+                    7          together ----
+
+                    8      Q.  You were all together?
+
+                    9      A.  We were all together and it was fine.
+
+                    10      Q.  It was in that context that it was suggested to you -- and I
+                    11          will not read out all the allegations again -- that you
+                    12          shoved, wrestled her to the floor, grabbed her by the hair,
+                    13          yelled at her, Ms. Heard said she was crying on the floor, and
+                    14          this happened in hotel.  Where would the children have been
+                    15          when you were in the hotel bedroom?
+
+                    16      A.  They were either in our room or their room at all times.
+
+                    17      Q.  If Lily-Rose or Jack had seen any marks or injuries on
+                    18          Ms. Heard's face or body at the time, would they have asked
+                    19          her about that, do you know?
+
+                    20      A.  Certainly they would have. </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_02c32292979f45da962280c334bc5815.pdf#page=62" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">January 2015</a></h3>
+                  <div class="timeline-body">Incident 7: Tokyo Hotel Room, January 2015
+
+                    Ms Heard�s allegation that she was assaulted by Mr Depp in their hotel room in Tokyo when
+                    they flew in for the premier of one of Mr Depp�s films lacks credibility. As Mr Depp explained
+                    his two children had come on the trip with them. They had an adjourning room. That fact not
+                    only undermines this specific allegation, but it also undermines the Defendants� more general
+                    narrative that Mr Depp carried out his heinous assaults on Ms Heard when he so drunk or out
+                    of control on drugs that he could not recall what he had done.
+                  </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_02c32292979f45da962280c334bc5815.pdf#page=61" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline time label -->
+              <div class="time-label">
+                <span class="bg-blue">Mar. 2015</span>
+              </div>
+              <!-- /.timeline-label -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">March 2015</a></h3>
+                  <div class="timeline-body">Incident 9: Stairs at Eastern Columbia PH, March 2015 </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_02c32292979f45da962280c334bc5815.pdf#page=106" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">March 2015</a></h3>
+                  <div class="timeline-body">     3          mix-up" -- that is the phrase she used -- over the
+                    4          photographs.  I am not going to go back over how that
+                    5          happened.  You have explained the mistake.  Can I ask you
+                    6          about your evidence.  Now, in terms of what you saw on 21st
+                    7          April, you said to Ms. Wass that you saw injuries that were
+                    8          very similar to the ones in the photograph we now know is the
+                    9          March photograph?
+
+                    10      A.  Correct.
+
+                    11      Q.  And Ms. Wass accepted, she said, that Ms. Heard had hit ----
+
+                    12      MR. JUSTICE NICOL:  March 2015.
+
+                    13      MR. SHERBORNE:  My Lord, yes.  Ms. Wass said it is accepted by
+                    14          Ms. Heard that she did hit Mr. Depp in March 2015.  We have
+                    15          your account of 21st April and the injuries you saw.  Are
+                    16          those the only two incidents of injuries that Ms. Heard caused
+                    17          to Mr. Depp that you know of?
+
+                    18      A.  There was another incident in December in which he sustained
+                    19          injuries from Ms. Heard -- Mr. Depp.
+
+                    20      MR. JUSTICE NICOL:  Just a minute. (Pause) In December.  Can you
+                    21          help me with which year?
+
+                    22      A.  That would be 2015, sir.
+
+                    23      MR. JUSTICE NICOL:  Thank you.
+
+                    24      MR. SHERBORNE:  Can I ask you to take bundle 6.  It is the red
+                    25          bundle to your right.
+
+                    P.1306
+
+                    14      MR. SHERBORNE:  There, we see there should be a photograph on
+                    15          F894.092.
+
+                    16      A.  Correct.
+
+                    17      Q.  Do you see there a photograph of Mr. Depp?
+
+                    18      A.  I do.
+
+                    19      Q.  Can you just explain.  It says "Sean".  Can you just explain
+                    20          what you know about this photo?
+
+                    21      A.  I took this photo on December 15th, 2015.
+
+                    22      Q.  Can I just pause for one second.  Just looking at the top, is
+                    23          that IMG 2015, 12.15, a reference to the date you just gave
+                    24          us?
+
+                    25      A.  It is.
+                  </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_02c32292979f45da962280c334bc5815.pdf#page=146" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">March 2015</a></h3>
+                  <div class="timeline-body">Incident 8: Australia, March 2015 </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_02c32292979f45da962280c334bc5815.pdf#page=64" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">March 2015</a></h3>
+                  <div class="timeline-body">     3          mix-up" -- that is the phrase she used -- over the
+                    4          photographs.  I am not going to go back over how that
+                    5          happened.  You have explained the mistake.  Can I ask you
+                    6          about your evidence.  Now, in terms of what you saw on 21st
+                    7          April, you said to Ms. Wass that you saw injuries that were
+                    8          very similar to the ones in the photograph we now know is the
+                    9          March photograph?
+
+                    10      A.  Correct.
+
+                    11      Q.  And Ms. Wass accepted, she said, that Ms. Heard had hit ----
+
+                    12      MR. JUSTICE NICOL:  March 2015.
+
+                    13      MR. SHERBORNE:  My Lord, yes.  Ms. Wass said it is accepted by
+                    14          Ms. Heard that she did hit Mr. Depp in March 2015.  We have
+                    15          your account of 21st April and the injuries you saw.  Are
+                    16          those the only two incidents of injuries that Ms. Heard caused
+                    17          to Mr. Depp that you know of?
+
+                    18      A.  There was another incident in December in which he sustained
+                    19          injuries from Ms. Heard -- Mr. Depp.
+
+                    20      MR. JUSTICE NICOL:  Just a minute. (Pause) In December.  Can you
+                    21          help me with which year?
+
+                    22      A.  That would be 2015, sir.
+
+                    23      MR. JUSTICE NICOL:  Thank you.
+
+                    24      MR. SHERBORNE:  Can I ask you to take bundle 6.  It is the red
+                    25          bundle to your right.
+
+                    P.1306
+
+                    14      MR. SHERBORNE:  There, we see there should be a photograph on
+                    15          F894.092.
+
+                    16      A.  Correct.
+
+                    17      Q.  Do you see there a photograph of Mr. Depp?
+
+                    18      A.  I do.
+
+                    19      Q.  Can you just explain.  It says "Sean".  Can you just explain
+                    20          what you know about this photo?
+
+                    21      A.  I took this photo on December 15th, 2015.
+
+                    22      Q.  Can I just pause for one second.  Just looking at the top, is
+                    23          that IMG 2015, 12.15, a reference to the date you just gave
+                    24          us?
+
+                    25      A.  It is.
+                  </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_02c32292979f45da962280c334bc5815.pdf#page=146" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">8  March  2015</a></h3>
+                  <div class="timeline-body">
+                    The  cross-examination  of  Mr  Depp  focused  on  drugs,  but  not  violence.  It  also  focused  on
+                    matters which are not probative of violence, for example Mr Depp�s disappointment with the
+                    state of the film he was shooting and Mr Deuters� attempt to cheer him up. The dark language
+                    used by Mr Depp in a text message to his friend, Paul Bettany, relied upon by the Defendants,
+                    was nothing to the point.
+
+                    The evidence of third parties, in particular Mr Ben King, is important. Mr King was frank about
+                    the damage to the house, but his evidence also shows that Ms Heard�s more lurid account (in
+                    her statement and then in cross-examination) cannot be believed. There was no urine from
+                    Mr  Depp  �peeing  on  walls  and  carpet�,  no  dripping  blood,  raw  meat,  potatoes  and  gravy
+                    smeared on a door. Further while he noticed diagonal cut marks on her arms, he saw no other
+                    injuries.
+
+                    He did not see or learn about a telephone smashed to the point of disappearing which featured
+                    so graphically in Ms Heard�s account of how Mr Depp injured his finger.
+
+                    Had  Ms  Heard  wanted  to  leave  the  house,  she  could  have  done  so,  whether  through
+                    contacting security (who were hired by the production company), calling someone, or walking
+                    out the glass doors of the bedroom.
+
+                    Instead  she  was a  very active  participant  in the argument  on  8  March  2015.  The  evidence
+                    supports the view that she was not just responsible for one broken bottle as she claimed, but
+                    other damage too � including some of the writing on the bathroom mirror. While Mr Depp takes
+                    responsibility for the damage which he caused, Ms Heard proved incapable of accepting that
+                    she had done anything � on her account it was all one-way � but despite that she did not leave
+                    at any point over the three days.
+
+                    DAY 3 (Cross-examination of Mr Depp) </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_02c32292979f45da962280c334bc5815.pdf#page=64" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline time label -->
+              <div class="time-label">
+                <span class="bg-blue">Jul. 2015</span>
+              </div>
+              <!-- /.timeline-label -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">July 2015</a></h3>
+                  <div class="timeline-body">2          not fall down a flight of stairs.
+
+                    3      Q.  This is your way of trying to minimise the fact that this
+                    4          whole incident was Amber attacking Mr. Depp, are you not?
+
+                    5      A.  I disagree with that statement.  I am telling the truth.
+
+
+
+                    Incident 10: S.E. Asia Train Journey
+
+                    The evidence about the nature of the train, its staffing and the presence of a security person,
+                    Malcolm Connolly, for Mr Depp and Ms Heard during their honeymoon completely
+                    undermine Ms Heard�s account of an unprovoked attack in their cabin where she screamed
+                    and/or Mr Depp was screaming at her. There is no evidence of any injury and Mr Connolly
+                    did not see any injuries.
+
+                    Day 5 (Re-examination of Mr Depp)
+
+                    Page 698
+                    10      MR. SHERBORNE:  Can I take you then to the next alleged incident,
+                    11          Mr. Depp, incident 10 on the Southeast Asia train.  This was
+                    12          part of your honeymoon; is that right?
+
+                    13      THE WITNESS:  Yes.
+
+                    14      Q.  It is July 2015.  Can I ask, was it just you and Ms. Heard who
+                    15          were present on the train?
+
+                    16      A.  We travelled with security, Malcolm Connolly, he was with us
+                    17          for the entire honeymoon, for the trip.
+
+                    18      Q.  You were not asked many questions about this by Ms. Wass, so
+                    19          I am going to keep it very brief.  We know that Ms. Heard's
+                    20          evidence is that you were very violent, according to her, you
+                    21          hit her, you pushed her against the wall, you grasped her by
+                    22          the throat and you caused her to fear for her very life; you
+                    23          have seen that is what she says?
+
+                    24      A.  Yes, I have seen it.
+                  </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_02c32292979f45da962280c334bc5815.pdf#page=120" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">July 2015</a></h3>
+                  <div class="timeline-body">     8      Q.  Mr. Depp mentioned this yesterday and he said that you were
+                    9          present; is that correct?
+
+                    10      A.  Correct.  Yes.
+
+                    11      Q.  It was Mr. Depp and Ms. Heard's honeymoon, part of their
+                    12          honeymoon?
+
+                    13      A.  That is correct.
+
+                    14      Q.  In July 2015?
+
+                    15      A.  Correct.
+
+                    16      Q.  Did Mr. Depp take over the whole train?
+
+                    17      A.  No, not at all, no.
+                  </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_02c32292979f45da962280c334bc5815.pdf#page=122" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline time label -->
+              <div class="time-label">
+                <span class="bg-blue">Nov. 2015</span>
+              </div>
+              <!-- /.timeline-label -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">November 2015</a></h3>
+                  <div class="timeline-body">    13          and he is uninjured.  He strangled me.
+
+
+                    Incident 11: Thanksgiving, November 2015  </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_02c32292979f45da962280c334bc5815.pdf#page=124" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">November 2015</a></h3>
+                  <div class="timeline-body">    24      MS. LAWS:  It is a summary at F2.1.
+
+                    25      THE WITNESS:  Which file bundle?
+
+                    P.1937
+
+                    25      Q.  It is Ms. Pennington's account: "I attended Thanksgiving
+
+                    P.1938
+
+                    2          Dinner with Johnny and Amber and a number of others at their
+                    3          apartment PH5 in November 2015.  At one point, late in the
+                    4          meal, Amber went upstairs to look for Johnny and stayed up
+                    5          there for a long time.  After a long time, they both came
+
+                    6          downstairs.  When I asked Amber what had happened, she told me
+                    7          that Johnny had thrown a bottle of wine at her in the bedroom.
+                    8          I went to look and found that a full bottle of wine had hit
+                    9          and broken a piece of art that Amber really loves above the
+                    10          bed and that broken glass was scatted all over the bed.  I
+                    11          went back downstairs and spoke to Amber.  She was upset, but
+                    12          just wanted to get through dinner without further problems."
+                    13                Now, what she is saying is that this assault took place
+                    14          while everyone was there, and that you had to go back
+                    15          downstairs?
+
+                    16      A.  No, she is saying ----
+
+                    17      Q.  She is wrong?
+
+                    18      A.  Excuse me?
+
+                    19      Q.  Is she wrong?
+
+                    20      A.  No.  She is saying this part of it took place while she was
+                    21          there and others were downstairs.  She was just describing the
+                    22          first part of the fight.
+
+                    23      Q.  So the incident has two parts now, does it?
+
+                    24      A.  Our fights typically involved many parts.
+
+                    25      Q.  You are just making this all up as you go along to try and fit
+
+                    P.1939
+
+                    2          with evidence that comes out later, are you not?
+
+                    3      A.  No.  I have had this information.
+
+                    4      Q.  You see, this is a lying account, we say, from Raquel
+                    5          Pennington, but we can deal with that with her.  She has got
+                    6          one thing very wrong, has she not, in that, because what she
+                    7          says is that in Penthouse 5, she has gone upstairs, asking you
+                    8          what is happening, and you tell her that Johnny had thrown a </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_02c32292979f45da962280c334bc5815.pdf#page=126" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">24          November 2015</a></h3>
+                  <div class="timeline-body">
+                    23      Q.  These are Erin Burin's notes.  We can see that on 26th
+                    24          November 2015 she has made an entry, making it clear that in
+                    25          fact she joined in on Thanksgiving:  "RN visited client and
+
+                    P.1943
+
+                    2          husband/client JD's home in Downtown Los Angeles ...(reads to
+                    3          the words)... client AH notified RN that she will need refills
+                    4          on her routine", and then it goes on about your medication.
+                    5          So she was there on that day, was she not?
+
+                    6      A.  Yes.  This reminds me.
+
+                    7      Q.  She was there, was she, at the time before or after you had
+                    8          been hit?
+
+                    9      A.  The first interaction I had with Johnny, he just threw a
+                    10          bottle at me, and ----
+
+                    11      Q.  Sorry, I was asking about whether she was there or not?
+
+                    12      A.  She was downstairs.
+
+                    13      MR. JUSTICE NICOL:  I think you have established that Ms. Heard
+                    14          agreed she was there.  But then you asked whether she was
+                    15          there before or after the altercation.  Ms. Heard is giving
+                    16          her answer.
+
+                    17      THE WITNESS:  So, the violence, what I would call violence, at the
+                    18          time, no.  She was there downstairs in penthouse 5 for the
+                    19          bottle-throwing, the decanter breaking, the painting breaking.
+                    20          I remember there was a slight altercation on the top of the
+                    21          stairs involving wine and Johnny grabbing me by the short
+                    22          collar ----
+
+                    23      MS. LAWS:  Can I ask you, was she there ----
+
+                    24      A.  ---- that was -- that is an altercation, so I was trying to
+                    25          answer your question in full so you had the most information
+
+                    P.1944
+
+                    2          and I can answer you the best way possible.  There was a
+                    3          slight altercation, but it was not what it later became after
+                    4          everyone left; which she was not there for.
+
+                    5      MS. LAWS:  Right.  I was not asking for another description ----
+
+                    6      MR. JUSTICE NICOL:  Ms. Laws, you asked the question, Ms. Heard
+                    7          has given her answer.  As I have understood the answer, is
+                    8          that she was there for the interaction that you have described
+                    9          involving a painting, but when you were asked whether
+                    10          Ms. Burin was there when you were assaulted, I think you said
+                    11          she was not. </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_02c32292979f45da962280c334bc5815.pdf#page=128" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline time label -->
+              <div class="time-label">
+                <span class="bg-blue">Dec. 2015</span>
+              </div>
+              <!-- /.timeline-label -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">December 2015</a></h3>
+                  <div class="timeline-body">10 Moving on then to
+                    11          15th December 2015, again, this was an incident where you did
+                    12          not witness anything happening, but you claim to have seen
+                    13          injuries afterwards; is that correct?
+
+                    14      A.  That is correct, and may I ask, is there a paragraph or file
+                    15          that I should be looking at?
+
+                    16      Q.  I will take you to it in a moment.  I am just establishing
+                    17          your recollection of that.  What do you recollect as being the
+                    18          injuries that you saw on Ms. Heard?
+
+                    19      A.  On December 15th?
+
+                    20      Q.  Yes.  What do you recollect?  I will take you to your
+                    21          statement in a moment, but what do you recollect?
+
+                    22      A.  The one that stands out the most in my memory is the injury to
+                    23          the back of her head, the scalp, that was bloody, where hair
+                    24          had been ripped out.
+
+                    25      MR. JUSTICE NICOL:  Just a minute.
+                  </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_02c32292979f45da962280c334bc5815.pdf#page=150" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">December 2015</a></h3>
+                  <div class="timeline-body">Incident 10: December 2015
+
+                    The Court heard Mr Depp explain that generally he tried to avoid arguments with Ms Heard,
+                    he would �run away from fights�. Ms Heard�s allegation that she was injured, escalated in her
+                    evidence to asserting that Mr Depp had inflicted a broken nose on her. Having maintained,
+                    falsely, that Mr Depp �head butted� her, she then made up an injury which would � had it
+                    happened � have been consistent with a headbutt. But there was no broken nose. None of
+                    the photographs support that (as Mr Depp noted one seemed to show a chapped lip) nor
+                    does any third-party testimony support that or Ms Heard�s evidence (given on DAY 12) that
+                    she �had two black eyes, a broken nose and a broken lip, bruised ribs, bruises all over my
+                    body.� Ms Pennington�s description differed and no photographs show what she said she
+                    saw, namely a swollen nose.
+
+                    Ms Heard account of her injuries is contradicted by what Tara Roberts saw, or in fact did not
+                    see, when Ms Heard went with Mr Depp to the Bahamas for Christmas and what Samantha
+                    McMillen saw, in terms of lack of any injuries on 16 December 2015. There was no reason for
+                    Ms McMillen to attend court in order to lie for Mr Depp. She was present when Ms Heard was
+                    being made up and would have seen if she was sporting two black eyes (and a broken/ swollen
+                    nose).  Similarly Kevin Murphy left Mr Depp�s employment some time ago. He has no vested
+                    interest in lying for Mr Depp. He saw Ms Heard in her bedroom and took photos of a clump of
+                    her hair on the carpet. But he was firm that the did not see any injuries to her face, although
+                    she was upset.
+
+                    Further,  Ms  Heard  could  not  explain  what  her  own  nurse,  Erin  Boerum,  noted  as  to  the
+                    absence of any visible injury beyond a bleeding lip.
+
+
+                    DAY 3 (Cross-examination of Mr Depp)
+
+                    Page 491
+                    14      Q.  Can I move forward, then, to December 2015.  Now, Mr. Depp, by
+                    15          December 2015, you were routinely using violence against
+                    16          Ms. Heard when you were intoxicated and when you were angry.
+                    17          What do you say about that?
+
+                    18      A.  I say that is incorrect, most of the time I tried to get away
+                    19          from her.
+
+                    20      Q.  During episodes when you would start by punching walls or
+                    21          destroying property or shattering glass objects, that very
+                    22          quickly escalated into a slap or pushing her over, or worse on
+                    23          some occasions?
+
+                    24      A.  No, that is incorrect.  Most of the time, Amber's, Ms. Heard's
+                    25          problem was that I would run away from fights and I was then
+                  </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_02c32292979f45da962280c334bc5815.pdf#page=130" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">December 2015</a></h3>
+                  <div class="timeline-body">Incident 10: December 2015
+
+                    The Court heard Mr Depp explain that generally he tried to avoid arguments with Ms Heard,
+                    he would �run away from fights�. Ms Heard�s allegation that she was injured, escalated in her
+                    evidence to asserting that Mr Depp had inflicted a broken nose on her. Having maintained,
+                    falsely, that Mr Depp �head butted� her, she then made up an injury which would � had it
+                    happened � have been consistent with a headbutt. But there was no broken nose. None of
+                    the photographs support that (as Mr Depp noted one seemed to show a chapped lip) nor
+                    does any third-party testimony support that or Ms Heard�s evidence (given on DAY 12) that
+                    she �had two black eyes, a broken nose and a broken lip, bruised ribs, bruises all over my
+                    body.� Ms Pennington�s description differed and no photographs show what she said she
+                    saw, namely a swollen nose.
+
+                    Ms Heard account of her injuries is contradicted by what Tara Roberts saw, or in fact did not
+                    see, when Ms Heard went with Mr Depp to the Bahamas for Christmas and what Samantha
+                    McMillen saw, in terms of lack of any injuries on 16 December 2015. There was no reason for
+                    Ms McMillen to attend court in order to lie for Mr Depp. She was present when Ms Heard was
+                    being made up and would have seen if she was sporting two black eyes (and a broken/ swollen
+                    nose).  Similarly Kevin Murphy left Mr Depp�s employment some time ago. He has no vested
+                    interest in lying for Mr Depp. He saw Ms Heard in her bedroom and took photos of a clump of
+                    her hair on the carpet. But he was firm that the did not see any injuries to her face, although
+                    she was upset.
+
+                    Further,  Ms  Heard  could  not  explain  what  her  own  nurse,  Erin  Boerum,  noted  as  to  the
+                    absence of any visible injury beyond a bleeding lip.
+
+
+                    DAY 3 (Cross-examination of Mr Depp)
+
+                    Page 491
+                    14      Q.  Can I move forward, then, to December 2015.  Now, Mr. Depp, by
+                    15          December 2015, you were routinely using violence against
+                    16          Ms. Heard when you were intoxicated and when you were angry.
+                    17          What do you say about that?
+
+                    18      A.  I say that is incorrect, most of the time I tried to get away
+                    19          from her.
+
+                    20      Q.  During episodes when you would start by punching walls or
+                    21          destroying property or shattering glass objects, that very
+                    22          quickly escalated into a slap or pushing her over, or worse on
+                    23          some occasions?
+
+                    24      A.  No, that is incorrect.  Most of the time, Amber's, Ms. Heard's
+                    25          problem was that I would run away from fights and I was then
+                  </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_02c32292979f45da962280c334bc5815.pdf#page=130" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">December 2015</a></h3>
+                  <div class="timeline-body">
+                    P.1176
+
+                    11      MS. WASS:  What it says, it gives the date of 15th December 2015,
+                    12          but what you say in your witness statement is this: "I have
+                    13          been told by Mr. Depp's solicitors that it is alleged that on
+                    14          December 15th, 2015, Mr. Depp beat Ms. Heard so hard in the </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_02c32292979f45da962280c334bc5815.pdf#page=142" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">December 2015</a></h3>
+                  <div class="timeline-body">P.1998
+
+                    2      Q.  Can you take file 2 out, please.  I am not going to take you
+                    3          to a document just yet, but you have given an account in
+                    4          evidence of an incident whereby Tara Roberts' partner had to,
+                    5          in effect, take Mr. Depp away from you; is that what you were
+                    6          saying?
+
+                    7      A.  I believe my recollection is that towards the end of that
+                    8          attack, Johnny only had me by the hair, and I was, there was a
+                    9          bit of a scuffle trying to free myself from his grasp, and
+                    10          they both approached us.  I think at the same time, and it is
+                    11          my recollection that Tara leaned towards me and CJ, her
+                    12          partner, leaned more towards Johnny and put his hands on
+                    13          Johnny's chest or upper shoulders, and that, we had about two
+                    14          feet of separation for a moment.
+
+                    24      Q.  Can I ask you to go to page D229, please.  I am going to ask
+                    25          you about what her account is.
+
+                    P.1999
+
+                    2      A.  All right.
+
+                    3      Q.  Which she gave a statement to, and which was not challenged.
+                    4          So let us have a look at paragraph 10:  "During the evening of
+                    5          29th December 2015, Johnny drove to the office alone in his
+                    6          John Deer Gator.  He had said he just needed to get away from
+                    7          Amber.  Shortly afterwards, Amber showed up to the office.
+                    8          Amber started pleading with him to come back to the house, and
+                    9          at that point I walked out of the office.  A few minutes later
+                    10          I heard his vehicle start and I stepped outside.  Amber was
+                    11          standing in front of the vehicle, screaming at him and
+                    12          apparently not letting him get away by blocking his path.
+                    13          Then she climbed into the vehicle.  He drove her back to their
+                    14          house.  I got in my golf cart and went to the caf�, which is a
+                    15          short distance from the house.  I called Christi Dembrowski,
+                    16          Johnny's sister, as I was unsure how far this would go.  While
+                    17          I could not hear what caused the fight, Amber repeatedly
+                    18          berated him with increasing ferocity.  She was insulting him,
+                    19          calling him names, and in the middle of this onslaught I heard
+                    20          her specifically say 'Your career is over, no one is going to </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_02c32292979f45da962280c334bc5815.pdf#page=152" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">15          December 2015</a></h3>
+                  <div class="timeline-body">Incident 10: December 2015
+
+                    The Court heard Mr Depp explain that generally he tried to avoid arguments with Ms Heard,
+                    he would �run away from fights�. Ms Heard�s allegation that she was injured, escalated in her
+                    evidence to asserting that Mr Depp had inflicted a broken nose on her. Having maintained,
+                    falsely, that Mr Depp �head butted� her, she then made up an injury which would � had it
+                    happened � have been consistent with a headbutt. But there was no broken nose. None of
+                    the photographs support that (as Mr Depp noted one seemed to show a chapped lip) nor
+                    does any third-party testimony support that or Ms Heard�s evidence (given on DAY 12) that
+                    she �had two black eyes, a broken nose and a broken lip, bruised ribs, bruises all over my
+                    body.� Ms Pennington�s description differed and no photographs show what she said she
+                    saw, namely a swollen nose.
+
+                    Ms Heard account of her injuries is contradicted by what Tara Roberts saw, or in fact did not
+                    see, when Ms Heard went with Mr Depp to the Bahamas for Christmas and what Samantha
+                    McMillen saw, in terms of lack of any injuries on 16 December 2015. There was no reason for
+                    Ms McMillen to attend court in order to lie for Mr Depp. She was present when Ms Heard was
+                    being made up and would have seen if she was sporting two black eyes (and a broken/ swollen
+                    nose).  Similarly Kevin Murphy left Mr Depp�s employment some time ago. He has no vested
+                    interest in lying for Mr Depp. He saw Ms Heard in her bedroom and took photos of a clump of
+                    her hair on the carpet. But he was firm that the did not see any injuries to her face, although
+                    she was upset.
+
+                    Further,  Ms  Heard  could  not  explain  what  her  own  nurse,  Erin  Boerum,  noted  as  to  the
+                    absence of any visible injury beyond a bleeding lip.
+
+
+                    DAY 3 (Cross-examination of Mr Depp)
+
+                    Page 491
+                    14      Q.  Can I move forward, then, to December 2015.  Now, Mr. Depp, by
+                    15          December 2015, you were routinely using violence against
+                    16          Ms. Heard when you were intoxicated and when you were angry.
+                    17          What do you say about that?
+
+                    18      A.  I say that is incorrect, most of the time I tried to get away
+                    19          from her.
+
+                    20      Q.  During episodes when you would start by punching walls or
+                    21          destroying property or shattering glass objects, that very
+                    22          quickly escalated into a slap or pushing her over, or worse on
+                    23          some occasions?
+
+                    24      A.  No, that is incorrect.  Most of the time, Amber's, Ms. Heard's
+                    25          problem was that I would run away from fights and I was then
+                  </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_02c32292979f45da962280c334bc5815.pdf#page=130" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">16 December 2015</a></h3>
+                  <div class="timeline-body">Incident 10: December 2015
+
+                    The Court heard Mr Depp explain that generally he tried to avoid arguments with Ms Heard,
+                    he would �run away from fights�. Ms Heard�s allegation that she was injured, escalated in her
+                    evidence to asserting that Mr Depp had inflicted a broken nose on her. Having maintained,
+                    falsely, that Mr Depp �head butted� her, she then made up an injury which would � had it
+                    happened � have been consistent with a headbutt. But there was no broken nose. None of
+                    the photographs support that (as Mr Depp noted one seemed to show a chapped lip) nor
+                    does any third-party testimony support that or Ms Heard�s evidence (given on DAY 12) that
+                    she �had two black eyes, a broken nose and a broken lip, bruised ribs, bruises all over my
+                    body.� Ms Pennington�s description differed and no photographs show what she said she
+                    saw, namely a swollen nose.
+
+                    Ms Heard account of her injuries is contradicted by what Tara Roberts saw, or in fact did not
+                    see, when Ms Heard went with Mr Depp to the Bahamas for Christmas and what Samantha
+                    McMillen saw, in terms of lack of any injuries on 16 December 2015. There was no reason for
+                    Ms McMillen to attend court in order to lie for Mr Depp. She was present when Ms Heard was
+                    being made up and would have seen if she was sporting two black eyes (and a broken/ swollen
+                    nose).  Similarly Kevin Murphy left Mr Depp�s employment some time ago. He has no vested
+                    interest in lying for Mr Depp. He saw Ms Heard in her bedroom and took photos of a clump of
+                    her hair on the carpet. But he was firm that the did not see any injuries to her face, although
+                    she was upset.
+
+                    Further,  Ms  Heard  could  not  explain  what  her  own  nurse,  Erin  Boerum,  noted  as  to  the
+                    absence of any visible injury beyond a bleeding lip.
+
+
+                    DAY 3 (Cross-examination of Mr Depp)
+
+                    Page 491
+                    14      Q.  Can I move forward, then, to December 2015.  Now, Mr. Depp, by
+                    15          December 2015, you were routinely using violence against
+                    16          Ms. Heard when you were intoxicated and when you were angry.
+                    17          What do you say about that?
+
+                    18      A.  I say that is incorrect, most of the time I tried to get away
+                    19          from her.
+
+                    20      Q.  During episodes when you would start by punching walls or
+                    21          destroying property or shattering glass objects, that very
+                    22          quickly escalated into a slap or pushing her over, or worse on
+                    23          some occasions?
+
+                    24      A.  No, that is incorrect.  Most of the time, Amber's, Ms. Heard's
+                    25          problem was that I would run away from fights and I was then
+                  </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_02c32292979f45da962280c334bc5815.pdf#page=130" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">17 Dec
+                    15</a></h3>
+                  <div class="timeline-body">
+                    P.1911 (Having taken to notes of Nurse Erin Boerum following a visit to Ms Heard on 17 Dec
+                    15)
+
+                    7                Now, that was over the phone, that conversation, but the
+                    8          very next day, so on 17th December, Erin Burin is in contact
+
+                    9          with you to notify you that she will be able to deliver your
+                    10          medications to your home.  So she turned up -- this is quite
+                    11          late -- at 11 o'clock at night, and waited at the door for
+                    12          several minutes after knocking.  You greeted her at the door
+                    13          looking dishevelled, with your hair unbrushed, weepy and sad,
+                    14          slouched posture, and you told Ms. Burin about an argument
+                    15          with Mr. Depp.  Then there is a discussion about her offering
+                    16          emotional support and that she could not stay.  It is this bit
+                    17          I am asking you about, the last sentence: "The client had
+                    18          visible bright red blood appearing at centre of lower lip.
+                    19          When RN made client aware that she was actively bleeding on
+                    20          her lip, client stated it was from the injuries sustained in
+                    21          the argument between her and her husband, and that it
+                    22          continued to bleed actively.  Client also states that her head
+                    23          is bruised and she lost clumps of hair in altercation.  RN
+                    24          briefly looked at client's scalp, but was unable to visualise
+                    25          the haematomas the client had described.  RN encouraged the
+
+                    P.1912
+
+                    2          client to be seen by physician, Dr. Kipper, or go to an
+                    3          emergency." You did not have any bruising at all when you saw
+                    4          Erin Burin, did you?
+
+                    5      A.  I had two black eyes, a broken nose and a broken lip, bruised
+                    6          ribs, bruises all over my body.
+
+                    7      MR. JUSTICE NICOL:  Just a minute.  (Pause) You were being
+
+                    8          particularly asked about bruises and you said you had bruised
+
+                    9          ribs ----
+
+                    10      A.  I had bruised ribs, bruises all over my body, bruises on my
+                    11          forearms from trying to defend the blows.  I had two black
+                    12          eyes.  I had a broken nose.  I had a broken lip.  I had
+                    13          bruises primarily.  The really bad ones were in my hairline,
+                    14          in my scalp, my chin ----
+
+                    15      Q.  Just a minute.  (Pause)
+
+                    16      A.  There were chunks of hair missing, there was pus in those
+                    17          wounds, in my hairline, dark red bruises specifically, like, </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_02c32292979f45da962280c334bc5815.pdf#page=148" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline time label -->
+              <div class="time-label">
+                <span class="bg-blue">Mar. 2016</span>
+              </div>
+              <!-- /.timeline-label -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">March 2016</a></h3>
+                  <div class="timeline-body">    19          marks or swellings."
+
+                    20      A.  That is correct.
+
+                    21      Q.  How certain are you about that?
+
+                    22      A.  100%.
+
+                    23      Q.  Now, you had known Ms. Heard for some time by May 2016, had
+                    24          you not?
+
+                    25      A.  Since March 2016, I mean 2013.
+
+                    P.1372
+
+                    2      Q.  2013.  They moved in in March 2013, so you had known her three
+                    3          years and two months; yes?
+
+                    4      A.  Is that how long that is?
+
+                    5      Q.  13 ----
+
+                    6      A.  From March 2013, from March 2013 is when I first met her, in
+                    7          March 2013.
+
+                    8      Q.  I understand.  Have you ever known her to go out to a party
+                    9          without makeup on?
+
+                    10      A.  I would not know that.
+
+                    20      MS. WASS:  Yes.  Mr. Baruch, I asked you, having known Ms. Heard
+                    21          for three years and a bit, whether you had ever known her go
+                    22          to a party or to an outside event without being made up;
+                    23          I think you said you could not say that.
+
+                    24      THE WITNESS:  Yes, I would not know that.  I do not know how many
+                    25          parties she went to.  I do not know, you know, if every time
+
+                    P.1373
+
+                    2          she went to a party.  So, I could not tell you.
+
+                    But when
+                    12          you have known that she has been going to a party, have you
+                    13          ever seen her without makeup?
+
+                    14      A.  Any time that I saw her go to an event, that she was decked
+                    15          out in, she had makeup on.
+
+                    16      MS. WASS:  Had you ever known her leave the apartment block and go
+                    17          to a public place without wearing makeup?
+
+                    18      A.  (Pause) I do not know.  Yes.  Yes.
+
+                  </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_02c32292979f45da962280c334bc5815.pdf#page=215" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline time label -->
+              <div class="time-label">
+                <span class="bg-blue">Apr. 2016</span>
+              </div>
+              <!-- /.timeline-label -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">April 2016</a></h3>
+                  <div class="timeline-body">    21          have to state and it is quite embarrassing -- apparently I had
+                    22          made $650 million, and when I fired them for the right
+                    23          reasons, I had not only lost the $650 million, but I was
+                    24          $100 million in the hole because they had not paid the
+                    25          government my taxes for 17 years.
+
+                    Page 716
+                    2      Q.  So, as you say, a bad meeting?
+
+                    3      A.  Very unpleasant and ugly, yes.
+
+                    4      Q.  You were asked by Ms. Wass, after the meeting, given how you
+                    5          said you were upset, if you had taken cannabis, and you said,
+                    6          quite fairly, that you are not sure, but you may have taken
+                    7          cannabis, I think you said?
+
+                    8      A.  It is possible that from the meeting which was held at my
+                    9          office in the conference room, that on my way down to
+                    10          Ms. Heard's dinner, it is possible that I would have smoked
+                    11          some cannabis in the car on the way.
+
+                    12      Q.  If you had smoked some cannabis, what effect would it have had
+                    13          on you?  Would it have made you angry or in a rage?
+
+                    14      A.  No, it is a calming agent.
+
+                    Page 717
+                    2      Q.  You will see the second entry on that page of Nurse Burin's
+                    3          notes.  She explains that on 21st April, "Client invited ----
+
+                    4      MR. JUSTICE NICOL:  Sorry, this is dated 27th August, is it?
+
+                    5      MR. SHERBORNE:  No, my Lord, it should be ----
+
+                    6      MR. JUSTICE NICOL:  I beg your pardon.  I have the wrong page.
+                    7          Which page?
+
+                    8      MR. SHERBORNE:  K210, my Lord.
+
+                    9      MR. JUSTICE NICOL:  Just a moment.  (Pause) Yes, and the entry for
+                    10          21st April 2016?
+
+                    11      MR. SHERBORNE:  My Lord, yes.  Do you have that?  (Pause)
+
+                    12      MR. JUSTICE NICOL:  Mr. Depp, do you have that?
+
+                    13      A.  K210 at the bottom.
+
+                    14      MR. SHERBORNE:  Yes.
+
+                    15      A.  Yes, I do, thank you.
+
+                    16      Q.  So, as you said, Nurse Burin was a friend of Ms. Heard's as
+                    17          well as a nurse?
+                  </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_02c32292979f45da962280c334bc5815.pdf#page=156" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">April 2016</a></h3>
+                  <div class="timeline-body">
+                    Mr. Jenkins,
+
+                    11          have you got file 9 to your left?
+
+                    12      A.  Yes, sir.
+
+                    13      Q.  I am grateful.  Behind tab 91A, if your bundle has been
+                    14          updated, do you have there a document entitled "J5.1"?
+
+                    15      A.  Yes.
+
+                    16      MR. JUSTICE NICOL:  Just a minute.
+
+                    17      MR. SHERBORNE:  I am just waiting for his Lordship to find it.
+
+                    18      MR. JUSTICE NICOL:  Sorry, 91A?
+
+                    19      MR. SHERBORNE:  91A.
+
+                    20      MR. JUSTICE NICOL:   Just a moment.  (Pause) Yes, J5.1.
+
+                    21      THE WITNESS:  Yes, I have it.  That is my photo.
+
+                    22      MR. SHERBORNE:  Mr. Jenkins, I was going to ask you if you can
+                    23          identify it.  That is your photo, you said?
+
+                    24      A.  That is my photo.
+
+                    25      Q.  We can see at the top that it says 23rd April 2016?
+
+                    P.1338
+
+                    2      A.  Yes.
+
+                    3      Q.  That is the day of Coachella.  Can you identify
+                    4          Miss Amber Heard in that photo?
+
+                    5      A.  Right in the middle, wearing the white dress.
+
+                    6      MR. JUSTICE NICOL:  Just a minute.  The dresses are all rather
+                    7          coloured, but which is Ms. Heard?
+
+                    8      A.  She is the third one right on the left.
+
+                    9      MR. SHERBORNE:  Right in the middle.
+
+                    10      A.  (Unclear) next to her, the one in the striped shirt, (unclear)
+                    11          in the striped shirt, then Ms. Heard, then Rocky, then her
+                    12          male friend, then I believe this is her stylist, and her
+                    13          sister, Whitney, is at the end.
+
+                    14      MR. JUSTICE NICOL:  So, Ms. Heard is the one in the dress that
+                    15          looks slightly green; is that right?
+                  </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_02c32292979f45da962280c334bc5815.pdf#page=165" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">April 2016</a></h3>
+                  <div class="timeline-body">Incident 13: Ms Heard�s Birthday Dinner, April 2016 </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_02c32292979f45da962280c334bc5815.pdf#page=154" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">April 2016</a></h3>
+                  <div class="timeline-body">
+                    18      Q.  Were you taking drugs that weekend?
+
+                    19      A.  I was not.
+
+                    20      Q.  You see, Starling Jenkins was there with an eye on you and
+                    21          Amber and the others for the whole time, was he not?
+
+                    22      A.  I do not recall him being around.  I recall him driving us to
+                    23          and from.
+
+                    P.2181
+
+                    19      MS. LAWS:  So, Starling Jenkins has got it wrong, he has mistaken
+                    20          your sister for you, and he did not buy anything and hand it
+                    21          over to you, you got it from room service?
+
+                    22      A.  He is mistaken about who was sick.  I do not recall if he
+                    23          actually went to go get those things.  I am not saying that is
+                    24          incorrect.  I just do not recall actually receiving those
+                    25          things from Starling.
+
+                    P.2182
+
+                    19      Q.  It is a message between your sister and iO Tillet Wright.  Can
+                    20          you see that there on the left, AH, then iO, then AH?
+
+                    21      A.  Yes.  The lines are separated by ----
+
+                    22      Q.  We have the date of 26th April 2016, so just at the end, so
+                    23          Coachella would have ended by then, five days ----
+
+                    24      A.  I do not remember the dates of Coachella, I apologise.
+
+                    P.2183
+
+                    7      MS. LAWS:  Ms. Heard, Amber Heard, to iO Tillet Wright: "Please
+                    8          sit down, will you.  The worse experience of my life...(reads
+                    9          to the words)... in Palm Springs for mine."  There are just a
+                    10          few questions.  The first question: what your sister is
+                    11          talking about is Coachella, is it not, and the fact that
+                    12          iO Tillet Wright left early?
+
+                    13      A.  I am assuming so, yes.
+
+                    19      Q.  But is what your sister said about the weekend true?
+
+                    20      A.  What about it?
+
+                    21      Q.  From what you witnessed, the bit I read out?
+
+                    22      A.  There is a bunch of information here.  Which are you asking me
+                    23          to confirm?
+
+                    24      Q.  I think you know that what I am talking about is that she said </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_02c32292979f45da962280c334bc5815.pdf#page=170" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">21 April 2016</a></h3>
+                  <div class="timeline-body">The events of Coachella, including Ms Heard partying hard with her friends, strongly support
+                    Mr Depp�s account of the night of 21 April 2016. Ms Heard partied so hard, she was sick. Mr
+                    Starling Jenkins was in attendance as security for Ms Heard. That was his job. He was not
+                    going to confuse the subject of his security assignment with someone else.
+
+                    P.1329
+
+                    3      Q.  Were you ever invited to be part of that group that was
+                    4          enjoying the music festival, or were you simply a part as a
+                    5          driver who was not engaged in the music festival but simply
+                    6          there on duty?
+                  </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_02c32292979f45da962280c334bc5815.pdf#page=162" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">21 April 2016</a></h3>
+                  <div class="timeline-body">Ms Heard punched (haymakered) Mr Depp on the night of 21 April 2016.
+
+                    P.1761
+
+                    17 So what happened after the guests left is that
+                    18          you started on Mr. Depp, started complaining about the fact
+                    19          that he was late, and you were going on and on at him.  Do you
+                    20          agree or not?
+
+                    21      A.  No.  I was sad he missed my birthday.
+
+                    22      Q.  He started to read, you became really annoyed, because one
+                    23          thing you get annoyed about is if he does not pay you
+                    24          attention or if he leaves?
+
+                    25      A.  No, ma'am.  He was not reading and I was upset because he had
+
+                    P.1762
+
+                    2          missed my birthday.  He also had scheduled his business
+                    3          meeting, even though he was having, you know, he had all day
+                    4          and the days before, and he was taking these kinds of meetings
+                    5          at this point in our lives quite a bit.  He scheduled this
+                    6          meeting, I believe, right before.  I think he scheduled it for
+                    7          30 minutes before my thirtieth birthday party began and he was
+                    8          still late on top of that, to the point of missing the ----
+
+                    9      Q.  During the row about this, it was you who punched him, was it
+                    10          not, twice in the face; yes or no?
+
+                    11      A.  Absolutely not.  He has no evidence to speak towards that and
+                    12          honestly, I could not ----
+
+                    13      MR. JUSTICE NICOL:  You just need to answer whether you punched
+                    14          him in the face or not.
+
+                    15      A.  No, absolutely not. </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_02c32292979f45da962280c334bc5815.pdf#page=166" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline time label -->
+              <div class="time-label">
+                <span class="bg-blue">May 2016</span>
+              </div>
+              <!-- /.timeline-label -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">May 2016</a></h3>
+                  <div class="timeline-body">
+                    Importantly, he was able to testify to seeing Ms Heard on a number of occasions in the week
+                    following 21 May 2016. With Mr Baruch, Ms Heard does not, cannot, say that she did not see
+                    him up close. Her attempts to say that she was wearing makeup clash with the evidence of a
+                    number of others, including Kristina Sexton. Mr Baruch was clearly deeply unsettled by Ms
+                    Heard�s allegations against Mr Depp in late May 2016.
+                  </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_02c32292979f45da962280c334bc5815.pdf#page=212" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">May 2016</a></h3>
+                  <div class="timeline-body">Ms McMillen, who was fond of Ms Heard, also did not see any injuries when she bumped
+                    into her at the Sweetzer house on 24th May 2016
+
+                    P.1029
+
+                    22      Q.  You have said in your witness statements that as far as the
+                    23          picture, the image of the 27th -- that is the one we last
+                    24          looked at where you agreed there were prominent injuries
+                    25          visible on Ms. Heard's face -- "I knew she did not have those
+                  </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_02c32292979f45da962280c334bc5815.pdf#page=207" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">May 2016</a></h3>
+                  <div class="timeline-body">    19          marks or swellings."
+
+                    20      A.  That is correct.
+
+                    21      Q.  How certain are you about that?
+
+                    22      A.  100%.
+
+                    23      Q.  Now, you had known Ms. Heard for some time by May 2016, had
+                    24          you not?
+
+                    25      A.  Since March 2016, I mean 2013.
+
+                    P.1372
+
+                    2      Q.  2013.  They moved in in March 2013, so you had known her three
+                    3          years and two months; yes?
+
+                    4      A.  Is that how long that is?
+
+                    5      Q.  13 ----
+
+                    6      A.  From March 2013, from March 2013 is when I first met her, in
+                    7          March 2013.
+
+                    8      Q.  I understand.  Have you ever known her to go out to a party
+                    9          without makeup on?
+
+                    10      A.  I would not know that.
+
+                    20      MS. WASS:  Yes.  Mr. Baruch, I asked you, having known Ms. Heard
+                    21          for three years and a bit, whether you had ever known her go
+                    22          to a party or to an outside event without being made up;
+                    23          I think you said you could not say that.
+
+                    24      THE WITNESS:  Yes, I would not know that.  I do not know how many
+                    25          parties she went to.  I do not know, you know, if every time
+
+                    P.1373
+
+                    2          she went to a party.  So, I could not tell you.
+
+                    But when
+                    12          you have known that she has been going to a party, have you
+                    13          ever seen her without makeup?
+
+                    14      A.  Any time that I saw her go to an event, that she was decked
+                    15          out in, she had makeup on.
+
+                    16      MS. WASS:  Had you ever known her leave the apartment block and go
+                    17          to a public place without wearing makeup?
+
+                    18      A.  (Pause) I do not know.  Yes.  Yes.
+
+                  </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_02c32292979f45da962280c334bc5815.pdf#page=215" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">May 2016</a></h3>
+                  <div class="timeline-body">
+                    Incident 14 � 21st May 2016 in PH3 at Eastern Columbia  </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_02c32292979f45da962280c334bc5815.pdf#page=172" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">May 2016</a></h3>
+                  <div class="timeline-body">
+                    Officer Saenz gave a straightforward account that she spoke to Ms Heard, had the opportunity
+                    to look at Ms Heard and she is sure that she showed no injuries
+
+                    Page 650
+                    16      Q.  Is this incident recall, which in fact we have got, and I am
+                    17          sorry you do not have a copy of it, is that incident recall
+                    18          the only document that was generated by you as far as your
+                    19          activities on 21st May 2016?
+
+                    20      A.  Yes, it is.
+
+                    21      Q.  All right.  Now, you gave a deposition in the United States
+                    22          about this on 18th July 2016.
+
+
+                    Page 653
+                    19      MS. WASS:  (To the witness) Her face was red from crying; yes?
+
+                    20      THE WITNESS:  Her face appeared red from crying, but it did not
+                    21          appear that she was injured or (unclear).
+
+                    22      MR. JUSTICE NICOL:  Sorry, officer, can you repeat your last
+                    23          answer, please?
+
+                    24      THE WITNESS:  Yes.  Her face was red, it was clear that she was
+                    25          crying, but it did not appear redness as if it would have been
+
+                    Page 654
+                    2          from an injury, from my training and experience.
+
+                    3      MR. JUSTICE NICOL:  Sorry, it did not appear that there was injury
+                    4          on her face, is that what you are saying?
+
+                    5      THE WITNESS:  Correct, no injuries.
+
+                    6      MS. WASS:  Let me ask you a little bit about that.  She was not
+                    7          making eye contact with you.
+
+                    8      MR. JUSTICE NICOL:  I think you have established that, Ms. Wass.
+
+                    9      MS. WASS:  You did not see her full face on at any time, did you,
+                    10          she had her face down and she was upset?
+
+                    11      THE WITNESS:  There were times when she made eye contact.  She was
+                    12          visibly upset, so she would look down, and sometimes she would
+                    13          look up when she spoke to me.  It was back and forth.  So,
+                    14          I did get a look at her entire face.
+
+                    15      Q.  What was the lighting like in this apartment?
+
+                    16      A.  It was very well lit.
+
+                    17      Q.  Did you ask her to go towards a light so you could examine her
+                    18          face? </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_02c32292979f45da962280c334bc5815.pdf#page=189" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">21 May 2016</a></h3>
+                  <div class="timeline-body">DAY 5 (Cross Examination of Trinity Esparza)
+
+                    Ms Esparza was clear that she had not confused Ms Heard with her sister, Whitney Henriques
+                    in the week after 21 May 2016. The fact that she had spoken to Ms Heard at close range was
+                    confirmed by the CCTV footage subsequently shown to Ms Heard in cross-examination. She
+                    had no animosity towards Ms Heard, she liked her; she has no reason to come to court and
+                    be untruthful. She was also clear that she knew makeup and Ms Heard well enough to know
+                    whether Ms Heard was, or was not, wearing any.
+
+                    Page 876
+
+                    6      Q.  Ms. Heard had a sister called Whitney; do you know that?
+
+                    7      A.  Yes.
+
+                    8      Q.  And Whitney (Hernandez her name is now) actually lived in the
+                    9          Eastern Columbia Building earlier in 2015; do you agree?
+
+                    10      A.  Yes.
+
+                    11      Q.  She was a regular visitor even after she moved out of that
+                    12          building?
+
+                    13      A.  Yes.
+
+                    14      Q.  And again, you know her by sight?
+
+                    15      A.  Yes.
+
+                    16      Q.  Similar in appearance to Ms. Amber Heard, tall, blonde, slim,
+                    17          very attractive?
+
+                    18      A.  Yes.
+
+                    19      MR. JUSTICE NICOL:  Sorry, Ms. Esparza, do you agree that she is
+                    20          similar in appearance to Ms. Amber Heard?
+
+                    21      THE WITNESS:  They are tall and blonde, they are sisters, they
+                    22          look like ----
+
+                    23      MS. WASS:  They look like sisters, and the description ----
+
+                    24      A.  I suppose so.
+
+                    25      Q.  And the description I have given to you applies to each of
+
+                    Page 877
+                    2          them, they are tall, slim, blonde and attractive?
+
+                    3      A.  Yes; but they are quite different people.
+
+
+                    Page 879
+                    4      Q.  Now, on 27th May, you saw Ms. Heard at your desk, you were
+                    5          working at the desk at the Eastern Columbia Building? </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_02c32292979f45da962280c334bc5815.pdf#page=201" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">21  May  2016</a></h3>
+                  <div class="timeline-body">    21      MR. SHERBORNE:  It was put to you by Ms. Wass that you did not
+                    22          really get a proper view of Ms. Heard.  Do you agree that you
+                    23          did not get a proper view of Ms. Heard or not, Mr. Bett?
+
+                    24      A.  No, I had a great view of Ms. Heard.
+
+                    25      Q.  How many years did you work in the Sheriff's Department?
+
+                    P.1309
+
+                    2      A.  Approximately 14.
+
+                    3      Q.  During the course of your time at the Sheriff's Department,
+                    4          did you have experience of allegations of violence or not?
+
+                    5      A.  Specifically related to calls for service?
+
+                    6      Q.  Yes.
+
+                    7      A.  Oh, indeed I did.
+
+                    8      Q.  You say in your witness statement that Ms. Heard had no red
+                    9          marks or evidence of any bruises, abrasions to her face, or
+                    10          body.  Having heard Ms. Wass's questions, do you want to
+                    11          change that evidence at all?
+
+                    12      A.  Not at all.
+
+                    13      Q.  It was put to you, Mr. Bett -- and I should give you the
+                    14          opportunity to comment on it -- that you are lying for
+                    15          Mr. Depp.  That is what you have come here to do.  What do you
+                    16          have to say about that?
+
+                    17      A.  That is incorrect, sir.
+
+                    18      Q.  Then, finally, you say in your statement, "I could see
+                    19          Mr. Depp was visibly upset at having been accused of hitting
+                    20          Ms. Heard".
+
+                    21      A.  Correct.
+
+                    22      Q.  Had you seen Mr. Depp be in this state before?
+
+                    23      A.  No.
+
+
+                    The  days  following  21  May  2016  are  summarised  in  an  Annex  to  the  Claimant�s  Closing
+                    Document. Below is some of the key testimony which the Court heard.
+                  </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_02c32292979f45da962280c334bc5815.pdf#page=200" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">21 May
+                    2016</a></h3>
+                  <div class="timeline-body">Mr Baruch did see some of the wine split in the hallway when he returned home on 21 May
+                    2016, after the police officers had left. Notably he thought it looked like the detritus of a party,
+                    not the result of quasi-criminal damage.  </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_02c32292979f45da962280c334bc5815.pdf#page=211" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">21 May 2016</a></h3>
+                  <div class="timeline-body">    17      A.  No, it is when she sees me.  She has seen me when I am in my
+                    18          makeup chair.  The wardrobe is set up often in a different
+                    19          site, if she came at all.  It is a different part of the
+                    20          wardrobe/makeup process in photo shoots.  It is just not how
+                    21          they work.
+
+                    22      Q.  She is someone who did what for you?  What exactly was her
+
+                    23          ----
+
+                    24      A.  Stylist.  She worked with me briefly as a stylist.  She is
+                    25          Johnny's lifelong stylist, I believe.
+
+                    P.1731
+
+                    2      MR. JUSTICE NICOL:  Just a moment.  Yes.
+
+                    3      MS. LAWS:  It is inconceivable to suggest that she would not have
+                    4          seen you without makeup, but you disagree?
+
+                    5      A.  I disagree.
+
+
+
+                    Ms Heard�s conduct after 21 May 2016 when she was seeking to get hold of Mr Depp were
+                    inconsistent with the notion that she was �petrified� of him as she declared in order to obtain
+                    a Temporary Restraining Order against him.
+
+                    It was also notable in her evidence that she refused to accept what was written in black and
+                    white by the attorneys who she had engaged to represent her, whether it was what they said
+                    about the alleged abuse or what their demands of Mr Depp entailed in order, they said on her
+                    behalf, to resolve the divorce amicably.
+
+                    Further  Ms  Heard�s  account  of  obtaining the  TRO  is  at  odds  with  reality  �  as set  out  in an
+                    Annex to the Claimant�s Closing Document
+
+
+                    DAY 10 (Amber Heard, cross-examination)
+
+                    P.1725
+
+                    5      MS. LAWS:  That would mean that if you had told your lawyer, as
+                    6          I suggest you would have done if you are telling the truth,
+                    7          what she would have put in this letter is, "He was violent on
+                    8          the 21st and he has been violent on so many incidents, a
+                    9          number of incidents in the last six months."
+
+                    10      A.  Are you asking me how my lawyer should have written it?
+
+                    11      Q.  If what you are saying is the truth.
+
+                    12      MR. JUSTICE NICOL:  I think what is being put to you, Ms. Heard,
+                    13          is that had Mr. Depp been violent to you on more than the
+                    14          three occasions that are mentioned in this letter, your lawyer
+                    15          would have referred to those. </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_02c32292979f45da962280c334bc5815.pdf#page=220" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">21 May 2016</a></h3>
+                  <div class="timeline-body">Mr Depp rejected the rather crass suggestion put to him that he numbed the pain of losing
+                    his mother, and of his financial difficulties by taking drugs on 21 May 2016
+
+                    Page 547
+                    13      Q.  Did you deal with the stress and the sadness of losing your
+                    14          mother by numbing the pain with the usual methods?
+
+                    15      A.  No, ma'am.
+
+                    16      Q.  No?
+
+                    17      A.  No, ma'am.  There was quite a lot going on, aside from the
+                    18          fact that I had, I was in very bad financial straits as my
+                    19          business managers and lawyers had conspired to steal a lot of
+                    20          money.  My mum was in a coma, she then passed away.  Amber and
+                    21          I were on the outs and it was looking like forever on the
+                    22          outs, but I tried to maintain a good relationship with
+                    23          Ms. Heard, a friendly relationship.
+
+                    24      Q.  My question was, you have answered it partially, there was an
+                    25          awful lot of stress going on in your life, business-wise, your
+
+                    Page 548 </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_02c32292979f45da962280c334bc5815.pdf#page=175" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">21 May 2016</a></h3>
+                  <div class="timeline-body">Events immediately prior to 21 May 2016 </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_02c32292979f45da962280c334bc5815.pdf#page=172" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">21 May 2016</a></h3>
+                  <div class="timeline-body">
+                    Importantly, he was able to testify to seeing Ms Heard on a number of occasions in the week
+                    following 21 May 2016. With Mr Baruch, Ms Heard does not, cannot, say that she did not see
+                    him up close. Her attempts to say that she was wearing makeup clash with the evidence of a
+                    number of others, including Kristina Sexton. Mr Baruch was clearly deeply unsettled by Ms
+                    Heard�s allegations against Mr Depp in late May 2016.
+                  </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_02c32292979f45da962280c334bc5815.pdf#page=212" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">22 May 2016</a></h3>
+                  <div class="timeline-body">    13      A.  Absolutely.
+
+                    14      Q.  You said: "I said to my friend something like, 'It looks like
+                    15          somebody got hammered, probably these guys had a party'", and
+                    16          you were referring to Ms. Heard's friends, Ms. Pennington and
+                    17          Mr. Drew; yes?
+
+                    18      A.  Yes.
+
+                    P.1367
+
+                    2      Q.  Now, then your statement carries on: "At that very moment the
+                    3          door to penthouse 1 opened and Mr. Drew stepped out far enough
+                    4          through the doorway to address me, but also to block my view
+                    5          of the apartment inside"; correct?
+
+                    6      A.  He just poked his head out.
+
+                    7      Q.  Okay.
+
+                    8      A.  He opened the door just enough to get his head out.
+
+                    9      Q.  "I asked Mr. Drew what had happened with the spilt wine, and
+                    10          he very seriously replied with words to the effect of, 'We
+                    11          kind of had a rough day'".  That is correct, is it not?
+
+                    12      A.  Yes.
+
+                    13      Q.  Your statement goes on: "He looked and sounded stressed, and a
+                    14          bit worried.  So I asked if he was okay and if he needed help,
+                    15          to which he replied, 'No, it's okay, thanks', or words to that
+                    16          effect.  I said it was okay, said goodbye, and my friend and
+                    17          I went into my apartment."  That is all correct, is it?
+
+                    18      A.  Yes.  Yes.
+
+
+                    P.1369 (on 22 May 2016)
+
+                    "We" -- that
+                    24          is you and Mr. Drew -- "then left my apartment and walked back
+                    25          to penthouse 1, where I asked Ms. Heard about Mr. Depp's
+
+                    P.1370
+
+                    2          actions the night before.  She told me that he hit her in the
+                    3          face and threw a phone at her.  I then asked her where he had
+                    4          hit her.  She stretched her neck and pushed out the right side
+                    5          of her head for me to look at her right eye"; yes?
+
+                    6      A.  Yes.  That is correct.  Just like this.
+
+                    7          (Witness demonstrates)
+
+                    8      Q.  Pointing the right cheek to you; yes? </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_02c32292979f45da962280c334bc5815.pdf#page=213" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">24 May 2016</a></h3>
+                  <div class="timeline-body">Ms Vargas saw Ms Heard on the same day, 24 May 2016, at Sweetzer  </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_02c32292979f45da962280c334bc5815.pdf#page=209" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">27 May 2016</a></h3>
+                  <div class="timeline-body">Ms Heard�s attendance at the Courthouse on 27 May 2016 was for publicity so that she could
+                    control the agenda
+                  </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_02c32292979f45da962280c334bc5815.pdf#page=226" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">27 May 2016</a></h3>
+                  <div class="timeline-body">In respect of the immediate aftermath, that is the days 22 to 27 May 2016, what emerged from
+                    the  testimony  of  a  large  number  of  witnesses  �  police  officers,  residents  in  the  Eastern
+                    Columbia Building, those who worked in the Eastern Columbia and others who bumped into
+                    Ms Heard over the subsequent days, such as Samantha McMillen, that the weight of evidence
+                    is overwhelming that Ms Heard was not sporting injuries.
+                  </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_02c32292979f45da962280c334bc5815.pdf#page=188" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline time label -->
+              <div class="time-label">
+                <span class="bg-blue">Jun. 2016</span>
+              </div>
+              <!-- /.timeline-label -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">June 2016</a></h3>
+                  <div class="timeline-body">    17      Q.  Your interpretation which you put in your statement is that
+                    18          you were just saying what Ms. Heard wanted to hear?
+
+                    19      A.  Yes, and in my conversation with Mr. Depp at the time, he said
+                    20          placate her, you know, say what you want to say, calm her
+                    21          down.  As I have said, often I find myself in this unfortunate
+                    22          position and "kicked" was the adjective she was using on the
+                    23          plane so "kicked" was the word I use here
+
+                    The cross-examination of Stephen Deuters on a newspaper article of 2 June 2016 did not give
+                    any support to the Claimant�s case.
+
+
+                    P.792
+                    11      MS. WASS:  That is an article in a newspaper, do you agree, dated
+                    12          2nd June 2016?
+
+                    13      A.  Yes.
+
+                    14      Q.  So, after the instigation of divorce proceedings; do you
+                    15          agree?
+
+                    16      A.  Right, yes.
+
+                    17      Q.  This is an article about you, really, is it not, Mr. Deuters:
+                    18          "Johnny Depp assistant says texts were doctored", and then
+                    19          turn over to the other page, which is F1131?
+
+                    20      A.  Yes.
+
+                    21      Q.  "Johnny Depp's assistant, Stephen Deuters, tells TMZ that the
+                    22          texts that were posted in which he allegedly apologised to
+                    23          Amber Heard for Johnny's violent behaviour are heavily
+                    24          doctored and he never said Johnny attacked her.  Deuters said
+                    25          he knows of no acts of abuse towards Amber at the hands of
+
+                    P.793
+                    2          Johnny and has never made such a claim to anyone.  He added
+                    3          Johnny has never been violent towards anyone he knows.
+                    4          Deuters said the texts themselves are suspicious because they
+                    5          don't even show a date.  Bottom line, he says he will testify
+                    6          under oath he never had a conversation about alleged violence
+                    7          with Amber." That is what you were saying, Mr. Deuters,
+                    8          publicly, about these texts?
+
+                    9      MR. JUSTICE NICOL:  Well, do you agree, Mr. Deuters, that the
+                    10          article reflects what you were saying at the time?
+
+                    11      A.  No, your Honour.  I never spoke to TMZ.  I never had a
+                    12          conversation with anyone about these texts outside of Johnny's
+                    13          then counsel.  I do not recall exactly who it was.  They asked
+                    14          me about the texts and I said to them that they were taken out
+                    15          of context.  I never used the word "doctored".  I never said
+                    16          that to a solitary soul.
+                  </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_02c32292979f45da962280c334bc5815.pdf#page=47" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">2 June 2016</a></h3>
+                  <div class="timeline-body">    17      Q.  Your interpretation which you put in your statement is that
+                    18          you were just saying what Ms. Heard wanted to hear?
+
+                    19      A.  Yes, and in my conversation with Mr. Depp at the time, he said
+                    20          placate her, you know, say what you want to say, calm her
+                    21          down.  As I have said, often I find myself in this unfortunate
+                    22          position and "kicked" was the adjective she was using on the
+                    23          plane so "kicked" was the word I use here
+
+                    The cross-examination of Stephen Deuters on a newspaper article of 2 June 2016 did not give
+                    any support to the Claimant�s case.
+
+
+                    P.792
+                    11      MS. WASS:  That is an article in a newspaper, do you agree, dated
+                    12          2nd June 2016?
+
+                    13      A.  Yes.
+
+                    14      Q.  So, after the instigation of divorce proceedings; do you
+                    15          agree?
+
+                    16      A.  Right, yes.
+
+                    17      Q.  This is an article about you, really, is it not, Mr. Deuters:
+                    18          "Johnny Depp assistant says texts were doctored", and then
+                    19          turn over to the other page, which is F1131?
+
+                    20      A.  Yes.
+
+                    21      Q.  "Johnny Depp's assistant, Stephen Deuters, tells TMZ that the
+                    22          texts that were posted in which he allegedly apologised to
+                    23          Amber Heard for Johnny's violent behaviour are heavily
+                    24          doctored and he never said Johnny attacked her.  Deuters said
+                    25          he knows of no acts of abuse towards Amber at the hands of
+
+                    P.793
+                    2          Johnny and has never made such a claim to anyone.  He added
+                    3          Johnny has never been violent towards anyone he knows.
+                    4          Deuters said the texts themselves are suspicious because they
+                    5          don't even show a date.  Bottom line, he says he will testify
+                    6          under oath he never had a conversation about alleged violence
+                    7          with Amber." That is what you were saying, Mr. Deuters,
+                    8          publicly, about these texts?
+
+                    9      MR. JUSTICE NICOL:  Well, do you agree, Mr. Deuters, that the
+                    10          article reflects what you were saying at the time?
+
+                    11      A.  No, your Honour.  I never spoke to TMZ.  I never had a
+                    12          conversation with anyone about these texts outside of Johnny's
+                    13          then counsel.  I do not recall exactly who it was.  They asked
+                    14          me about the texts and I said to them that they were taken out
+                    15          of context.  I never used the word "doctored".  I never said
+                    16          that to a solitary soul.
+                  </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_02c32292979f45da962280c334bc5815.pdf#page=47" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline time label -->
+              <div class="time-label">
+                <span class="bg-blue">Jul. 2016</span>
+              </div>
+              <!-- /.timeline-label -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">July 2016</a></h3>
+                  <div class="timeline-body">
+                    P.1763
+                    11      Q.  When you met Mr. Depp in July 2016, so after the restraining
+                    12          order, when it was still in place in fact but before the
+                    13          divorce was finalised, do you remember that recording that we
+                    14          have heard a lot about that was made of the meeting?
+
+                    15      A.  Yes.
+
+                    16      Q.  And do you remember there is a part of it in which he makes it
+                    17          quite clear that he said, "I did not want you to go to
+                    18          Coachella, I left you because you haymakered me, you came
+                    19          around the bed to start fucking punching on me" and you did
+                    20          not deny it, did you?
+
+                    21      A.  No, that is not what I was having a conversation with him
+                    22          about.
+
+
+                    P.1764
+
+                    4      MS. LAWS:  After the 21st, we are on the 22nd, so the morning you
+                    5          saw Rocky, she came into the penthouse; that is right, is it
+                    6          not?
+
+                    7      THE WITNESS:  Yes.
+
+                    8      Q.  You, in fact, did not mention or say at all that Mr. Depp had
+                    9          hit you or assaulted you in any way, did you?
+
+                    10      A.  That is not true.  I did.
+
+                    11      MR. JUSTICE NICOL:  Just a minute.  (Pause)
+
+                    12      MS. LAWS:  I suggest that is absolutely untrue?
+
+                    13      THE WITNESS:  I texted her that night and said, we had another
+                    14          real bad one, which at that point was a well-recognised,
+                    15          almost euphemism for a physical altercation.  Rocky knew very
+                    16          well I meant that Johnny had hit me.  And I asked her to wake
+                    17          me up specifically once she was ready -- well, ready to go in
+                    18          the morning, and I managed to get a few hours of sleep.
+
+                    P.1765
+
+                    8      MS. LAWS:  What you said to Rocky is that you had a row.  I will
+                    9          repeat the question again.  You at no stage informed Rocky
+                    10          that Mr. Depp had hit you or assaulted you?
+
+                    11      A.  Again, I was ----
+
+                    12      MR. JUSTICE NICOL:  Just a minute.
+
+                    13      THE WITNESS:  Sure.  (Pause)
+                  </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_02c32292979f45da962280c334bc5815.pdf#page=167" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">July 2016</a></h3>
+                  <div class="timeline-body">Page 717
+                    25      Q.  And the nurse says this: "I arrived with client's UK
+
+                    Page 718
+                    2          assistant", if your Lordship notes that, ".... arrived with
+                    3          the client's UK assistant, Savannah, at nine o'clock.  The
+                    4          client was socialising with friends" upon Ms. Burin's arrival.
+                    5          "She appeared irritable and upset."  She reports being angry
+                    6          with husband because he is late and then Nurse Burin provided
+                    7          reassurance that he would arrive and encouraged her to
+                    8          distract herself by socialising with friends.  Then you will
+                    9          see she appears to laugh, but her mood turns to depressed and
+                    10          flat when she is alone.  Then she says she cannot believe that
+                    11          you are not there yet and so on.
+                    12                Then you arrive.  Can you see, "Client's husband, JD,
+                    13          arrives at 10.15."  Then it says this.  You appear in good
+                    14          spirits, you greet her guests, and during dinner you and
+                    15          Ms. Heard sit next to each another.  You appear affectionate
+                    16          towards one another and then you socialise with Ms. Burin for
+                    17          about 45 minutes.  She says you appear coherent, oriented and
+                    18          sociable.  Does that reflect your recollection of how you
+                    19          were?
+
+                    20      A.  Yes.
+
+                    Page 719
+
+                    17      Q.  Can I take you back to that transcript, which should be in
+                    18          file 5, and it is 161N.  It is the secret recording Ms. Heard
+                    19          did of your meeting on the second day in July 2016 in the
+                    20          hotel room in San Francisco.
+
+                    Page 720
+                    4      MR. SHERBORNE:  We are.  It is internal page 14 for me, but I will
+                    5          give you the reference.  (Pause) I do not know if you have got
+                    6          references at the bottom.  Yes, it is F1009 -- do you have
+                    7          internal pages at the bottom?
+                    �
+                    12          quite sensitive on the electronic bundle.  There we go, it is
+                    13          on page F1009.23.  Do you have that?
+
+                    14      A.  I do.
+
+                    15      Q.  And do you see, round about the first hole punch, I hope it
+                    16          is, that you are saying, "I don't want a divorce"?
+
+                    17      A.  Yes.
+
+                    18      Q.  "I don't want a divorce.  I never wanted a fucking divorce.  I
+                    19          never wanted a divorce.  I didn't want you to fucking go to
+                    20          Coachella without fucking talking to me because I left you
+                    21          because you fucking haymakered me, man.  You came around the
+                    22          bed to fucking start punching on me."  Can you explained what
+                    23          "haymakered" means, Mr. Depp?
+                  </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_02c32292979f45da962280c334bc5815.pdf#page=157" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">July 2016</a></h3>
+                  <div class="timeline-body">The evidence was that Mr Depp had come from a meeting, he may have smoked cannabis to
+                    calm  himself  but  Nurse  Erin�s  notes  made  clear  he  was  coherent,  sociable  on  arrival.  The
+                    recording which Ms Heard made of her meeting with Mr Depp in July 2016 contains Mr Depp�s
+                    impromptu account of what transpired that night as Ms Heard was furious that he was late for
+                    her birthday dinner, she �haymakered� him. The violence was all one way and Ms Heard is
+                    attempting to deflect from her conduct by accusing Mr Depp of what she is guilty of.
+                  </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_02c32292979f45da962280c334bc5815.pdf#page=154" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">July 2016</a></h3>
+                  <div class="timeline-body">
+                    Officer Saenz gave a straightforward account that she spoke to Ms Heard, had the opportunity
+                    to look at Ms Heard and she is sure that she showed no injuries
+
+                    Page 650
+                    16      Q.  Is this incident recall, which in fact we have got, and I am
+                    17          sorry you do not have a copy of it, is that incident recall
+                    18          the only document that was generated by you as far as your
+                    19          activities on 21st May 2016?
+
+                    20      A.  Yes, it is.
+
+                    21      Q.  All right.  Now, you gave a deposition in the United States
+                    22          about this on 18th July 2016.
+
+
+                    Page 653
+                    19      MS. WASS:  (To the witness) Her face was red from crying; yes?
+
+                    20      THE WITNESS:  Her face appeared red from crying, but it did not
+                    21          appear that she was injured or (unclear).
+
+                    22      MR. JUSTICE NICOL:  Sorry, officer, can you repeat your last
+                    23          answer, please?
+
+                    24      THE WITNESS:  Yes.  Her face was red, it was clear that she was
+                    25          crying, but it did not appear redness as if it would have been
+
+                    Page 654
+                    2          from an injury, from my training and experience.
+
+                    3      MR. JUSTICE NICOL:  Sorry, it did not appear that there was injury
+                    4          on her face, is that what you are saying?
+
+                    5      THE WITNESS:  Correct, no injuries.
+
+                    6      MS. WASS:  Let me ask you a little bit about that.  She was not
+                    7          making eye contact with you.
+
+                    8      MR. JUSTICE NICOL:  I think you have established that, Ms. Wass.
+
+                    9      MS. WASS:  You did not see her full face on at any time, did you,
+                    10          she had her face down and she was upset?
+
+                    11      THE WITNESS:  There were times when she made eye contact.  She was
+                    12          visibly upset, so she would look down, and sometimes she would
+                    13          look up when she spoke to me.  It was back and forth.  So,
+                    14          I did get a look at her entire face.
+
+                    15      Q.  What was the lighting like in this apartment?
+
+                    16      A.  It was very well lit.
+
+                    17      Q.  Did you ask her to go towards a light so you could examine her
+                    18          face? </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_02c32292979f45da962280c334bc5815.pdf#page=189" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline time label -->
+              <div class="time-label">
+                <span class="bg-blue">Aug. 2016</span>
+              </div>
+              <!-- /.timeline-label -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">August 2016</a></h3>
+                  <div class="timeline-body">Mr Muphy has no reason to lie for Mr Depp
+
+                    P.1206
+                    7   It is suggested by
+                    8          Ms. Wass on a number of occasions that you have lied in your
+                    9          witness statement.  In December 2019, which is the date of
+                    10          your first witness statement, were you working for Mr. Depp
+                    11          still or not?
+
+                    12      A.  What was the year, sorry?
+
+                    13      Q.  December 2019.
+
+                    14      A.  I was not.
+
+                    15      Q.  To be fair to you, I think in your witness statement you say
+                    16          you stopped, you parted company with Mr. Depp in August 2016;
+                    17          is that correct or not?
+
+                    18      A.  That is correct.
+
+                    19      Q.  In relation to your second witness statement, on 23rd June
+                    20          2020, were you working for Mr. Depp, or doing anything for
+                    21          Mr. Depp at that time?
+
+                    22      A.  I was not.
+
+                    23      Q.  Mr. Murphy, the final question: did you have to come here to
+                    24          give evidence for Mr. Depp and be accused of lying on oath by
+                    25          Ms. Wass?
+
+                    P.1207
+
+                    2      A.  I definitely did not have to come here.
+                  </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_02c32292979f45da962280c334bc5815.pdf#page=162" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline time label -->
+              <div class="time-label">
+                <span class="bg-blue">Dec. 2019</span>
+              </div>
+              <!-- /.timeline-label -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">December 2019</a></h3>
+                  <div class="timeline-body">Mr Muphy has no reason to lie for Mr Depp
+
+                    P.1206
+                    7   It is suggested by
+                    8          Ms. Wass on a number of occasions that you have lied in your
+                    9          witness statement.  In December 2019, which is the date of
+                    10          your first witness statement, were you working for Mr. Depp
+                    11          still or not?
+
+                    12      A.  What was the year, sorry?
+
+                    13      Q.  December 2019.
+
+                    14      A.  I was not.
+
+                    15      Q.  To be fair to you, I think in your witness statement you say
+                    16          you stopped, you parted company with Mr. Depp in August 2016;
+                    17          is that correct or not?
+
+                    18      A.  That is correct.
+
+                    19      Q.  In relation to your second witness statement, on 23rd June
+                    20          2020, were you working for Mr. Depp, or doing anything for
+                    21          Mr. Depp at that time?
+
+                    22      A.  I was not.
+
+                    23      Q.  Mr. Murphy, the final question: did you have to come here to
+                    24          give evidence for Mr. Depp and be accused of lying on oath by
+                    25          Ms. Wass?
+
+                    P.1207
+
+                    2      A.  I definitely did not have to come here.
+                  </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_02c32292979f45da962280c334bc5815.pdf#page=162" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">December 2019</a></h3>
+                  <div class="timeline-body">Mr Muphy has no reason to lie for Mr Depp
+
+                    P.1206
+                    7   It is suggested by
+                    8          Ms. Wass on a number of occasions that you have lied in your
+                    9          witness statement.  In December 2019, which is the date of
+                    10          your first witness statement, were you working for Mr. Depp
+                    11          still or not?
+
+                    12      A.  What was the year, sorry?
+
+                    13      Q.  December 2019.
+
+                    14      A.  I was not.
+
+                    15      Q.  To be fair to you, I think in your witness statement you say
+                    16          you stopped, you parted company with Mr. Depp in August 2016;
+                    17          is that correct or not?
+
+                    18      A.  That is correct.
+
+                    19      Q.  In relation to your second witness statement, on 23rd June
+                    20          2020, were you working for Mr. Depp, or doing anything for
+                    21          Mr. Depp at that time?
+
+                    22      A.  I was not.
+
+                    23      Q.  Mr. Murphy, the final question: did you have to come here to
+                    24          give evidence for Mr. Depp and be accused of lying on oath by
+                    25          Ms. Wass?
+
+                    P.1207
+
+                    2      A.  I definitely did not have to come here.
+                  </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_02c32292979f45da962280c334bc5815.pdf#page=162" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline time label -->
+              <div class="time-label">
+                <span class="bg-blue">Jun. 2020</span>
+              </div>
+              <!-- /.timeline-label -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">June
+                    20</a></h3>
+                  <div class="timeline-body">Mr Muphy has no reason to lie for Mr Depp
+
+                    P.1206
+                    7   It is suggested by
+                    8          Ms. Wass on a number of occasions that you have lied in your
+                    9          witness statement.  In December 2019, which is the date of
+                    10          your first witness statement, were you working for Mr. Depp
+                    11          still or not?
+
+                    12      A.  What was the year, sorry?
+
+                    13      Q.  December 2019.
+
+                    14      A.  I was not.
+
+                    15      Q.  To be fair to you, I think in your witness statement you say
+                    16          you stopped, you parted company with Mr. Depp in August 2016;
+                    17          is that correct or not?
+
+                    18      A.  That is correct.
+
+                    19      Q.  In relation to your second witness statement, on 23rd June
+                    20          2020, were you working for Mr. Depp, or doing anything for
+                    21          Mr. Depp at that time?
+
+                    22      A.  I was not.
+
+                    23      Q.  Mr. Murphy, the final question: did you have to come here to
+                    24          give evidence for Mr. Depp and be accused of lying on oath by
+                    25          Ms. Wass?
+
+                    P.1207
+
+                    2      A.  I definitely did not have to come here.
+                  </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_02c32292979f45da962280c334bc5815.pdf#page=162" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline time label -->
+              <div class="time-label">
+                <span class="bg-blue">Mar. 2025</span>
+              </div>
+              <!-- /.timeline-label -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">March
+
+                    25</a></h3>
+                  <div class="timeline-body">nan</div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_02c32292979f45da962280c334bc5815.pdf#page=2" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+            </div>
+          </div>
+          <!-- /.col -->
+        </div>
+      </div>
+      <!-- /.timeline -->
+
+    </section>
+    <!-- /.content -->
+  </div>
+  <!-- /.content-wrapper -->
+  <footer class="main-footer">
+    <strong>Made with <a href="https://adminlte.io">AdminLTE.io</a>.</strong>
+    <div class="float-right d-none d-sm-inline-block">
+      <b>Version</b> 3.2.0
+    </div>
+  </footer>
+
+  <!-- Control Sidebar -->
+  <aside class="control-sidebar control-sidebar-dark">
+    <!-- Control sidebar content goes here -->
+  </aside>
+  <!-- /.control-sidebar -->
+</div>
+<!-- ./wrapper -->
+
+<!-- jQuery -->
+<script src="../../plugins/jquery/jquery.min.js"></script>
+<!-- Bootstrap 4 -->
+<script src="../../plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
+<!-- AdminLTE App -->
+<script src="../../dist/js/adminlte.min.js"></script>
+</body>
+</html>

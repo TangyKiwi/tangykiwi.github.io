@@ -1,0 +1,4268 @@
+---
+permalink: /defendant.html
+---
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Worldie | Depp vs. NGN</title>
+
+  <!-- Google Font: Source Sans Pro -->
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback">
+  <!-- Font Awesome -->
+  <link rel="stylesheet" href="plugins/fontawesome-free/css/all.min.css">
+  <!-- AdminLTE css -->
+  <link rel="stylesheet" href="dist/css/adminlte.min.css">
+</head>
+<body class="hold-transition sidebar-mini layout-fixed">
+<div class="wrapper">
+
+  <!-- Preloader -->
+<!--    <div class="preloader flex-column justify-content-center align-items-center">-->
+<!--      <img src="dist/img/worldie_logo.png" alt="worldie_logo" height="169" width="500">-->
+<!--      <img class="image" src="dist/img/loading.gif" alt="loading_gif" height="75" width="75">-->
+<!--    </div>-->
+
+  <!-- Main Sidebar Container -->
+  <aside class="main-sidebar sidebar-light-primary elevation-4">
+    <!-- Brand Logo -->
+    <a href="annex.md" class="brand-link">
+      <img src="dist/img/worldie_logo.png" alt="worldie_logo" class="brand-image img-circle elevation-3" style="opacity: .8">
+      <span class="brand-text font-weight-light">Depp vs. NGN</span>
+    </a>
+
+    <!-- Sidebar -->
+    <div class="sidebar">
+      <!-- Sidebar Menu -->
+      <nav class="mt-2">
+        <ul class="nav nav-pills nav-sidebar flex-column" data-widget="treeview" role="menu" data-accordion="false">
+          <!-- Add icons to the links using the .nav-icon class
+               with font-awesome or any other icon font library -->
+          <li class="nav-item menu-open">
+            <a href="#" class="nav-link active">
+              <i class="nav-icon fas fa-tachometer-alt"></i>
+              <p>
+                Timelines
+                <i class="right fas fa-angle-left"></i>
+              </p>
+            </a>
+            <ul class="nav nav-treeview">
+              <li class="nav-item">
+                <a href="./annex.md" class="nav-link">
+                  <i class="far fa-circle nav-icon"></i>
+                  <p>Annex</p>
+                </a>
+              </li>
+              <li class="nav-item">
+                <a href="./claimant.md" class="nav-link">
+                  <i class="far fa-circle nav-icon"></i>
+                  <p>Claimant</p>
+                </a>
+              </li>
+              <li class="nav-item">
+                <a href="./defendant.md" class="nav-link active">
+                  <i class="far fa-check-circle nav-icon"></i>
+                  <p>Defendant</p>
+                </a>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </nav>
+      <!-- /.sidebar-menu -->
+    </div>
+    <!-- /.sidebar -->
+  </aside>
+
+  <!-- Content Wrapper. Contains page content -->
+  <div class="content-wrapper">
+    <!-- Content Header (Page header) -->
+    <div class="content-header">
+      <div class="container-fluid">
+        <div class="row mb-2">
+          <div class="col-sm-6">
+            <h1 class="m-0">Defendant Timeline</h1>
+          </div><!-- /.col -->
+        </div><!-- /.row -->
+      </div><!-- /.container-fluid -->
+    </div>
+    <!-- /.content-header -->
+
+    <!-- Main content -->
+    <section class="content">
+      <div class="container-fluid">
+
+        <!-- Timelime example  -->
+        <div class="row">
+          <div class="col-md-12">
+            <!-- The time line -->
+            <div class="timeline">
+              <!-- timeline time label -->
+              <div class="time-label">
+                <span class="bg-blue">Mar. 2012</span>
+              </div>
+              <!-- /.timeline-label -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">22  March  2012</a></h3>
+                  <div class="timeline-body">However,  the  Claimant�s  claim  that  the  term  was  one  solely  deployed  by  Ms  Heard  is
+                    contradicted  by  the  fact  that  he  himself  used  the  term  �the  monster�  even  when
+                    communicating  with  individuals  who  had  nothing  to  do  with  Ms  Heard.  He  used  it  in  an
+                    email  he  sent  to  Elton  John  on  22  March  2012  celebrating  100  days  of  sobriety,  where  he
+                    said  of  his  time  as  a  substance  abuser:  �Hellish  personal  life,  fucked  brain,  hurt  heart  and
+                    would  have  been  swallowed  up  by  the  monster  were  it
+                    internal  savagery  against  myself.  |
+                    not  for  you.  That  is  a  simple  fact�.  |n  evidence  the  Claimant  said  of  this  email,  �the  monster
+                    here  is  death�  [1/134/9-24]. </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=8" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline time label -->
+              <div class="time-label">
+                <span class="bg-blue">Mar. 2013</span>
+              </div>
+              <!-- /.timeline-label -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">March  2013</a></h3>
+                  <div class="timeline-body">It  was  put  to  Ms  Heard  (with  reference  to  the  texts  at  File  7,  Tab  2(b)(ii),  pages  H23.4B-
+                    H23.4D)  that  the  defacing  of  the  painting  with  the  words  �Tasya  van  Pee�  occurred  in
+                    February  2014,  not  March  2013.  However,  Ms  Heard  explained  that  that  text  appended  a
+                    photo  of  a  different  painting  to  that  which  was  defaced  and  burned  in  March  2013
+                    [11/1828/10-23].  The  photo  which  the  Claimant  set  fire  to  was  a  painting  featuring
+                    text  messages  between  Ms  Henriquez  and  �Mr  Hop�  (the
+                    flamingos  contained  in
+                    Claimant)  which  can  be  found  in  File  7,  Tab  2(b)(i){A)/H23.4A.  This  canvas  painting  was </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=40" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">March  2013</a></h3>
+                  <div class="timeline-body">It  was  put  to  Ms  Heard  (with  reference  to  the  texts  at  File  7,  Tab  2(b)(ii),  pages  H23.4B-
+                    H23.4D)  that  the  defacing  of  the  painting  with  the  words  �Tasya  van  Pee�  occurred  in
+                    February  2014,  not  March  2013.  However,  Ms  Heard  explained  that  that  text  appended  a
+                    photo  of  a  different  painting  to  that  which  was  defaced  and  burned  in  March  2013
+                    [11/1828/10-23].  The  photo  which  the  Claimant  set  fire  to  was  a  painting  featuring
+                    text  messages  between  Ms  Henriquez  and  �Mr  Hop�  (the
+                    flamingos  contained  in
+                    Claimant)  which  can  be  found  in  File  7,  Tab  2(b)(i){A)/H23.4A.  This  canvas  painting  was </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=40" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">March  2013</a></h3>
+                  <div class="timeline-body">Henriquez  explained  that  this  had  been  an  �honest  mistake�  which  arose  as  �I  simply  just
+                    merged  the  two  defacements,  if  you  will,  in  one  memory,  that  is  all�  [14/2281/5-6].  It  was
+                    put  to  her  in  cross-examination  that  she  had  invented  her  account  of  the  painting  incident,
+                    changing  the  date  only  when  she  learned  that  a  photograph  had  been  disclosed  taken  on
+                    21  March  2013  showing  Ms  Heard  with  Keith  Richards,  Ms  Henriquez  and  the  Claimant
+                    apparently  uninjured  [File  9/94(a)/J10.1].  However,  Ms  Henriquez  explained  that  she  had
+                    had  that  Keith  Richards  photo  for  a  long  time,  since  the  Claimant  had  sent  it  to  her  years
+                    beforehand  and  she  had  stored  it  on  her  phone  [13/2133/15-2134/8].  It  therefore  cannot
+                    have  been  the  prompt  for  Ms  Henriquez  to  change  her  evidence  as  to  the  date  of  the </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=38" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">March  2013</a></h3>
+                  <div class="timeline-body">Ms  Heard  got  the  date  of  the  incident  wrong  in  her  first  statement  for  these
+                    a  text  on  12  March  2013  [File
+                    proceedings.  The  incident  which  was  referred  to
+                    2/60/E44]  as  a  �disco  bloodbath�  took  place  earlier  that  month,  on  &  March  2013.  It  was
+                    during  that  earlier  incident,  at  the  Eastern  Columbia  Building,  that  the  Claimant  had  hit
+                    a  way  which  caused
+                    Ms  Heard  with  a  backhand  using  a  hand  with  rings  on,  near  a  fridge,  in
+                    blood  to  splatter  on  the  wall  [11/1798/4-11].  Ms  Henriquez  also  mistakenly  stated  in  her
+                    statement  that  the  incident  occurred  on  8  March,  and  could  not  recall  why  she  put  that
+                    date  in  the  statement  [13/2137/5-7].  She  realized  she  had  got  the  date  wrong  when
+                    recently  reviewing  texts  between  her  and  Nathan  Holmes  about  McDonalds  [14/2269/23-
+                    Mr  McLagan </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=37" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">8  March  2013</a></h3>
+                  <div class="timeline-body">It  is  to  be  noted  that  nowhere  did  Ms  Heard  state  in  her  evidence  that  the  painting  in
+                    question  was  the  �Tasya  Van  Pee�  painting:  the  error  was  that  of  Ms  Henriquez  alone.  It  is
+                    also  to  be  noted  that  Ms  Heard�s  sixth  witness  statement,  in  which  she  said  (at  paragraph
+                    9)  that  �During  the  course  of  reading  through  these  materials,  |  have  now  realized  |  cannot
+                    cannot  say  for  certain  it
+                    be  sure  that  the  painting  incident  took  place  on  8  March  2013  ...
+                    was  on  8  March  2013�  was  served  on  the  Claimant's  solicitors  on  5  July  2020  at  10:48  am.
+                    This  was  before  any  disclosure  by  the  Claimant  of  photographs  with  Keith  Richards,  or  lan
+                    McLagan,  or  flight  records  for  Mr  McLagan.  The  suggestion  that  Ms  Heard  has  been
+                    �forced  to�  change  her  evidence  as  to  the  date  or  nature  of  the  painting  incident  as  a
+                    result  of  being  confronted  by  disclosure  from  the  Claimant  {as  was  suggested  at </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=41" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">8  March  2013</a></h3>
+                  <div class="timeline-body">It  is  to  be  noted  that  nowhere  did  Ms  Heard  state  in  her  evidence  that  the  painting  in
+                    question  was  the  �Tasya  Van  Pee�  painting:  the  error  was  that  of  Ms  Henriquez  alone.  It  is
+                    also  to  be  noted  that  Ms  Heard�s  sixth  witness  statement,  in  which  she  said  (at  paragraph
+                    9)  that  �During  the  course  of  reading  through  these  materials,  |  have  now  realized  |  cannot
+                    cannot  say  for  certain  it
+                    be  sure  that  the  painting  incident  took  place  on  8  March  2013  ...
+                    was  on  8  March  2013�  was  served  on  the  Claimant's  solicitors  on  5  July  2020  at  10:48  am.
+                    This  was  before  any  disclosure  by  the  Claimant  of  photographs  with  Keith  Richards,  or  lan
+                    McLagan,  or  flight  records  for  Mr  McLagan.  The  suggestion  that  Ms  Heard  has  been
+                    �forced  to�  change  her  evidence  as  to  the  date  or  nature  of  the  painting  incident  as  a
+                    result  of  being  confronted  by  disclosure  from  the  Claimant  {as  was  suggested  at </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=41" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">12  March  2013</a></h3>
+                  <div class="timeline-body">Ms  Heard  got  the  date  of  the  incident  wrong  in  her  first  statement  for  these
+                    a  text  on  12  March  2013  [File
+                    proceedings.  The  incident  which  was  referred  to
+                    2/60/E44]  as  a  �disco  bloodbath�  took  place  earlier  that  month,  on  &  March  2013.  It  was
+                    during  that  earlier  incident,  at  the  Eastern  Columbia  Building,  that  the  Claimant  had  hit
+                    a  way  which  caused
+                    Ms  Heard  with  a  backhand  using  a  hand  with  rings  on,  near  a  fridge,  in
+                    blood  to  splatter  on  the  wall  [11/1798/4-11].  Ms  Henriquez  also  mistakenly  stated  in  her
+                    statement  that  the  incident  occurred  on  8  March,  and  could  not  recall  why  she  put  that
+                    date  in  the  statement  [13/2137/5-7].  She  realized  she  had  got  the  date  wrong  when
+                    recently  reviewing  texts  between  her  and  Nathan  Holmes  about  McDonalds  [14/2269/23-
+                    Mr  McLagan </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=37" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">20  March  2013</a></h3>
+                  <div class="timeline-body">20  March  2013  to  23  March  2013  is  appended  at  appendix  1  to  these  submissions. </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=36" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">20  March  2013</a></h3>
+                  <div class="timeline-body">Wednesday  20  March  2013 </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=83" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">21  March
+                    2013</a></h3>
+                  <div class="timeline-body">Late  inthe
+                    evening  of
+                    21  March
+                    2013  or
+                    early  hours  |  During  the  course  of  the  incident,  the  Claimant
+                    of 22  March  |  attempted  to  set  fire  to  this  canvas  painting�:
+                    2013  (exact
+                    time
+                    unknown) </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=85" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">21
+                    March  2013</a></h3>
+                  <div class="timeline-body">�Additional  pictures  taken  on the  evening  of  21
+                    March  2013:
+                  </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=84" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">21  March  2013</a></h3>
+                  <div class="timeline-body">Thursday  21  March  2013:  Day  1  of  3  of  filming  �Happy�  documentary </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=83" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">21  March  2013</a></h3>
+                  <div class="timeline-body">Henriquez  explained  that  this  had  been  an  �honest  mistake�  which  arose  as  �I  simply  just
+                    merged  the  two  defacements,  if  you  will,  in  one  memory,  that  is  all�  [14/2281/5-6].  It  was
+                    put  to  her  in  cross-examination  that  she  had  invented  her  account  of  the  painting  incident,
+                    changing  the  date  only  when  she  learned  that  a  photograph  had  been  disclosed  taken  on
+                    21  March  2013  showing  Ms  Heard  with  Keith  Richards,  Ms  Henriquez  and  the  Claimant
+                    apparently  uninjured  [File  9/94(a)/J10.1].  However,  Ms  Henriquez  explained  that  she  had
+                    had  that  Keith  Richards  photo  for  a  long  time,  since  the  Claimant  had  sent  it  to  her  years
+                    beforehand  and  she  had  stored  it  on  her  phone  [13/2133/15-2134/8].  It  therefore  cannot
+                    have  been  the  prompt  for  Ms  Henriquez  to  change  her  evidence  as  to  the  date  of  the </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=38" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">22  March  2013</a></h3>
+                  <div class="timeline-body">22  March  2013  �painting�  incident </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=36" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">22  March  2013</a></h3>
+                  <div class="timeline-body">Appended  to  these  submissions  are  four  appendices  containing  chronologies  referencing
+                    �painting�
+                    the  key  contemporaneous  documents for  the  following  incidents:  22  March  2013
+                    incident;  Australia,  March  2015;  15  December  2015;  and  21  May  2016. </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=1" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">22  March  2013</a></h3>
+                  <div class="timeline-body">Painting  incident:  22  March  2013,  Los  Angeles
+                    Defendants�  chronology  of  relevant  documentary  evidence </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=83" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">22  March  2013</a></h3>
+                  <div class="timeline-body">Friday  22  March  2013:  Day  2  of  3  of  filming  �Happy�  documentary </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=86" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">22  March  2013</a></h3>
+                  <div class="timeline-body">Why  send  a  text  message  to  her  mother  on  22  March  2013  saying  �It's  ok  mom.
+                    He's  not  being  violent  with  me�?  [7/1(b)/H21A.2]  �  (see  further  below). </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=29" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">22  March  2013</a></h3>
+                  <div class="timeline-body">Ms  Heard  texted  her  mother  on  22  March  2013  stating  of  the  Claimant  �He�s  nuts
+                    |  am  heartbroken  that  THIS  is  who  |  love�  [File
+                    mom.  Violent  and  crazy.
+                    7/1(b)/H21A.2].  The  following  day  Ms  Heard  texted  her  mother  enclosing  a  photo
+                    of  the  bruise  to  her  arm  sustained  two  weeks  earlier  as  a  result  of  the  altercation
+                    with  the  Claimant  [File  7/1(b)/H22A.7};  [File  6/148/F894.001). </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=25" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">23  March  2013</a></h3>
+                  <div class="timeline-body">20  March  2013  to  23  March  2013  is  appended  at  appendix  1  to  these  submissions. </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=36" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">23  March  2013</a></h3>
+                  <div class="timeline-body">Saturday  23  March  2013:  Day  3  of  3  of  filming  �Happy�  documentary </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=94" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">23  March  2013</a></h3>
+                  <div class="timeline-body">also  supported  by  texts  from  22-23  March  2013  (see
+                    chronology,  appendix  1).  The  court  is  invited  to  read  all  the  texts  as  set  out  in  the </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=39" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline time label -->
+              <div class="time-label">
+                <span class="bg-blue">Apr. 2013</span>
+              </div>
+              <!-- /.timeline-label -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">7  April
+                    2013</a></h3>
+                  <div class="timeline-body">Aphoto  [File  9/86(e)/J48.14]  of  Ms  Heard  with  Mr  McLagan  was  also  put  to  Ms  Heard
+                    as  a  basis  for  a  suggestion  that  she  was  not  injured  in  the  photo,  However  this  photo  was
+                    initially  provided  by  the  Claimant�s  lawyers  along  with  metadata  featuring  the  date  7  April
+                    2013  [File  9/86(e)/J48.16].  It  was  subsequently  suggested  that  travel  documents  of  Mr
+                    McLagan  somehow  demonstrate  the  photo  was  taken  on  23  March,  but  they  do  no  such
+                    thing.  The  photo  could  have  been  taken  at  any  time,  including  (and  indeed  most  likely)  on
+                    7  April  �  there  is  no  evidence  from  Mr  McLagan,  or  whoever  is  said  to  have  taken  the
+                    photograph,  as  to  when  (or  where)  the  photo  was  taken.  Furthermore,  regardless  of  when
+                    the  photo  was  taken,  that  photo  did  not  demonstrate  that  Ms  Heard  had  no  injury  on  23
+                    March.  There  are  signs  of  an  injury,  albeit  covered  with  makeup,  on  the  photo:  Ms  Heard
+                    and  Ms  Henriquez  both  said  that  in  this  picture  Ms  Heard  had  a  swollen  lip  [11/1818/2]
+                    and  Ms  Henriquez  also  said  �I  see  makeup  and  a  split  lip�  [13/2153/2-13]. </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=40" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline time label -->
+              <div class="time-label">
+                <span class="bg-blue">May 2013</span>
+              </div>
+              <!-- /.timeline-label -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">May  2013</a></h3>
+                  <div class="timeline-body">He  was  also  unable  to  recall  events  which,  for  most  people,  would  be  memorable.  He
+                    could  not  recall  an  incident  in  May  2013  when  he  cut  his  hand  seriously  enough  that  he
+                    thought  he  may  require  stitches.  The  incident  was  recorded  in  texts  the  Claimant  sent  to
+                    Mr  Deuters  [2/218/19  �  2/220/10]. </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=3" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">31  May
+                    2013</a></h3>
+                  <div class="timeline-body">painting
+                    contained  is  in
+                    text  messages
+                    between  JD  and
+                    Whitney
+                    Henriquez
+                    dated  31  May
+                    2013: </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=85" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline time label -->
+              <div class="time-label">
+                <span class="bg-blue">Jun. 2013</span>
+              </div>
+              <!-- /.timeline-label -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">June  2013</a></h3>
+                  <div class="timeline-body">Hicksville,  late  May/early  June  2013 </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=41" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">11  June  2013</a></h3>
+                  <div class="timeline-body">14.  As  for  alcohol,  Mr  Deuters  confirmed  that  the  Claimant  drank  quantities  of  alcoho!  that
+                    might  make  an  average  person  drunk,  especially  red  wine,  but  considered  that  the
+                    Claimant�s  tolerance  for  alcohol  was  very  high  [5/751/17-24].  He  described  the  Claimant�s
+                    consumption  of  alcohol  as  �quite  impressive�  [5/778/2-3].  He  also  confirmed  he  had  seen
+                    the  Claimant  �passed  out�  [5/774/3-7].  Another  example  of  the  Claimant�s  heavy  alcohol
+                    use  was  provided  by  the  email  Ms  Heard  wrote  to  herself  on  11  June  2013  recording  that
+                    she  had  the  previous  day  seen  the  Claimant  pass  out  amongst  vomiting  three  times: </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=5" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">11  June  2013</a></h3>
+                  <div class="timeline-body">Bettany  on  11  June  2013: </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=12" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">11  June  2013</a></h3>
+                  <div class="timeline-body">On  11  June  2013  Ms  Heard  set  out  in  an  email  she  sent  herself  [2/226/19  �
+                    2/229/15];  [File  8/64/12-3]  her  concerns  about  the  Claimant�s  �ecky!  and  Hyde� </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=25" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline time label -->
+              <div class="time-label">
+                <span class="bg-blue">Jul. 2013</span>
+              </div>
+              <!-- /.timeline-label -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">July  2013</a></h3>
+                  <div class="timeline-body">July  2013:
+                    matronliness  as  as  lesbian  camp  counsellor  was  plenty...�  [File  7/2(b)/H23.2].  This  was
+                    despite  the  fact  that  even  the  Claimant�s  daughter  considered  Ms  Heard  a  good  influence
+                    on  him,  and  helped  with  his  alcohol  problem,  as  she  explained  in  a  text  to  him  in  February
+                    2014  [2/283/18-2/284/22].  Moreover,  despite  having  claimed  in  his  witness  statement
+                    that  Ms  Heard  did  not  support  his  sobriety  and  often  encouraged  him  to  take  drugs  and
+                    drink  alcohol,  the  Claimant  accepted  in  cross-examination  that  Ms  Heard  was  �adamant�
+                    during  their  relationship  that  he  should  stop  drinking  and  using  recreational  drugs </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=11" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">18  July  2013</a></h3>
+                  <div class="timeline-body">The  Claimant�s  doctor,  Dr  Kipper,  noted  in  May  2014  that  the  Claimant  �has  had  a
+                    long  history  of  self-medicating  behaviours  involving  multiple  substances  of  abuse.  These
+                    include  alcohol,  opiates,  benzodiazepines  and  stimulants",  including  "cocaine".  Dr  Kipper
+                    also  noted  that  the  Claimant  had  a  �Primary  dopamine  imbalance,  ADHD,  bipolar  one,
+                    depression,  secondary  to  above,  insomnia,  chronic  substance  abuse  disorder�  [2/286/23-
+                    2/286/25].  On  18  August  2014  Dr  Kipper  reported  to  the  Claimant�s  sister  that  the
+                    Claimant  �actually  romanticizes  the  entire  drug  culture,  and  has  no  accountability  for  his
+                    behaviours�  [File  4/126/F745].  An  example  of  the  effect  of  such  substance  abuse  on  the
+                    Claimant  was  provided  by  a  photo  of  him  from  18  July  2013  which  showed  the  Claimant
+                    ball  [File  6/148/F894.005],  seemingly  after  drinking  or  taking
+                    passed  out  curled  up  in  a </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=4" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline time label -->
+              <div class="time-label">
+                <span class="bg-blue">Oct. 2013</span>
+              </div>
+              <!-- /.timeline-label -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">October  2013</a></h3>
+                  <div class="timeline-body">of  hers.  [t  was  a  weapon,  and  it  was  used  constantly.  She  grabbed  hold  of  the  word  and
+                    held  on,  hell  bent  for  leather,  that  it  would  stick�  [2/267/19-25].  Similarly  he  said  of  Ms
+                    Heard,  �she  did  not  like  me  using  alcohol  or  drugs,  because  she  had  some  delusional  idea
+                    that  they  turned  me  into,  as  you  have  spoken  about,  this  said  monster�  [2/225/21-13].  In
+                    October  2013  he  said  in  a  text  to  Paul  Bettany,  referring  to  cocaine,  �She  thinks  that  my
+                    Peruvian  period  has  made  me  a  monster,  and  that  |  am  ruining  the  relationship�
+                    [2/262/24-2/263/10]. </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=8" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">29  October  2013</a></h3>
+                  <div class="timeline-body">There  was  a  contest  as  to  who  was  in  control  in  the  relationship.  Ms  Heard  explained  that
+                    there  were  many  ways  in  which  he  sought  to  control  her  �  she  gave  an  example  of  the
+                    Claimant  arranging  for  her  to  be  driven  around  while  her  car  was  renovated  [10/1567/24-
+                    1568/3].  The  court  also  heard  evidence  that  the  Claimant  sought  to  intervene  in  her
+                    career  in  unhelpful  ways  �  Ms  Sexton  explained  how  she  heard  the  Claimant  talking  about
+                    Ms  Heard�s  career  and  was  disparaging  her  choices  (14/2250/11-22].  The  Claimant  was
+                    shown  a  text  message  from  him  to  Ms  Heard  on  29  October  2013  which  read  �Holy  crack
+                    whores!!!  NO  GODDAM  MEETINGS!!!  NO  MOVIES!!!  Why???  Why  do  you  deviate  from  our
+                    agreement???  What  species  of  meeting???  Fuck  it...  Just  tell  me  when  you  get  home...�
+                    but  said  he  did  not  know  the  meaning  or  the  context  [2/262/11-20]. </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=10" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline time label -->
+              <div class="time-label">
+                <span class="bg-blue">Feb. 2014</span>
+              </div>
+              <!-- /.timeline-label -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">February  2014</a></h3>
+                  <div class="timeline-body">It  was  put  to  Ms  Heard  (with  reference  to  the  texts  at  File  7,  Tab  2(b)(ii),  pages  H23.4B-
+                    H23.4D)  that  the  defacing  of  the  painting  with  the  words  �Tasya  van  Pee�  occurred  in
+                    February  2014,  not  March  2013.  However,  Ms  Heard  explained  that  that  text  appended  a
+                    photo  of  a  different  painting  to  that  which  was  defaced  and  burned  in  March  2013
+                    [11/1828/10-23].  The  photo  which  the  Claimant  set  fire  to  was  a  painting  featuring
+                    text  messages  between  Ms  Henriquez  and  �Mr  Hop�  (the
+                    flamingos  contained  in
+                    Claimant)  which  can  be  found  in  File  7,  Tab  2(b)(i){A)/H23.4A.  This  canvas  painting  was </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=40" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">February
+                    2014</a></h3>
+                  <div class="timeline-body">July  2013:
+                    matronliness  as  as  lesbian  camp  counsellor  was  plenty...�  [File  7/2(b)/H23.2].  This  was
+                    despite  the  fact  that  even  the  Claimant�s  daughter  considered  Ms  Heard  a  good  influence
+                    on  him,  and  helped  with  his  alcohol  problem,  as  she  explained  in  a  text  to  him  in  February
+                    2014  [2/283/18-2/284/22].  Moreover,  despite  having  claimed  in  his  witness  statement
+                    that  Ms  Heard  did  not  support  his  sobriety  and  often  encouraged  him  to  take  drugs  and
+                    drink  alcohol,  the  Claimant  accepted  in  cross-examination  that  Ms  Heard  was  �adamant�
+                    during  their  relationship  that  he  should  stop  drinking  and  using  recreational  drugs </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=11" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">11  February  2014</a></h3>
+                  <div class="timeline-body">1  tt  is  not  the  Defendants�  case  that  the  Claimant  attempted  to  set  fire  to  the  glass-framed  �Tasya  van  Pee�
+                    painting  shown  in  text  messages  between  JD  and  Whitney  Henriquez  dated  11  February  2014  at
+                    [7/2(b){ii)/H23.4B-H23.4D], </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=85" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline time label -->
+              <div class="time-label">
+                <span class="bg-blue">May 2014</span>
+              </div>
+              <!-- /.timeline-label -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">May  2014</a></h3>
+                  <div class="timeline-body">The  Claimant�s  doctor,  Dr  Kipper,  noted  in  May  2014  that  the  Claimant  �has  had  a
+                    long  history  of  self-medicating  behaviours  involving  multiple  substances  of  abuse.  These
+                    include  alcohol,  opiates,  benzodiazepines  and  stimulants",  including  "cocaine".  Dr  Kipper
+                    also  noted  that  the  Claimant  had  a  �Primary  dopamine  imbalance,  ADHD,  bipolar  one,
+                    depression,  secondary  to  above,  insomnia,  chronic  substance  abuse  disorder�  [2/286/23-
+                    2/286/25].  On  18  August  2014  Dr  Kipper  reported  to  the  Claimant�s  sister  that  the
+                    Claimant  �actually  romanticizes  the  entire  drug  culture,  and  has  no  accountability  for  his
+                    behaviours�  [File  4/126/F745].  An  example  of  the  effect  of  such  substance  abuse  on  the
+                    Claimant  was  provided  by  a  photo  of  him  from  18  July  2013  which  showed  the  Claimant
+                    ball  [File  6/148/F894.005],  seemingly  after  drinking  or  taking
+                    passed  out  curled  up  in  a </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=4" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">10
+                    May  2014</a></h3>
+                  <div class="timeline-body">Jeaiousy  was  also  a  trigger  for  the  Claimant�s  rage.  Ms  Heard  confirmed  in  evidence  that
+                    it  was  the  Claimant's  jealousy  that  would  inspire  his  drug  and  alcohol  binges  [10/1588/12-
+                    22].  The  Claimant  conceded  he  could  be  jealous  [2/192/4-5].  Ms  Heard  was  obviously
+                    anxious  about  his  behavior  when  jealous,  as  she  noted  in  an  email  to  Kate  James  on  10
+                    May  2014  [File  8/73/114]  in  which  Ms  Heard  asked  Ms  James  to  ensure  that  the  Claimant
+                    was  only  provided  with  her  �DOOD�  (Day  out  of  Days)  film  schedule  that  �doesn�t  explain
+                    what  the  scenes  are  in  any  way�,  since  �!  don't  want  them  to  see  a  one  line  breakdown
+                    that  mentions  anything  romantic  or  anything  that  could  [cause]  Johnny  to  lose  it,  you </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=12" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">10  May  2014</a></h3>
+                  <div class="timeline-body">Ms  Heard  emailed  Kate  James  on  10  May  2014  [2/292/7-2/293/7]  about  how  the
+                    Claimant's  jealousy  causes  him  to  �lose  it�,  i.e.  lose  his  temper  [File  8/73/114]. </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=26" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">24  May  2014</a></h3>
+                  <div class="timeline-body">Boston  Plane  Incident,  24  May  2014 </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=42" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">24  May  2014</a></h3>
+                  <div class="timeline-body">Similarly,  in  relation  to  the  Boston  flight  incident  on  24  May  2014  he  conceded  under
+                    cross-examination  that  he  was  �incorrect�  in  his  statement  that  �he  had  not  taken  cocaine</div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=2" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">24  May  2014</a></h3>
+                  <div class="timeline-body">Ms  James  confirmed  she  had  had  a  very  public  dispute  with  Ms  Heard,  and  had  been
+                    sacked  by  Ms  Heard  (witness  statement  paragraph  19,  [File  2/56/D192],  (7/1222/2-4].
+                    Unprompted  by  any  question  in  cross-examination  she  accused  Ms  Heard  of  sending  her
+                    a  �barrage  of  drunken  text  messages  between  the  hours  of  2  and  4  in  the  morning...on  an
+                    almost  daily  basis�  [7/1223/18-23].  When  asked  about  a  message  Ms  Heard  sent  her  on
+                    24  May  2014  she  immediately  sought  to  demean  Ms  Heard  by  referring  to  the  fact  that
+                    Ms  Heard  had  gone  to  a  hotel  despite  having  �her  own  apartment  that  was  still  being  paid
+                    for  and  maintained  by  Mr  Depp�  [7/1225/19-21]  and  �basically  had  a  pool  party  all  day...
+                    drinking  and  swimming  and  sunbathing  and  having  fun�  [7/1226/2-5].  She  also  sought  to
+                    belittle  Ms  Heard  by  saying  of  her  �she  was  probably  the  least  known  person  |  have  ever
+                    worked  for  in  Hollywood,  to  be  honest�  [7/1233/16-16]. </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=36" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">24  May  2014</a></h3>
+                  <div class="timeline-body">Shortly  after  the  Boston  plane  incident,  on  24  May  2014,  Ms  Heard  texted  Kate
+                    James  saying,  �I  have  to  leave  JD.  He�s  just  freaked  out  on  me.  He�s  drinking  again.
+                    It�s  bad.  Worse  than  ever.  |  need  out�  [File  7/3/H24].  The  following  day,  Ms  Heard
+                    texted  the  Claimant's  sister  saying,  �Yes,  and  |  do  hope  he  gets  better  this  time.  But
+                    I  can't  keep  staying  and  supporting  him  just  to  watch  him  do  it  all  over  again.  He
+                    has  done  this  many  times  before.  Tokyo,  the  island,  London,  remember  that,  many,
+                    many  times,  and  |  always  stay.  Always  believe  he  is  going  to  get  better,  and  every
+                    three  or  so  months  |  am  in  exactly  the  same  position�  [File  6/119/F697.29]  and
+                    sent  a  similar  message  to  Mr  Deuters  [File  6/119/697.31]. </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=26" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">24  May  2014</a></h3>
+                  <div class="timeline-body">Further,  he  tailored  his  testimony  when  confronted  with  unfavourable  evidence.  In
+                    relation  to  the  24  May  2014  Boston-LA  flight  recording,  having  initially  said  it  may  not
+                    have  been  a  recording  of  him  at  all,  in  re-examination  he  claimed  to  have  recalled  that  in
+                    fact  it  was  of  him  but  was  recorded  on  an  entirely  different  occasion,  many  months  later
+                    in  the  Bahamas.  The  new  recollection  was,  however,  false:  the  metadata  shows  it  was
+                    indeed  recorded  on  that  flight.  The  matter  is  dealt  with  in  detail  below. </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=3" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">24  May  2014</a></h3>
+                  <div class="timeline-body">A  text  Ms  Heard  sent  to  Kate  James  on  24  May  2014  [2/302/22-2/202/9]  in
+                    which  she  says  the  Claimant  �just  freaked  out  on  me.  He  is  drinking  again.  It  is
+                    bad,  worse  than  ever.  |  need  out�. </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=44" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">25/05/2014</a></h3>
+                  <div class="timeline-body">to
+                    4/148(j)(iii)/F894.265-276])  to  demonstrate  how  metadata  could  be  faked  [5/769/3-
+                    25/770/2-13].  In  fact,  the  metadata  provided  by  the  Defendants  for  this  recording  �
+                    [File
+                    03:11�  �
+                    showing  an  entry  of  �25/05/2014
+                    4/148(j)(iv)/F894.277]  was  unimpeachable.  No  attempt  was  made  to  challenge  the
+                    metadata  by  way  of  expert  evidence  �  which  was  unsurprising  as  the  Claimant�s  own
+                    expert  concluded  that  it  was  correct  �  and  the  metadata  demonstrated  that  the  recording
+                    had  been  made  on  the  Boston  flight.  The  Claimant�s  overnight  �recollection�  was
+                    account, </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=44" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">25  May  2014</a></h3>
+                  <div class="timeline-body">Ms  Heard  emailed  herself  on  25  May  2014  at  11:11  pm,  just  after  the  incident  [File
+                    8/71(b)/112.3]  stating  �The  man  !  love  and  want  to  marry  called  me  an  embarrassment
+                    and  a  whore  amongst  other  things  in  front  of  a  plane  full  of  people  who  did  NOTHING
+                    before  kicking  me,  kicking  me  in  the  back  and  then  mocked  me  for  crying  about  it
+                    immediately  after�.  It  is  difficult  to  see  why  she  would  do  this  if  it  were  not  true.  See  also
+                    her  draft  letter  to  the  Claimant  dated  27  May  2014  at  09:27  at  [File  8/73(a)/I15-15],  �7
+                    love  you.  You�re  my  Steve.  But  there  is  this  man,  this  other  part  of  you,  a  shadow  that  exists
+                    in  that  hole  in  you...  that  you  understandably  try  desperately  to  treat/ fill  /  fix...  And  that�s </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=46" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">27  May  2014</a></h3>
+                  <div class="timeline-body">On  27  May  2014,  Ms  Heard  texted  the  Claimant  stating:  �/  know  you  have  a
+                    sickness.  |  know  you  are  suffering,  Johnny,  I'll  do  anything  to  be  able  to  take  that
+                    away from  you,  if  only  |  could.  We  have  such  a  beautiful...that  is  killing  us.  And  that
+                    is  what  |  am  afraid  of.  Seeing  such  a  beautiful  thing  as  our  love  slaughtered  right
+                    in  front  of  my  eyes,  and  not  being  able  to  do  anything  about  it.  That  is  what,  whol
+                    am  running  from,  that  demon.  Because  despite  how  much  |  have  tried  to  fight  him
+                    |am  scared,  Johnny,  so  scared,  |  watch  as  this  thing
+                    off,  you,  he  has  been  winning.
+                    steals  my  life  out from  under  me.  He  steals  my  man  from  me  and  replaces  him  with
+                    something  terrifying  and  unrecognisable"  [File  6/119/F697.33].  The  Claimant
+                    acknowledged  in  evidence  that  Ms  Heard  was  here  referring  to  �the  monster�: </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=26" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">27  May  2014</a></h3>
+                  <div class="timeline-body">Ms  Heard  emailed  herself  on  25  May  2014  at  11:11  pm,  just  after  the  incident  [File
+                    8/71(b)/112.3]  stating  �The  man  !  love  and  want  to  marry  called  me  an  embarrassment
+                    and  a  whore  amongst  other  things  in  front  of  a  plane  full  of  people  who  did  NOTHING
+                    before  kicking  me,  kicking  me  in  the  back  and  then  mocked  me  for  crying  about  it
+                    immediately  after�.  It  is  difficult  to  see  why  she  would  do  this  if  it  were  not  true.  See  also
+                    her  draft  letter  to  the  Claimant  dated  27  May  2014  at  09:27  at  [File  8/73(a)/I15-15],  �7
+                    love  you.  You�re  my  Steve.  But  there  is  this  man,  this  other  part  of  you,  a  shadow  that  exists
+                    in  that  hole  in  you...  that  you  understandably  try  desperately  to  treat/ fill  /  fix...  And  that�s </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=46" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">30  May  2014</a></h3>
+                  <div class="timeline-body">The  text  the  Claimant  sent  to  Mr  Bettany  on  30  May  2014  referring  to  the  plane
+                    incident  [File  6/119/F697.34]:  �I'm  gonna  properly  stop  the  booze  thing,
+                    this  past
+                    darling...  Drank  all  night  before  !  picked  Amber  up  to  fly  to  LA,
+                    Sunday...  Ugly,  mate...  No  food  for  days...  Powders...  Half  a  bottle  of  Whiskey,
+                    a  thousand  red  bull  and  vodkas,  pills,  2  bottles  of  Champers  on  plane  and  what
+                    a  fuckin�  blackout,  screaming
+                    do  you  get...???  An  angry,  aggro  Injun  in
+                    obscenities  and  insulting  any fuck  who  got  near...  I'm  done.
+                    fucked  in  the  head  to  spray  my  rage  at  the  one  |  love...  For  little  reason,  as  well
+                    I'm  too  old  to  be  that  guy...  But,  pills  are  fine!l!." </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=46" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline time label -->
+              <div class="time-label">
+                <span class="bg-blue">Aug. 2014</span>
+              </div>
+              <!-- /.timeline-label -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">August  2014</a></h3>
+                  <div class="timeline-body">where  the  recording  was  made.  He  said  it  was  in  the  Bahamas  in  August  2014  [4/675/14- </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=44" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">August  2014</a></h3>
+                  <div class="timeline-body">His  memory  of  events  was  demonstrated  to  be  wrong,  or  on  other  occasions  incomplete.
+                    This  was  no  doubt  in  part  because  of  the  �blackouts�  he  explained  that  he  had.  He
+                    accepted,  in  relation  to  the  Bahamas  island  incident  in  August  2014: </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=2" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">August  2014</a></h3>
+                  <div class="timeline-body">Bahamas,  August  2014 </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=48" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">7  August  2014</a></h3>
+                  <div class="timeline-body">a  message  to  Mr  Deuters  on  7  August  2014  said:  �She  [Ms  Heard]  has  accused  me  of  boozing!!!  1 </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=13" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">17  August  2014</a></h3>
+                  <div class="timeline-body">A  text  from  Ms  Heard  on  17  August  2014  to  the  medical  staff  saying  �Issue  has
+                    arisen  again.  He  took  the  meds  about  30  minutes  ago,  which  seemed  to  be  the
+                    trend,  as  |  reckon  they  have  not  kicked  in  yet.  All  of  a  sudden,  he  is  flipping.  He  just
+                    started  screaming.  He  was  so  mad  he  pushed  me  and  |  asked  him  to  get  out.  Don't
+                    know  what  else  to  do.  Sorry  to  keep  at  you  guys.�  [File  6/119/F697.38]  Nurse
+                    Debbie  Lloyd  then  said,  "Would  you  like  us  to  come  over?�  "Yes".  �Heading  over." </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=49" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">18  August  2014</a></h3>
+                  <div class="timeline-body">The  Claimant�s  doctor,  Dr  Kipper,  noted  in  May  2014  that  the  Claimant  �has  had  a
+                    long  history  of  self-medicating  behaviours  involving  multiple  substances  of  abuse.  These
+                    include  alcohol,  opiates,  benzodiazepines  and  stimulants",  including  "cocaine".  Dr  Kipper
+                    also  noted  that  the  Claimant  had  a  �Primary  dopamine  imbalance,  ADHD,  bipolar  one,
+                    depression,  secondary  to  above,  insomnia,  chronic  substance  abuse  disorder�  [2/286/23-
+                    2/286/25].  On  18  August  2014  Dr  Kipper  reported  to  the  Claimant�s  sister  that  the
+                    Claimant  �actually  romanticizes  the  entire  drug  culture,  and  has  no  accountability  for  his
+                    behaviours�  [File  4/126/F745].  An  example  of  the  effect  of  such  substance  abuse  on  the
+                    Claimant  was  provided  by  a  photo  of  him  from  18  July  2013  which  showed  the  Claimant
+                    ball  [File  6/148/F894.005],  seemingly  after  drinking  or  taking
+                    passed  out  curled  up  in  a </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=4" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">19  August  2014</a></h3>
+                  <div class="timeline-body">The  Claimant  accepted  that  Ms  Heard  was  trying  to  help  the  Claimant  with  his
+                    detoxification  process  during  this  trip  [3/352/14-16]  and  would  help  him  with  his  meds
+                    [3/353/2-5].  He  sent  a  text  to  Ms  Heard�s  mother  on  19  August  2014  [File  6/119/  F697.40] </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=48" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">30  August  2014</a></h3>
+                  <div class="timeline-body">Ms  Heard  noted  the  Claimant�s  jealousy,  and  how  it  was  a  trigger  for  the  Claimant,  when
+                    his  notes  [3/366/2-9],  [File
+                    she  spoke  to  her  therapist  Dr  Cowan,  as  recorded  in
+                    9/101(a)/K6]  (according  to  the  barely  legible  handwriting,  made  on  30  August  2014).  "JD
+                    is  very  threatened  by  career,  particularly  any  kind  of  romantic  scenes  she  has  to  do.  Her
+                    movie..."  --  1  do  not  know  what  the  next  letter  is,  JF,  and  1am  going  to  suggest  that  is  James
+                    Franco  --  "precipitated  a  drinking  binge  that  put  JD  in  the  hospital.  Everyone  around  J
+                    seems  to  be  intimidated  by  his  power  and  money.  No  one  stands  up  to  him". </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=12" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline time label -->
+              <div class="time-label">
+                <span class="bg-blue">Sep. 2014</span>
+              </div>
+              <!-- /.timeline-label -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">22  September  2014</a></h3>
+                  <div class="timeline-body">recorded  by  Nurse  Debbie  Lloyd  on  22  September  2014  [File  4/137/F813]:  �Upon  arriving
+                    at  the  home  patient  was  sitting  in  kitchen  with  scraped  and  bloody  knuckles  on  R  {right]
+                    hand.  Patient  stated  he  had  punched  white  board  in  kitchen  after  fight." </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=7" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline time label -->
+              <div class="time-label">
+                <span class="bg-blue">Oct. 2014</span>
+              </div>
+              <!-- /.timeline-label -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">October  2014</a></h3>
+                  <div class="timeline-body">Ms  Vargas  said  she  had  concluded  that  Ms  Heard  must  have  been  responsible  for  the
+                    faeces  because  of  its  size  and  the  fact  she  believed  the  dogs  did  not  go  on  the  bed
+                    Boo,  had
+                    {6/1053/18-22].  However  Ms  Heard  explained  that  the  Claimant�s  dog,
+                    previously  lost  control  of  its  bowels  in  bed  and  she  (Ms  Heard)  had  cleaned  it  up  �  so  there
+                    was  no  reason  why  Ms  Vargas  would  have  known  about  this  [11/1767/10-24].  The  Court
+                    heard  evidence  that  Ms  Heard  considered  that,  as  a  result  of  Boo  eating  some  cannabis
+                    when  she  was  a  puppy,  Boo  had  some  sort  of  brain  injury  resulting  in  toilet  training
+                    problems.  The  Claimant  confirmed  that  this  was  something  Ms  Heard  would  say
+                    [2/259/18-260/13].  Mr  Murphy  confirmed  that  Boo  had  a  number  of  difficulties  with
+                    toilet  training  [7/1193/3-6].  Ms  Heard  had  recorded  these  difficulties  in  a  text  to  him  in
+                    October  2014  [File  7/3(b)/H27.2-3]. </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=72" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">4  October  2014</a></h3>
+                  <div class="timeline-body">on  26  April  2015,  shortly  after  arriving
+                    Similarly  he  used  the  term  in  a  message  to  Mr  Judge
+                    in  Australia  [File  6/119/F697.70]  �Thank  you,  my  dear  Jerry!!!  Very,  very  kind,  mate!!  We
+                    have  been  perfect!!!  All  i  had  to  do  was  send  the  monster  away  and  lock  him  up!!!  We've
+                    been  happier  than  EVER!!!  Love  you,  brother�  and  to  Dr  Kipper  on  28  June  2015:  �..  Amber
+                    and  |  have  been  absolutely  perfect  for  3  fuckin'  months  solidi!i!  |  have  locked  my  monster
+                    child  away  in  a  cage  deep  within  and  it  has  fuckin�  worked!!!�  [File  10/147(a)/O149].  See
+                    also  the  text  from  the  Claimant  on  4  October  2014: </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=8" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline time label -->
+              <div class="time-label">
+                <span class="bg-blue">Jan. 2015</span>
+              </div>
+              <!-- /.timeline-label -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">January  2015</a></h3>
+                  <div class="timeline-body">Tokyo,  January  2015 </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=49" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline time label -->
+              <div class="time-label">
+                <span class="bg-blue">Feb. 2015</span>
+              </div>
+              <!-- /.timeline-label -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">13
+                    February
+                    2015</a></h3>
+                  <div class="timeline-body">Date/
+                    Time
+                    (local�)
+                    13
+                    February
+                    2015
+                    25
+                    February
+                    2015  to  3
+                    March
+                    2015 </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=99" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">13  February  2015</a></h3>
+                  <div class="timeline-body">Mr  Holmes  texted  on  25  February  2015  apologizing  for  �borrowing�  some  of  the
+                    Claimant's  cocaine.  The  Claimant  had  arrived  in  Australia  around  13  February  2015
+                    [4/137/F842]  and  confirmed  that  Mr  Holmes  was  also  in  Australia  at  the  time  the
+                    texts  were  sent  [5/7832/9-24]; </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=51" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">25  February  2015</a></h3>
+                  <div class="timeline-body">Mr  Holmes  texted  on  25  February  2015  apologizing  for  �borrowing�  some  of  the
+                    Claimant's  cocaine.  The  Claimant  had  arrived  in  Australia  around  13  February  2015
+                    [4/137/F842]  and  confirmed  that  Mr  Holmes  was  also  in  Australia  at  the  time  the
+                    texts  were  sent  [5/7832/9-24]; </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=51" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">25
+                    February
+                    2015</a></h3>
+                  <div class="timeline-body">Date/
+                    Time
+                    (local�)
+                    13
+                    February
+                    2015
+                    25
+                    February
+                    2015  to  3
+                    March
+                    2015 </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=99" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline time label -->
+              <div class="time-label">
+                <span class="bg-blue">Mar. 2015</span>
+              </div>
+              <!-- /.timeline-label -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">March  2015</a></h3>
+                  <div class="timeline-body">Australia,  February  /  March  2015 </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=50" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">March  2015</a></h3>
+                  <div class="timeline-body">Australia,  February  /  March  2015 </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=50" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">March  2015</a></h3>
+                  <div class="timeline-body">Notes  recorded  as  �3/7/15�  but
+                    likely  should  be  dated  8"
+                    March  2015 </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=104" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">March  2015</a></h3>
+                  <div class="timeline-body">
+                    Notes  recorded  as  �3/8/15�  but |
+                    likely  should  be  dated  9%
+                    March  2015 </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=109" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">March  2015</a></h3>
+                  <div class="timeline-body">Appended  to  these  submissions  are  four  appendices  containing  chronologies  referencing
+                    �painting�
+                    the  key  contemporaneous  documents for  the  following  incidents:  22  March  2013
+                    incident;  Australia,  March  2015;  15  December  2015;  and  21  May  2016. </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=1" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">March  2015</a></h3>
+                  <div class="timeline-body">Australia  chronology:  6"  �  9th  March  2015
+                    Defendants�  chronology  of  relevant  documentary  evidence </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=99" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">March  2015</a></h3>
+                  <div class="timeline-body">|  March  2015 </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=107" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">March  2015</a></h3>
+                  <div class="timeline-body">Moreover  the  evidence  adduced  by  the  Claimant  that  Ms  Heard  had  such  relationships
+                    was  very  thin.  Mr  Romero  said  that  Ms  Heard  was  visited  regularly  at  the  Eastern
+                    by  Mr  Musk  (statement  paragraph  7);  however  Mr  Romero�s
+                    Columbia  Building
+                    recollection  of  dates  was  extremely  faulty  �  see  below.  As  he  said  in  cross-examination  �/
+                    cannot  remember  exactly  the  year,  because  it  has  been  for  a  couple  of  years  already�
+                    [9/1398/2-3]  and  �I  get,  like  you  said,  the  years  messed  up�  (9/1398/19-20].  On  Mr
+                    Romero�s  account,  he  saw  Mr  Musk�s  regular  visits  start  in  March  2015,  a  year  before  Ms
+                    Heard  even  moved  into  the  building.  Mr  Baruch  confirmed  he  only  saw  Mr  Musk  in  the
+                    Eastern  Columbia  Building  after  21  May  2016  [9/1384/4-7].  Ms  Esparza�s  evidence  on  Mr
+                    Musk  related  to  the  period  after  the  break  up.  She  made  a  reference  to  Ms  Heard  having
+                    marks  on  her  after  what  was  said  to  be  a  visit  from  Mr  Musk  in  June/July  2016;  but  she
+                    was  now  unable  to  recall  where  on  Ms  Heard�s  body  the  alleged  injuries  were  [5/891/9-
+                    13].  This  evidence  was  gratuitous  and  plainly  adduced  by  the  Claimant  in  an  improper
+                    attempt  publicly  to  smear  Mr  Musk  �  reflecting  his  determination  to  seek  vengeance
+                    against  Mr  Musk,  another  of  the  Claimant�s  objectives,  as  he  explained  that  he  had  in  his
+                    text  to  Mr  Carino  in  August  2016  [File  6/119/F687.194]. </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=23" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">March  2015</a></h3>
+                  <div class="timeline-body">  Audio  file:  �F157.  20150308  213330  Australia  audio  file  (Exhibit  9  of  Amber  Heard's
+                    13:00
+                    Dr  Kipper  notes   File  4,  Tab
+                    Recorded  as  �3/7/15�  but  likely
+                    should  be  dated  8"  March  2015 </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=106" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">March  2015</a></h3>
+                  <div class="timeline-body">  Audio  file:  �F157.  20150308  213330  Australia  audio  file  (Exhibit  9  of  Amber  Heard's
+                    13:00
+                    Dr  Kipper  notes   File  4,  Tab
+                    Recorded  as  �3/7/15�  but  likely
+                    should  be  dated  8"  March  2015 </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=106" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">March  2015</a></h3>
+                  <div class="timeline-body">Mr  Romero  was  not  a  reliable  witness.  He  said  in  his  witness  statement  [2/47/D123]
+                    that  he  first  saw  Ms  Heard  at  the  Eastern  Columbia  Building  in  about  July  2015  (paragraph
+                    6);  and  that  he  understands  that  Ms  Heard  was  not  resident  at  the  building  until  March
+                    2016  (paragraph  6).  He  said  in  evidence  he  was  comfortable  with  his  recollection  of  those
+                    dates  [9/1396/19-23].  However,  those  dates  contradict  what  he  said  about  having  seen
+                    Mr  Musk�s  visits  to  Ms  Heard  at  the  Eastern  Columbia  Building  starting  in  March  2015. </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=35" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">2  March  2015</a></h3>
+                  <div class="timeline-body">Mr  Holmes  texted  on  2  March  2015  �there  were  2G  in  that  jar�,  followed  by  �are
+                    you  out�  �  obvious  references  to  grams  of  cocaine  (despite  the  Claimant  lamely
+                    claiming  in  oral  evidence  that  this  could  be  a  reference  to  money)  [3/396/20-25]; </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=51" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">3
+                    March
+                    2015</a></h3>
+                  <div class="timeline-body">Date/
+                    Time
+                    (local�)
+                    13
+                    February
+                    2015
+                    25
+                    February
+                    2015  to  3
+                    March
+                    2015 </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=99" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">6
+                    March  2015</a></h3>
+                  <div class="timeline-body">Ms  Heard�s  evidence  was  that  the  Claimant  was  in  a  very  bad  state  of  mind  in  Australia.
+                    The  Claimant  did  not  deny  this.  The  Claimant  accepted  that  he  was  �unhappy  with  the
+                    entire  business  of  making  films�  [3/407/21-22]  He  explained  in  a  text  to  Mr  Deuters  on  6
+                    March  2015  �I  held  my  ugliness  and  rage  deeper  down�  [3/407/25].  He  agreed  in  oral
+                    evidence  that  he  was  in  an  �angry  frame  of  mina�  at  the  time  of  the  trip  [3/410/15-19,
+                    3/411/5-8].  He  acknowledged  in  evidence  that  his  anger  was  in  part  caused  by  Ms  Heard�s
+                    disapproval  of  him  [3/412/3-6]. </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=52" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">6  March  2015</a></h3>
+                  <div class="timeline-body">Friday  6  March  2015 </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=99" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">6  March  2015</a></h3>
+                  <div class="timeline-body">his  income  [5/738/7-8].  Mr  Deuters  explained  his  adoration  of  the  Claimant  in  a  text  dated
+                    6  March  2015  [File  6/119/F697.58]. </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=31" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">7  March  2015</a></h3>
+                  <div class="timeline-body">The  Claimant�s  text  to  Dr  Kipper  just  after  the  incident,  on  7  March  2015,  [File
+                    7/5(b)/H30.6]  �!  am  so  very  sad.  |  cut  the  top  of  my  finger  off.  What  should  |  do,
+                    except  of  course  go  to  hospital.  I'm  so  embarrassed for jumping  into  anything  with
+                    her�.  This  admission  that  the  Claimant  had  cut  his  own  finger  off  came  in  a  text  in
+                    which  he  was  referring  to  Ms  Heard  in  insulting  and  demeaning  language,  so  had
+                    no  reason  not  to  accuse  her  of  cutting  the  finger  if  that  had  been  true. </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=56" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">7  March  2015</a></h3>
+                  <div class="timeline-body">jealous  [4/427/22-25].  The  Claimant  also  graffitied  a  lampshade  [3/428/16-23]  �  the
+                    photo  of  this  is  at  [File  9/87(h)(ii}/J1.4B].  Other  damage  is  shown  in  the  picture  at  [File
+                    6/148B/  F894.053]  (taken,  according  to  the  metadata,  on  7  March  2015). </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=53" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">7  March  2015</a></h3>
+                  <div class="timeline-body">Saturday  7  March  2015 </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=101" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">8  March  2015</a></h3>
+                  <div class="timeline-body">extraordinarily  outside  of...�  [3/480/5-8].  In  his  text  message  to  Dr  Kipper  on  8  March  2015  the
+                    Claimant  referred  to  Ms  Heard  as  �a  malicious,  evil  and  vindictive  cunt!111!
+                    in
+                    told  her  nol!  She's  a  cunt!!!�  [File  6/119/F697.36]. </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=13" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">8  March  2015</a></h3>
+                  <div class="timeline-body">Sunday  8  March  2015 </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=102" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">8  MAR  2015</a></h3>
+                  <div class="timeline-body">JD  admitted  to  Emergency  Department  at  Gold  Coast  University  Hospital  and  seen  by  Dr_
+                    Sawhney.  Dr  Grant�s  discharge  summary  records  that  JD  presented  on  �8  MAR  2015  at
+                    16:20�.  Notes  record  that  �He  will  be  followed  up  tomorrow  by  Dr  Sawhney  and  surgical
+                    options  discussed.�
+                    Gina  Deuters  texts  Stephen  Deuters:
+                    Any  word  from  camp  Amber? </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=106" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">9  March  2015</a></h3>
+                  <div class="timeline-body">This  note  is  dated  �3.8.15�  but
+                    Dr  Kipper�s  notes  for  AH
+                    (below)  state  that  AH  attended
+                    2  hour  psychotherapy  session
+                    on  9  March  2015 </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=108" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">9  March  2015</a></h3>
+                  <div class="timeline-body">This  note  is  dated  �3.8.15�  but
+                    Dr  Kipper�s  notes  for  AH
+                    (below)  state  that  AH  attended
+                    2  hour  psychotherapy  session
+                    on  9  March  2015 </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=108" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">23  March  2015</a></h3>
+                  <div class="timeline-body">The  photos  sent  by  Ms  Henriquez  to  Mr  Murphy  on  23  March  2015  of  the
+                    [File </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=59" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">23  March  2015</a></h3>
+                  <div class="timeline-body">23  March  2015:  staircase  incident </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=58" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline time label -->
+              <div class="time-label">
+                <span class="bg-blue">Apr. 2015</span>
+              </div>
+              <!-- /.timeline-label -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">26  April  2015</a></h3>
+                  <div class="timeline-body">on  26  April  2015,  shortly  after  arriving
+                    Similarly  he  used  the  term  in  a  message  to  Mr  Judge
+                    in  Australia  [File  6/119/F697.70]  �Thank  you,  my  dear  Jerry!!!  Very,  very  kind,  mate!!  We
+                    have  been  perfect!!!  All  i  had  to  do  was  send  the  monster  away  and  lock  him  up!!!  We've
+                    been  happier  than  EVER!!!  Love  you,  brother�  and  to  Dr  Kipper  on  28  June  2015:  �..  Amber
+                    and  |  have  been  absolutely  perfect  for  3  fuckin'  months  solidi!i!  |  have  locked  my  monster
+                    child  away  in  a  cage  deep  within  and  it  has  fuckin�  worked!!!�  [File  10/147(a)/O149].  See
+                    also  the  text  from  the  Claimant  on  4  October  2014: </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=8" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline time label -->
+              <div class="time-label">
+                <span class="bg-blue">May 2015</span>
+              </div>
+              <!-- /.timeline-label -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">4  May  2015</a></h3>
+                  <div class="timeline-body">References  to  the  Claimant  having  sustained  a  �crush  injury�  in  the  email  from
+                    Michael  Kalamaras  dated  4  May  2015  [File  4/136/F764.1]  and  from  David  Kulber
+                    dated  27  June  2015  [4/136(b)/F764.3]. </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=57" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline time label -->
+              <div class="time-label">
+                <span class="bg-blue">Jun. 2015</span>
+              </div>
+              <!-- /.timeline-label -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">3/6/2015</a></h3>
+                  <div class="timeline-body">3/6/2015  5:13:36  AM(UTC+0)  | </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=101" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">3/6/2015</a></h3>
+                  <div class="timeline-body">3/6/2015  4:22:24  AM(UTC+0) </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=100" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">3/6/2015</a></h3>
+                  <div class="timeline-body">3/6/2015  4:22:24  AM(UTC+0) </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=100" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">3/6/2015</a></h3>
+                  <div class="timeline-body">3/6/2015  3:22:31  AM(UTC+0) </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=99" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">3/6/2015</a></h3>
+                  <div class="timeline-body">3/6/2015  4:22:24  AM(UTC+0) </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=100" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">27  June  2015</a></h3>
+                  <div class="timeline-body">References  to  the  Claimant  having  sustained  a  �crush  injury�  in  the  email  from
+                    Michael  Kalamaras  dated  4  May  2015  [File  4/136/F764.1]  and  from  David  Kulber
+                    dated  27  June  2015  [4/136(b)/F764.3]. </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=57" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">28  June  2015</a></h3>
+                  <div class="timeline-body">on  26  April  2015,  shortly  after  arriving
+                    Similarly  he  used  the  term  in  a  message  to  Mr  Judge
+                    in  Australia  [File  6/119/F697.70]  �Thank  you,  my  dear  Jerry!!!  Very,  very  kind,  mate!!  We
+                    have  been  perfect!!!  All  i  had  to  do  was  send  the  monster  away  and  lock  him  up!!!  We've
+                    been  happier  than  EVER!!!  Love  you,  brother�  and  to  Dr  Kipper  on  28  June  2015:  �..  Amber
+                    and  |  have  been  absolutely  perfect  for  3  fuckin'  months  solidi!i!  |  have  locked  my  monster
+                    child  away  in  a  cage  deep  within  and  it  has  fuckin�  worked!!!�  [File  10/147(a)/O149].  See
+                    also  the  text  from  the  Claimant  on  4  October  2014: </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=8" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline time label -->
+              <div class="time-label">
+                <span class="bg-blue">Jul. 2015</span>
+              </div>
+              <!-- /.timeline-label -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">July  2015</a></h3>
+                  <div class="timeline-body">July  2015:  South  East  Asia  train </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=60" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">July  2015</a></h3>
+                  <div class="timeline-body">Mr  Romero  was  not  a  reliable  witness.  He  said  in  his  witness  statement  [2/47/D123]
+                    that  he  first  saw  Ms  Heard  at  the  Eastern  Columbia  Building  in  about  July  2015  (paragraph
+                    6);  and  that  he  understands  that  Ms  Heard  was  not  resident  at  the  building  until  March
+                    2016  (paragraph  6).  He  said  in  evidence  he  was  comfortable  with  his  recollection  of  those
+                    dates  [9/1396/19-23].  However,  those  dates  contradict  what  he  said  about  having  seen
+                    Mr  Musk�s  visits  to  Ms  Heard  at  the  Eastern  Columbia  Building  starting  in  March  2015. </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=35" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">3/7/2015</a></h3>
+                  <div class="timeline-body">Timestamp:  3/7/2015
+                    10:55:24  AM(UTC-8) </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=103" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">3/7/2015</a></h3>
+                  <div class="timeline-body">Timestamp:  3/7/2015
+                    10:55:24  AM(UTC-8) </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=103" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">3/7/2015</a></h3>
+                  <div class="timeline-body">Timestamp:  3/7/2015
+                    10:55:24  AM(UTC-8) </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=103" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">3/7/2015</a></h3>
+                  <div class="timeline-body">Timestamp:  3/7/2015
+                    3:24:48  AM(UTC-8) </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=102" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">3/7/2015</a></h3>
+                  <div class="timeline-body">Timestamp:  3/7/2015
+                    3:24:48  AM(UTC-8) </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=102" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">3/7/2015</a></h3>
+                  <div class="timeline-body">Timestamp:  3/7/2015
+                    10:55:24  AM(UTC-8) </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=103" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">3/7/2015</a></h3>
+                  <div class="timeline-body">Timestamp:  3/7/2015
+                    3:24:48  AM(UTC-8) </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=102" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">3/7/2015</a></h3>
+                  <div class="timeline-body">3/7/2015  5:12:52  AM(UTC+0) </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=101" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">3/7/2015</a></h3>
+                  <div class="timeline-body">Timestamp:  3/7/2015
+                    3:24:48  AM(UTC-8) </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=102" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">3/7/2015</a></h3>
+                  <div class="timeline-body">Timestamp:  3/7/2015
+                    3:24:48  AM(UTC-8) </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=102" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">3/7/2015</a></h3>
+                  <div class="timeline-body">Timestamp:  3/7/2015
+                    10:55:24  AM(UTC-8) </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=103" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">3/7/15</a></h3>
+                  <div class="timeline-body">Notes  recorded  as  �3/7/15�  but
+                    likely  should  be  dated  8"
+                    March  2015 </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=104" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">3/7/15</a></h3>
+                  <div class="timeline-body">Notes  recorded  as  �3/7/15�  but
+                    likely  should  be  dated  8" </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=107" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">3/7/2015</a></h3>
+                  <div class="timeline-body">3/7/2015  5:12:52  AM(UTC+0) </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=101" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">3/7/2015</a></h3>
+                  <div class="timeline-body">Timestamp:  3/7/2015
+                    5:05:43  PM(UTC-8) </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=104" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">3/7/2015</a></h3>
+                  <div class="timeline-body">Timestamp:  3/7/2015
+                    5:05:43  PM(UTC-8) </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=104" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">3/7/15</a></h3>
+                  <div class="timeline-body">3/7/15:  Ct  notifies  RN  via  text  of  increasing  anxiety.  Reports  emotional  lability.
+                    RN  encourages  client  to  use  distraction  and  coping  skills  taught  in  past,  Ct  reports
+                    self-admin  additional  Seroquel  12.5mg  at  0430  due  to  insomnia.  Ct  able  to  sleep
+                    again  at  0500  until  0930.  RN  encourages  ct  to  remain  in  contact  to  assist  in
+                    decreasing  anxiety  and  increase  emotional  stabilizaton. </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=101" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">3/7/15</a></h3>
+                  <div class="timeline-body">  Audio  file:  �F157.  20150308  213330  Australia  audio  file  (Exhibit  9  of  Amber  Heard's
+                    13:00
+                    Dr  Kipper  notes   File  4,  Tab
+                    Recorded  as  �3/7/15�  but  likely
+                    should  be  dated  8"  March  2015 </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=106" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">3/7/15</a></h3>
+                  <div class="timeline-body">  Audio  file:  �F157.  20150308  213330  Australia  audio  file  (Exhibit  9  of  Amber  Heard's
+                    13:00
+                    Dr  Kipper  notes   File  4,  Tab
+                    Recorded  as  �3/7/15�  but  likely
+                    should  be  dated  8"  March  2015 </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=106" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">3/7/2015</a></h3>
+                  <div class="timeline-body">Timestamp:  3/7/2015
+                    5:05:43  PM(UTC-8) </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=104" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">3/7/2015</a></h3>
+                  <div class="timeline-body">3/7/2015  5:12:52  AM(UTC+0) </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=101" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">3/7/2015</a></h3>
+                  <div class="timeline-body">Timestamp:  3/7/2015
+                    3:24:48  AM(UTC-8) </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=102" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline time label -->
+              <div class="time-label">
+                <span class="bg-blue">Aug. 2015</span>
+              </div>
+              <!-- /.timeline-label -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">3/8/2015</a></h3>
+                  <div class="timeline-body">3/8/2015  12:41:14  PM(UTC+0) </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=107" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">3/8/15</a></h3>
+                  <div class="timeline-body">
+                    Notes  recorded  as  �3/8/15�  but |
+                    likely  should  be  dated  9%
+                    March  2015 </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=109" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">3/8/2015</a></h3>
+                  <div class="timeline-body">3/8/2015  12:41:14  PM(UTC+0) </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=107" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">3/8/2015</a></h3>
+                  <div class="timeline-body">3/8/2015  12:41:14  PM(UTC+0) </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=107" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">3/8/2015</a></h3>
+                  <div class="timeline-body">3/8/2015  7:02:27  PM(UTC+0) </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=109" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">3/8/2015</a></h3>
+                  <div class="timeline-body">3/8/2015  7:25:52  AM(UTC+0) </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=106" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">3.8.15</a></h3>
+                  <div class="timeline-body">This  note  is  dated  �3.8.15�  but
+                    Dr  Kipper�s  notes  for  AH
+                    (below)  state  that  AH  attended
+                    2  hour  psychotherapy  session
+                    on  9  March  2015 </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=108" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">3.8.15</a></h3>
+                  <div class="timeline-body">This  note  is  dated  �3.8.15�  but
+                    Dr  Kipper�s  notes  for  AH
+                    (below)  state  that  AH  attended
+                    2  hour  psychotherapy  session
+                    on  9  March  2015 </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=108" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">3/8/2015</a></h3>
+                  <div class="timeline-body">3/8/2015  2:15:52  PM(UTC+0) </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=108" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">3/8/15</a></h3>
+                  <div class="timeline-body">
+                    Notes  recorded  as  �3/8/15�  but |
+                    likely  should  be  dated  9%
+                    March  2015 </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=109" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">3/8/2015</a></h3>
+                  <div class="timeline-body">3/8/2015  12:41:14  PM(UTC+0) </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=107" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">3/8/2015</a></h3>
+                  <div class="timeline-body">3/8/2015  2:08:10  AM(UTC+0) </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=105" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">3/8/2015</a></h3>
+                  <div class="timeline-body">3/8/2015  2:08:10  AM(UTC+0) </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=105" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">3/8/15</a></h3>
+                  <div class="timeline-body">3/8/15:  RN  received  report  from  Debbie,  RN.  Client  will  be  returning  to  Los
+                    Angeles  on  3/9/15  accompanied  by  house  manager  Ben.  RN  plans  to  meet  client
+                    upon  arrival.  Ct is  in  touch  with  RN  via  text  throughout  day  expressing  feelings  of
+                    moderate  to  severe  anxiety.  Ct  compliant  with  medication  including  Xanax  0.5mg
+                    now  dose  at  2015  (PST)  with  Prompting  from  RN.  Deep  breathing  and  relaxation
+                    techniques  reviewed  with  ct.  Ct  states  medication  and  breathing  effective  in
+                    reducing  anxiety. </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=108" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">3/8/2015</a></h3>
+                  <div class="timeline-body">3/8/2015  2:08:10  AM(UTC+0) </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=105" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">3/8/2015</a></h3>
+                  <div class="timeline-body">3/8/2015  1:37:32  AM(UTC+0) </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=104" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">3/8/2015</a></h3>
+                  <div class="timeline-body">3/8/2015  2:08:10  AM(UTC+0) </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=105" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">3/8/2015</a></h3>
+                  <div class="timeline-body">3/8/2015  1:37:32  AM(UTC+0) </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=104" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline time label -->
+              <div class="time-label">
+                <span class="bg-blue">Sep. 2015</span>
+              </div>
+              <!-- /.timeline-label -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">September  2015</a></h3>
+                  <div class="timeline-body">80.  In  any  event,  the  conversations  �  which  are  long  �  contain  much  that  supports  the
+                    Defendants�  case.  In  one  such  conversation  from  September  2015  (�Argument  2�)  the
+                    Claimant  made  observations  showing  that  he  recognized  that  he  had  been  violent  towards </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=24" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">September  2015</a></h3>
+                  <div class="timeline-body">Ina  recorded  conversation  in  September  2015  (�Argument  2�)  the  Claimant  said,
+                    our </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=60" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">3/9/2015</a></h3>
+                  <div class="timeline-body">
+                    3/9/2015  12:35:48  PM(UTC+0) </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=109" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">3/9/2015</a></h3>
+                  <div class="timeline-body">
+                    3/9/2015  12:35:48  PM(UTC+0) </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=109" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">3/9/2015</a></h3>
+                  <div class="timeline-body">
+                    3/9/2015  12:45:58  PM(UTC+0) </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=110" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">3/9/15</a></h3>
+                  <div class="timeline-body">3/9/15:  RN  and  ct  in  touch  via  text  and  phone  calls  after  ct  arrived  at  1500.  Ct
+                    expressed  feeling  �sad.�  Ct  attended  two  hour  psychotherapy  session,  Reports
+                    feeling  �a  little  more  sorted  out"  after  session.  RN  met  ctand  her  friends  for  dinner
+                    at  2200.  Ct  appears  in  good  spirits;  laughing,  socializing.  Appetite  normal.  Ct  states
+                    she  would  like  to  discuss  recent  events  between  her  and  husband  with  RN  in  private
+                    tomorrow.  Plans  are  made  for  RN  to  visit  ct  at  her  home  tomorrow.  Cthas  been
+                    compliant  with  medication  throughout  day  with  prompting.  RN  encouraged  ct  to
+                    notify  her  of any  needs  throughout  night. </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=110" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">3/9/15</a></h3>
+                  <div class="timeline-body">3/8/15:  RN  received  report  from  Debbie,  RN.  Client  will  be  returning  to  Los
+                    Angeles  on  3/9/15  accompanied  by  house  manager  Ben.  RN  plans  to  meet  client
+                    upon  arrival.  Ct is  in  touch  with  RN  via  text  throughout  day  expressing  feelings  of
+                    moderate  to  severe  anxiety.  Ct  compliant  with  medication  including  Xanax  0.5mg
+                    now  dose  at  2015  (PST)  with  Prompting  from  RN.  Deep  breathing  and  relaxation
+                    techniques  reviewed  with  ct.  Ct  states  medication  and  breathing  effective  in
+                    reducing  anxiety. </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=108" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline time label -->
+              <div class="time-label">
+                <span class="bg-blue">Oct. 2015</span>
+              </div>
+              <!-- /.timeline-label -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">13  October  2015</a></h3>
+                  <div class="timeline-body">Mr  Murphy  was  an  unreliable  witness.  He  deliberately  and  misleadingly  chose  to  omit
+                    from  his  first  statement  in  these  proceedings  the  fact  he  had  made  a  statement  in  the
+                    Australian  proceedings  regarding  the  importation  of  the  dogs  on  13  October  2015  which
+                    directly  contradicted  his  statement  in  these  proceedings.  In  that  earlier  statement  he  said
+                    that  neither  Ms  Heard  nor  Mr  Depp  had  deliberately  sought  to  avoid  complying  with
+                    Australian  animal  importation  requirements.  He  made  a  second  statement  in  these
+                    proceedings  disclosing  the  fact  he  had  made  a  statement  in  Australia  only  once  the
+                    the  Australian </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=33" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">13  October  2015</a></h3>
+                  <div class="timeline-body">Ms  Heard  explained  that  the  process  regarding  compiling  the  correct  paperwork  for  the
+                    dogs  had  been  going  on  for  months  and  was  confusing  [12/1889/17-20].  Moreover  it  was
+                    not  Ms  Heard�s  decision  to  bring  the  dogs:  �I  did  not  call  any  of  the  shots.  This  is  Johnny's
+                    plane,  this  is  Johnny's  staff,  Johnny's  crew  for  Johnny's  travel�  [12/1891/3-4];  and  the
+                    Claimant  was  equally  culpable,  having  filled  in  the  same  paperwork  incorrectly,  but  she
+                    had  to  take  the  charges  so  that  his  filming  plans  were  not  compromised  by  a  conviction  in
+                    his
+                    Australia  [12/1891/13-16].  Mr  Murphy  confirmed  the  Claimant�s  involvement  in
+                    statement  in  the  Australia  proceedings  dated  13  October  2015  [File  5.1/201(a)/F1303.1].
+                    The  Claimant  himself  made  clear  his  personal  culpability  in  his  interview  on  television
+                    [media  file  F194a]  and  joined  Ms  Heard  in  a  joint  televised  apology  [media  file  F151a]. </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=21" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline time label -->
+              <div class="time-label">
+                <span class="bg-blue">Nov. 2015</span>
+              </div>
+              <!-- /.timeline-label -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">November  2015</a></h3>
+                  <div class="timeline-body">Thanksgiving  dinner  November  2015 </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=61" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline time label -->
+              <div class="time-label">
+                <span class="bg-blue">Dec. 2015</span>
+              </div>
+              <!-- /.timeline-label -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">December  2015</a></h3>
+                  <div class="timeline-body">Bahamas,  late  December  2015 </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=69" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">December  2015</a></h3>
+                  <div class="timeline-body">Ms  Heard  falsely  telling  Nurse  Boerum  of  injuries  in  December  2015,  and  showing
+                    her  fake  injuries  for  Nurse  Boerum  to  record,  and  giving  a  similarly  false  account
+                    of  the  Claimant�s  behaviour  to  Dr  Connell  Cowan; </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=27" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">December  2015</a></h3>
+                  <div class="timeline-body">December  2015  incident </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=62" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">December  2015</a></h3>
+                  <div class="timeline-body">it  was  put  to  Ms  Heard  that  she  had  �changed  the  colouration�  on  the  photos.  She
+                    denied  this  [10/1677/14-16].  She  explained  that  she  did  not  know  how  to  do  this
+                    [12/1914/18-25].  As  with  the  December  2015  photos,  the  court  cannot,  in  the  absence  of
+                    expert  evidence,  find  the  photos  to  have  been  manipulated. </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=74" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">15  December  2015</a></h3>
+                  <div class="timeline-body">Tara  Roberts  gave  evidence  about  this  incident  in  support  of  the  Claimant.  However
+                    she  accepted  that  she  had  not  seen  the  beginning  of  the  argument  [6/968/16-18].  She
+                    said  that  the  Claimant  had  a  red,  swelling  gash  on  the  bridge  of  his  nose,  and  that  the
+                    Claimant  had  told  her  that  this  had  been  caused  by  Ms  Heard  throwing  the  can  of  paint
+                    into  his  face.  There  are  no  photographs  of  this  alleged  injury;  and  Ms  Roberts  confirmed
+                    that  the  Claimants  had  never  suggested  that  any  photographs  of  it  should  be  taken
+                    [6/969/12-21].  Ms  Roberts�  oral  evidence  was  that  Ms  Heard  on  that  holiday  was  free
+                    from  injury.  Photographs  of  the  Ms  Heard  show  the  remainder  of  the  injuries  sustained
+                    on  15  December  2015,  including  the  injury  to  her  lip:  [6/148(h)/F894.273]. </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=69" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">15  December  2015</a></h3>
+                  <div class="timeline-body">The  Claimant  was  not  a  reliable  witness.  He  conceded  that  he  had  never  read  his  whole
+                    witness  statement.  When  challenged  about  the  head  butting  on  the  15  December  2015,
+                    and  asked  why  his  new  account  that  he  had  head  butted  Ms  Heard  �  albeit  �accidentally�
+                    �  was  missing  from  the  statement,  the  Claimant  confirmed  that  he  had  not  read  the
+                    entirety  of  his  witness  statement  before  signing  it.  He  said: </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=2" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">15  December  2015</a></h3>
+                  <div class="timeline-body">Appended  to  these  submissions  are  four  appendices  containing  chronologies  referencing
+                    �painting�
+                    the  key  contemporaneous  documents for  the  following  incidents:  22  March  2013
+                    incident;  Australia,  March  2015;  15  December  2015;  and  21  May  2016. </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=1" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">15
+                    December  2015</a></h3>
+                  <div class="timeline-body">In  cross-examination  he  conceded  that  he  had  head  butted  Ms  Heard  on  15
+                    December  2015,  albeit  accidentally,  something  he  had  until  that  point  always
+                    denied.  This  is  dealt  with  in  detail  below. </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=3" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">15  December  2015</a></h3>
+                  <div class="timeline-body">Tuesday  15  December  2015 </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=153" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">16  December  2015</a></h3>
+                  <div class="timeline-body">
+                    Wednesday  16  December  2015 </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=153" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">16  December  2015</a></h3>
+                  <div class="timeline-body">The  text  Ms  Heard  sent  to  Mr  Tillet  Wright  on  16  December  2015  [File  7/17/H104]
+                    saying  �I  need  you,  J  beat  me  pretty  good,  Rock  is  on  the  couch  with  me  now,  when
+                    are  you  back,  I'm  hurt,  |  don  't  know  what  to  do." </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=64" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">16  December  2015</a></h3>
+                  <div class="timeline-body">Messages  from  Ms  Heard  to  Dr  Cowan  on  15  and  16  December  2015  [File  7/10(b)/
+                    H39]  and  [File  7/13(a)/H81.1]  saying  �Emergency  can  you  please  call  me?�  and: </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=65" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">16  December  2015</a></h3>
+                  <div class="timeline-body">Ms  Heard�s  account  is  corroborated  by  photographs  taken  on  16  December  2015  of
+                    cut  lip  [File  6/148(c)/F894.112].  The
+                    injuries  to  Ms  Heard�s  face,  namely  bruising  and  a
+                    Claimant  speculated  that  the  cut  lip  may  have  been  acold  sore  [3/503/3-5]  and  it  was  put
+                    to  Ms  Heard  that  she  had  simply  bitten  her  lip,  but  Ms  Heard  firmly  rejected  these
+                    suggestions.  There  were  also  photos  of  clumps  of  hair  and  scalp  which  the  metadata
+                    shows  were  taken  on  that  occasion  [File  6/148(c)/F894.122A].  Ms  Heard  denied  having
+                    sought  to  photoshop  or  distort  the  images  [13/2086/9-21].  She  also  denied  having  used
+                    makeup  or  other  means  to  make  it  look  like  she  was  injured  [13/2086/22-24]. </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=62" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">16  December  2015</a></h3>
+                  <div class="timeline-body">The  medical  notes  of  16  December  2015  [File  4/139/F880]  show  that  Ms  Heard
+                    described  to  the  nurse  the  argument  she  had  had  with  the  Claimant:  �Client  states
+                    disagreement  escalated  and  states  husband,  JD,  used  his  forehead  to  hit  her  head.  Client
+                    denies  loss  of  consciousness.  States  she  has  a  headache  and  a  bruised  eye�.  The  Claimant�s
+                    explanation  for  what  Ms  Heard  told  the  nurse  �  that  Ms  Heard  �can  never  be  wrong�  and
+                    �is  not  going  to  reveal  the  truth�  to  the  nurse  [3/505/10-14]  �  is  no  explanation  at  all.
+                    Neither  is  the  Claimant's  attribution  of  what  Ms  Heard  told  the  nurse  to  the  �  dossier  hoax� </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=63" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">16
+                    December  2015</a></h3>
+                  <div class="timeline-body">Photographs  of  the  kitchen  of  the  couple�s  apartment  taken  on  the  morning  of  16
+                    December  2015  [File  6/148(c)/F894.095]  showed  the  slogan  �why  be  a  fraud?  All  is  such
+                    bullshit...�  defaced  onto  the  work  surface.  The  Claimant  accepted  he  carried  out  this
+                    defacing  but  nevertheless  claimed  not  to  have  been  under  the  influence  of  alcohol  or
+                    drugs.  Another  photograph  showed  a  reading  light  and  other  items  strewn  on  the  floor  of
+                    the  bedroom,  and  damage  to  the  bed  [File  6/148(c)/F894.097-101A]. </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=64" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">16  December
+                    2015</a></h3>
+                  <div class="timeline-body">The  text  Raquel  Pennington  sent  to  Carly  Kuhn  and  Ms  Heard  on  16  December
+                    2015  [File  7/16/H103]  stating  �Hey  girl,  so  sorry  Amber  had a  shit  day  yesterday
+                    and  we  were  doing  some  emotional  damage  control.  lll  call  you  later�,  confirming
+                    �shit  day�  and  as  a
+                    Ms  Heard  had  reported  to  Ms  Pennington  that  she  had  had  a
+                    result  in  the  view  of  Ms  Pennington  required  �emotional  damage  control�. </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=64" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">17  December  2015</a></h3>
+                  <div class="timeline-body">
+                    Thursday  17  December  2015 </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=169" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">17  December  2015</a></h3>
+                  <div class="timeline-body">d.  Why  visit  Dr  Kipper�s  office  on  17  December  2015  to  seek  medical  assistance  for
+                    the  injuries  sustained  during  the  incident  on  15  December  only  to  conceal  the  true
+                    cause  of  her  injuries  and  instead  say  to  nurse  Monroe  Tinker  that  the  cause  of  her
+                    headache  was  that  she  �bumped  her  head  while  standing  up  2  days  ago�?� </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=29" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">17  December  2015</a></h3>
+                  <div class="timeline-body">17  December  2015.  His  notes  record  an
+                    He  stated  that  �Some  spark  ignited  an  argument  that
+                    �qltercation  with  JD�.
+                    escalated  and  got  violent.  Shoving  and  screaming.  Amber  related  that  he  started
+                    the  physicality  �  pushed  her  down.  Amber  got  back  up.  Hard  for  her  to  de-escalate
+                    to  try  and  fight  back  (not
+                    a  fight.  Her  strategy  (despite  our  conversations)  is
+                    protective  of  self  and  very  self-defeating�  [File  9/133/K277]. </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=66" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">18  December  2015</a></h3>
+                  <div class="timeline-body">Friday  18  December  2015 </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=177" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">20  December  2015</a></h3>
+                  <div class="timeline-body">Sunday  20  December  2015 </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=181" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">22  December  2015</a></h3>
+                  <div class="timeline-body">Tuesday  22  December  2015 </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=188" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">31  December  2015</a></h3>
+                  <div class="timeline-body">15  -  31  December  2015
+                    Defendants�  chronology  of  relevant  documentary  evidence </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=153" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">31  December  2015</a></h3>
+                  <div class="timeline-body">Thursday  31  December  2015 </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=194" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline time label -->
+              <div class="time-label">
+                <span class="bg-blue">Feb. 2016</span>
+              </div>
+              <!-- /.timeline-label -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">February  2016</a></h3>
+                  <div class="timeline-body">The  Claimant�s  capacity  for  violence  was  vividly  demonstrated  by  a  film  clip  shown  to  the
+                    court  several  times  [File  5/158/F988];  [media  file  �F158.  Clip  entitled  'Video  of  JD
+                    Speaking  to  AD  JD�].  This  was  taken  by  Ms  Heard  in  around  February  2016  and  showed
+                    a  violent  rage,  smashing  glass,  slamming  cupboard  doors  and  very
+                    the  Claimant  in
+                    aggressively  approaching  Ms  Heard  and  grabbing  the  phone  when  he  realised  he  was
+                    being  recorded  [1/98/4-1/98/10].  The  Claimant  explained  he  was  �upset� on  this  occasion
+                    [1/98/22-24].  Although  the  Claimant  did  not  admit  to  being  under  the  influence  of  drugs,
+                    or  drunk,  when  it  was  filmed,  he  was  depicted  drinking  from  a  large  glass  of  red  wine  from
+                    a  bottle  which  was  already  partially  empty,  and  when  it  was  suggested  that  he  was  drunk
+                    was
+                    he  replied  �i  may  have  been.  |  do  not  recall.  The  chances  are  very  good  that  |  was,  if  |
+                    upset�  [1/101/14-21].  The  Claimant  accepted  it  would  have  been  very  intimidating  for  Ms
+                    Heard  to  see  him  in  the  state  that  he  was  in  [1/101/4].  He  also  accepted  that  this  was  not </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=6" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">11  February  2016</a></h3>
+                  <div class="timeline-body">b.  Why  refrain  from  making  any  allegation  that  the  Claimant  had  been  violent  when
+                    emailing  Mr  Tillet  Wright,  a  close  friend  and  confidante,  on  11  February  2016?
+                    [7/22(a)/H134.1] </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=29" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline time label -->
+              <div class="time-label">
+                <span class="bg-blue">Mar. 2016</span>
+              </div>
+              <!-- /.timeline-label -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">March
+                    2016</a></h3>
+                  <div class="timeline-body">Mr  Romero  was  not  a  reliable  witness.  He  said  in  his  witness  statement  [2/47/D123]
+                    that  he  first  saw  Ms  Heard  at  the  Eastern  Columbia  Building  in  about  July  2015  (paragraph
+                    6);  and  that  he  understands  that  Ms  Heard  was  not  resident  at  the  building  until  March
+                    2016  (paragraph  6).  He  said  in  evidence  he  was  comfortable  with  his  recollection  of  those
+                    dates  [9/1396/19-23].  However,  those  dates  contradict  what  he  said  about  having  seen
+                    Mr  Musk�s  visits  to  Ms  Heard  at  the  Eastern  Columbia  Building  starting  in  March  2015. </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=35" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline time label -->
+              <div class="time-label">
+                <span class="bg-blue">Apr. 2016</span>
+              </div>
+              <!-- /.timeline-label -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">April  2016</a></h3>
+                  <div class="timeline-body">86.  Several  witnesses  also  gave  evidence  that  Ms  Heard  had  told  them  of  the  violence  at  the
+                    is  alleged  to  have  occurred  �  Ms  Henriquez  (statement  paragraphs  17-18,  31,  6,
+                    time  it
+                    49,  52-3,  54-56,  65-6,  71,  75,  79);  Mr  Tillet  Wright  (statement  paragraphs  16-18,  30,  34,
+                    39,  55);  Ms  Sexton  (statement  paragraphs  31,  41,  45,  60,  62).  Ms  Sexton  explained  that
+                    Ms  Heard  told  her  of  the  violence  the  Claimant  had  perpetrated  on  her  around  the  time
+                    of  the  April  2016  birthday  party,  (ie.  before  the  DVRO  application)  [14/2248/13-16],
+                    although  she  suspected  the  Claimant  had  been  violent  towards  her  before  that  because
+                    of  Ms  Heard�s  behaviour  and  had  therefore  asked  Ms  Heard  whether  she  felt  safe
+                    [4/2249/2-12].  in  his  text  to  Ms  Heard  on  22  May  2016,  �Rocketman�  said:  �I�m  just  glad
+                    you�re  ok.  You  talked  about  J  being  violent  in  the  past  and  still  having  keys  to  the
+                    |  thought  something  might  have  happened.�  Even  a  number  of  the
+                    apartment,  so
+                    Claimant's  witnesses  accepted  that  Ms  Heard  had  complained  of  violence  by  the  Claimant
+                    at  various  points  throughout  the  relationship  (for  example  Samantha  McMillen  and  Kevin </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=27" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">21  April  2016</a></h3>
+                  <div class="timeline-body">Mr  Bett  claimed  he  saw  the  Claimant  with  injuries  on  21  April  2016.  However,  Mr  Bett
+                    was  an  unreliable  witness.  He  admitted  to  being  untruthful  in  his  statement  where  he
+                    described  taking  a  photo  of  the  Claimant's  injuries  on  21  April  2016.  He  explained  that  he
+                    had  been  sent  that  photo  by  Adam  Waldman.  Mr  Waldman  asked  if  Mr  Bett  recollected
+                    the  photo.  Mr  Bett  claimed  that  �presumably�  he  thought  the  photo  was  one  he  had </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=70" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">21  April  2016</a></h3>
+                  <div class="timeline-body">Mr  Bett  claimed  he  saw  the  Claimant  with  injuries  on  21  April  2016.  However,  Mr  Bett
+                    was  an  unreliable  witness.  He  admitted  to  being  untruthful  in  his  statement  where  he
+                    described  taking  a  photo  of  the  Claimant's  injuries  on  21  April  2016.  He  explained  that  he
+                    had  been  sent  that  photo  by  Adam  Waldman.  Mr  Waldman  asked  if  Mr  Bett  recollected
+                    the  photo.  Mr  Bett  claimed  that  �presumably�  he  thought  the  photo  was  one  he  had </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=70" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">21  April  2016</a></h3>
+                  <div class="timeline-body">Birthday  party,  21  April  2016 </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=69" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">21  April  2016</a></h3>
+                  <div class="timeline-body">55.  Mr  Bett  explained  to  the  court  that  Mr  Waldman  gave  him  a  photograph  of  the  Claimant,
+                    supposedly  injured,  so  that  Mr  Bett  could  append  it  to  his  witness  statement  for  these
+                    proceedings  and  claim  that  it  had  been  taken  by  Mr  Bett.  At  Mr  Waldman�s  request  Mr
+                    Bett  then  exhibited  the  photo  to  his  statement  and  claimed  it  was  a  photo  that  he  had
+                    himself  taken  on  21  April  2016  [8/1269/14-22].  This  was  untrue,  as  both  Mr  Bett  and  Mr </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=17" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">22  April  2016</a></h3>
+                  <div class="timeline-body">Faeces  were  on  22  April  2016  found  in  the  bed  Ms  Heard  slept  in.  The  court  is  not
+                    required  to  reach  a  conclusion  as  to  how  the  faeces  reached  the  bed.  Ms  Heard�s  response
+                    to  the  suggestion  she  had  done  it  was  convincing:  she  would  never  have  done  such  a  thing
+                    since  it  was  �her  bed�,  which  only  she  slept  in  at  that  time,  she  could  not  imagine  what
+                    sort  of  person  could  think  of  this  as  a  prank,  or  as  funny  (except,  possibly,  the  Claimant) </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=71" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline time label -->
+              <div class="time-label">
+                <span class="bg-blue">May 2016</span>
+              </div>
+              <!-- /.timeline-label -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">May  2016</a></h3>
+                  <div class="timeline-body">lot  of  strain  on  21  May  2016.  His  mother  had
+                    just  died,  his  relationship  with  Ms  Heard  was  ending,  he  was  in  bad  financial  straits  and
+                    his  business  managers  and  lawyers  had  conspired  to  steal  money  from  him  [4/547/17-
+                    23].  It  is  apparent  from  the  CCTV  footage  in  the  lift  from  20:29  [media  file  �01.  Video  63
+                    at
+                    �  AH_TPD_00017252.avi�]  that  the  Claimant  was  angry  when  he  got  into  the  lift
+                    penthouse  level  to  return  back  downstairs.  He  is  seen  clenching  his  fists  and  pacing  back
+                    and  forth  in  an  agitated  and  aggressive  manner.  The  Claimant  confirmed  in  evidence  he
+                    was  �very  upset�  [4/566/12-13].  Later  that  evening  he  sent  Ms  Heard  an  angry  text </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=73" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">May  2016</a></h3>
+                  <div class="timeline-body">58.  The  tactics  deployed  by  the  Claimant  to  achieve  these  objectives  have  been  highly
+                    effective.  Mr  Tillet  Wright  explained  how  difficult  it  rapidly  became  after  May  2016  for
+                    anyone  who  wanied  to  try  and  support  Ms  Heard  publicly: </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=17" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">May  2016</a></h3>
+                  <div class="timeline-body">The  first  of  the  May  2016  photos  was  taken  at  20:23  when  the  Claimant  was  still  in  the
+                    building.  This  was  less  than  8  minutes  after  the  end  of  the  telephone  call  with  Mr  Tillet
+                    Wright  (which  ended  at  20:15:22  �  see  the  chronology  at  appendix  4),  while  Mr  Tillet
+                    Wright  was  on  the  phone  with  the  New  York  Police  Department,  and  shortly  before  the </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=75" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">21  May  2016</a></h3>
+                  <div class="timeline-body">The  witnesses  who  claim  to  have  seen  Ms  Heard  without  injuries  after  21  May  2016 </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=79" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">21  May  2016</a></h3>
+                  <div class="timeline-body">Saturday  21  May  2016,  Los  Angeles  (�LA�) </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=113" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">21  May  2016</a></h3>
+                  <div class="timeline-body">Moreover  the  evidence  adduced  by  the  Claimant  that  Ms  Heard  had  such  relationships
+                    was  very  thin.  Mr  Romero  said  that  Ms  Heard  was  visited  regularly  at  the  Eastern
+                    by  Mr  Musk  (statement  paragraph  7);  however  Mr  Romero�s
+                    Columbia  Building
+                    recollection  of  dates  was  extremely  faulty  �  see  below.  As  he  said  in  cross-examination  �/
+                    cannot  remember  exactly  the  year,  because  it  has  been  for  a  couple  of  years  already�
+                    [9/1398/2-3]  and  �I  get,  like  you  said,  the  years  messed  up�  (9/1398/19-20].  On  Mr
+                    Romero�s  account,  he  saw  Mr  Musk�s  regular  visits  start  in  March  2015,  a  year  before  Ms
+                    Heard  even  moved  into  the  building.  Mr  Baruch  confirmed  he  only  saw  Mr  Musk  in  the
+                    Eastern  Columbia  Building  after  21  May  2016  [9/1384/4-7].  Ms  Esparza�s  evidence  on  Mr
+                    Musk  related  to  the  period  after  the  break  up.  She  made  a  reference  to  Ms  Heard  having
+                    marks  on  her  after  what  was  said  to  be  a  visit  from  Mr  Musk  in  June/July  2016;  but  she
+                    was  now  unable  to  recall  where  on  Ms  Heard�s  body  the  alleged  injuries  were  [5/891/9-
+                    13].  This  evidence  was  gratuitous  and  plainly  adduced  by  the  Claimant  in  an  improper
+                    attempt  publicly  to  smear  Mr  Musk  �  reflecting  his  determination  to  seek  vengeance
+                    against  Mr  Musk,  another  of  the  Claimant�s  objectives,  as  he  explained  that  he  had  in  his
+                    text  to  Mr  Carino  in  August  2016  [File  6/119/F687.194]. </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=23" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">21  May  2016</a></h3>
+                  <div class="timeline-body">Appended  to  these  submissions  are  four  appendices  containing  chronologies  referencing
+                    �painting�
+                    the  key  contemporaneous  documents for  the  following  incidents:  22  March  2013
+                    incident;  Australia,  March  2015;  15  December  2015;  and  21  May  2016. </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=1" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">21  May  2016</a></h3>
+                  <div class="timeline-body">For  example,  if,  as  the  Claimant  suggested,  calling  911  on  21  May  2016  was  �a
+                    choreographed  hoax  for  sure�  [4/559/13-15],  why  did  Ms  Heard  not  tell  either  of
+                    the  two  sets  of  police  officers  who  then  attended  that  she  had  been  attacked? </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=29" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">21  May  2016</a></h3>
+                  <div class="timeline-body">It  is  also  unclear  why  others  would  have  agreed  to  join  in  this  conspiracy.  It  was  put  to  Mr
+                    Drew  that  he  was  part  of  a  conspiracy  to  give  a  false  account  of  events  on  21  May  2016.
+                    No  motive  was  suggested  in  cross-examination  as  to  why  he  should  do  this  [12/1962/18-
+                    a  fanciful  proposition,  not  least  since  he  was  not  a  witness  who  was  seeking  to
+                    22].  tt  is
+                    paint  a  flattering  picture  of  Ms  Heard  �  he  confirmed  she  had  used  mushrooms  and
+                    ecstasy,  and  said  he  had  heard  that  she  had  taken  cocaine  (but  had  not  witnessed  this) </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=28" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">21  May  2016</a></h3>
+                  <div class="timeline-body">21  May  2016 </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=72" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">21  May  2016</a></h3>
+                  <div class="timeline-body">lot  of  strain  on  21  May  2016.  His  mother  had
+                    just  died,  his  relationship  with  Ms  Heard  was  ending,  he  was  in  bad  financial  straits  and
+                    his  business  managers  and  lawyers  had  conspired  to  steal  money  from  him  [4/547/17-
+                    23].  It  is  apparent  from  the  CCTV  footage  in  the  lift  from  20:29  [media  file  �01.  Video  63
+                    at
+                    �  AH_TPD_00017252.avi�]  that  the  Claimant  was  angry  when  he  got  into  the  lift
+                    penthouse  level  to  return  back  downstairs.  He  is  seen  clenching  his  fists  and  pacing  back
+                    and  forth  in  an  agitated  and  aggressive  manner.  The  Claimant  confirmed  in  evidence  he
+                    was  �very  upset�  [4/566/12-13].  Later  that  evening  he  sent  Ms  Heard  an  angry  text </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=73" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">22  May  2016</a></h3>
+                  <div class="timeline-body">Ms  de  Cadenet  texted  Ms  Heard  on  22  May  2016,  the  day  of  Ms  de  Cadenet�s  birthday
+                    party,  stating  "Sleeping  sounds  like  the  best  thing  right  now.  Put  some  arnica  on  your face.
+                    Make  sure  you  have  photos  of  the  injuries,  please,  and  text  them  to  me  or  Rocky  so  there
+                    a  record.  Sweetheart,  |  have  been  where  you  are  and  it's  excruciatingly  painful,  but  pain
+                    is
+                    is  the  cornerstone  of  growth  and  you  have  an  incredible  opportunity  right  now  to  change
+                    your  life."  [File  7/  tab  30/H146].  It  is  difficult  to  imagine  why  Ms  de  Cadenet  would  have
+                    said  this  if  Ms  Heard  was  uninjured,  and  this  demonstrates  that  Ms  Heard  had  told  Ms  de
+                    Cadanet  about  how  the  Claimant  had  been  violent  towards  her. </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=78" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">22  May  2016</a></h3>
+                  <div class="timeline-body">21  �22  May  2016
+                    Defendants�  chronology  of  relevant  documentary  evidence </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=113" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">22  May  2016</a></h3>
+                  <div class="timeline-body">86.  Several  witnesses  also  gave  evidence  that  Ms  Heard  had  told  them  of  the  violence  at  the
+                    is  alleged  to  have  occurred  �  Ms  Henriquez  (statement  paragraphs  17-18,  31,  6,
+                    time  it
+                    49,  52-3,  54-56,  65-6,  71,  75,  79);  Mr  Tillet  Wright  (statement  paragraphs  16-18,  30,  34,
+                    39,  55);  Ms  Sexton  (statement  paragraphs  31,  41,  45,  60,  62).  Ms  Sexton  explained  that
+                    Ms  Heard  told  her  of  the  violence  the  Claimant  had  perpetrated  on  her  around  the  time
+                    of  the  April  2016  birthday  party,  (ie.  before  the  DVRO  application)  [14/2248/13-16],
+                    although  she  suspected  the  Claimant  had  been  violent  towards  her  before  that  because
+                    of  Ms  Heard�s  behaviour  and  had  therefore  asked  Ms  Heard  whether  she  felt  safe
+                    [4/2249/2-12].  in  his  text  to  Ms  Heard  on  22  May  2016,  �Rocketman�  said:  �I�m  just  glad
+                    you�re  ok.  You  talked  about  J  being  violent  in  the  past  and  still  having  keys  to  the
+                    |  thought  something  might  have  happened.�  Even  a  number  of  the
+                    apartment,  so
+                    Claimant's  witnesses  accepted  that  Ms  Heard  had  complained  of  violence  by  the  Claimant
+                    at  various  points  throughout  the  relationship  (for  example  Samantha  McMillen  and  Kevin </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=27" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">22  May  2016</a></h3>
+                  <div class="timeline-body">You  at  Sweetzer?
+                    Text  from  Sean  Bett  to  Kevin  Murphy:
+                    J  calling  u  on  my  phone
+                    According  to  iO  Tillet  Wright�s  contemporaneous  email  (email
+                    from  iO  Tillet  Wright  to  AH  on  22  May  2016  at  7:55am,  Subject:
+                    �What  happened�):
+                    �At  8pm  PST  Amber  texted  me  and  asked  me  to  call  her.� </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=114" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">22  May  2016</a></h3>
+                  <div class="timeline-body">Sunday  22  May  2016,  LA </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=131" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">24  May  2016</a></h3>
+                  <div class="timeline-body">It  was  suggested  to  Ms  Heard  that  she  would  not  have  met  up  with  the  Claimant  in
+                    San  Francisco  on  22  July  2016  had  she  genuinely  been  afraid  of  him.  However  her
+                    explanation  for  the  San  Francisco  meeting  was  credible:  she  had  been  in  a  relationship
+                    with  him  and  married  to  him  only  very  recently  [10/1639/12-14].  Both  she  and  the
+                    Claimant  wanted  to  meet  in  the  presence  of  Mr  Carino  [13/2103/19-24].  Ms  Heard  also
+                    confirmed  that  she  had  sought  to  communicate  with  the  Claimant  on  24  May  2016  by
+                    phone  to  discuss  keeping  the  divorce  under  wraps  for  at  least  a  few  days  �in  the  hardest
+                    times  of  my  life�.  She  said,  convincingly,  that  this  in  no  way  meant  she  was  not  scared  of
+                    him  [11/1732/10-24,  1733  13-14]. </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=81" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">27  May  2016</a></h3>
+                  <div class="timeline-body">Ms  Esparza  said  she  was  asked  on  27  May  2016  to  retrieve  security  footage  which  in
+                    her  witness  statement  she  claimed  showed  Ms  Henriquez  throwing  a  �fake  punch�  in  the
+                    direction  of  Ms  Heard  [File  2/43/D98].  The  alleged  footage  was  never  disclosed  in  these
+                    proceedings,  and  no  explanation  proffered  for  why  it  was  not  produced.  Ms  Heard  denied
+                    there  had  been  any  �fake  punch�  [11/1743/5-9],  as  did  Ms  Henriquez  [13/2186/19-22].
+                    The  court  is  therefore  unable  to  assess  what  the  video  showed,  and  its  significance. </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=80" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">27  May  2016</a></h3>
+                  <div class="timeline-body">27  May  2016,  LA </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=150" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">28  May  2016</a></h3>
+                  <div class="timeline-body">See  also  pictures  of  Amber  Heard  taken  on  27-28  May  2016  at  the  following  times: </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=150" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">28  May  2016</a></h3>
+                  <div class="timeline-body">Important  corroboration  for  Ms  Heard�s  account  is  provided  by  the  photographs  of
+                    Ms  Heard  taken  between  21  and  28  May  2016.  The  sequence  of  these  is  set  out  in </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=73" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">28  May  2016</a></h3>
+                  <div class="timeline-body">28  May  2016,  LA </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=152" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">30  May  2016</a></h3>
+                  <div class="timeline-body">5  See  Ms  Heard�s  fifth  witness  statement,  paragraph  74  [Fite  2.1/71.3/E606.37]  in  which  she
+                    explained  that  she  was  trying  to  protect  the  Claimant,  and  exhibits  a  copy  of  a  text  message  sent  to
+                    Lisa  Beane  on  30  May  2016  in  which  Ms  Heard  explained  that  at  that  time  she  felt  unable  to  tell
+                    Monroe  how  the  injuries  had  been  caused. </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=29" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline time label -->
+              <div class="time-label">
+                <span class="bg-blue">Jul. 2016</span>
+              </div>
+              <!-- /.timeline-label -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">July  2016</a></h3>
+                  <div class="timeline-body">Moreover  the  evidence  adduced  by  the  Claimant  that  Ms  Heard  had  such  relationships
+                    was  very  thin.  Mr  Romero  said  that  Ms  Heard  was  visited  regularly  at  the  Eastern
+                    by  Mr  Musk  (statement  paragraph  7);  however  Mr  Romero�s
+                    Columbia  Building
+                    recollection  of  dates  was  extremely  faulty  �  see  below.  As  he  said  in  cross-examination  �/
+                    cannot  remember  exactly  the  year,  because  it  has  been  for  a  couple  of  years  already�
+                    [9/1398/2-3]  and  �I  get,  like  you  said,  the  years  messed  up�  (9/1398/19-20].  On  Mr
+                    Romero�s  account,  he  saw  Mr  Musk�s  regular  visits  start  in  March  2015,  a  year  before  Ms
+                    Heard  even  moved  into  the  building.  Mr  Baruch  confirmed  he  only  saw  Mr  Musk  in  the
+                    Eastern  Columbia  Building  after  21  May  2016  [9/1384/4-7].  Ms  Esparza�s  evidence  on  Mr
+                    Musk  related  to  the  period  after  the  break  up.  She  made  a  reference  to  Ms  Heard  having
+                    marks  on  her  after  what  was  said  to  be  a  visit  from  Mr  Musk  in  June/July  2016;  but  she
+                    was  now  unable  to  recall  where  on  Ms  Heard�s  body  the  alleged  injuries  were  [5/891/9-
+                    13].  This  evidence  was  gratuitous  and  plainly  adduced  by  the  Claimant  in  an  improper
+                    attempt  publicly  to  smear  Mr  Musk  �  reflecting  his  determination  to  seek  vengeance
+                    against  Mr  Musk,  another  of  the  Claimant�s  objectives,  as  he  explained  that  he  had  in  his
+                    text  to  Mr  Carino  in  August  2016  [File  6/119/F687.194]. </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=23" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">16  July  2016</a></h3>
+                  <div class="timeline-body">Ms  Heard  was  also  open  about  the  fact  that  during  the  relationship  with  the  Claimant  she
+                    used  illegal  drugs  (MDMA  and  mushrooms),  albeit  rarely  [10/1549/25-1550/5],  and
+                    enjoyed  alcohol  �  �you  know,  two,  three  glasses  a  night  sometimes,  sometimes  more,
+                    occasionally,  sometimes  less,  but  never  bottles�  [10/1559/6-10].  She  has  also  taken  one
+                    prescribed  drug,  Provigil,  for  narcolepsy,  although  the  Claimant�s  doctor,  Dr  Kipper,  put
+                    Ms  Heard  �on  all  kinds  of  medications  and,  frankly,  |  have  lost  track  of  which  ones�
+                    [10/1545/22-24],  �to  keep  me  sedated  or  keep  me  calm,  basically,  to  keep  my  body  from
+                    responding  to  the  world  |  was  living  in�.  Ms  Heard  explained  that  even  in  her  relationships
+                    with  Dr  Kipper,  nurse  Erin  Boerum  and  nurse  Debbie  Lloyd,  the  Claimant  was  the  ultimate
+                    client,  and  he  was  the  priority  [12/2015/8  �  2016/19].  As  the  Claimant  himself  explained
+                    in  his  text  to  nurse  Boerum  on  16  July  2016: </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=20" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">22  July  2016</a></h3>
+                  <div class="timeline-body">her  on  or  around  22  July  2016  as  follows  [File  5/161(0)/F1009.31]  [Media  file  �F161m"] </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=63" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">22  July  2016</a></h3>
+                  <div class="timeline-body">It  was  suggested  to  Ms  Heard  that  she  would  not  have  met  up  with  the  Claimant  in
+                    San  Francisco  on  22  July  2016  had  she  genuinely  been  afraid  of  him.  However  her
+                    explanation  for  the  San  Francisco  meeting  was  credible:  she  had  been  in  a  relationship
+                    with  him  and  married  to  him  only  very  recently  [10/1639/12-14].  Both  she  and  the
+                    Claimant  wanted  to  meet  in  the  presence  of  Mr  Carino  [13/2103/19-24].  Ms  Heard  also
+                    confirmed  that  she  had  sought  to  communicate  with  the  Claimant  on  24  May  2016  by
+                    phone  to  discuss  keeping  the  divorce  under  wraps  for  at  least  a  few  days  �in  the  hardest
+                    times  of  my  life�.  She  said,  convincingly,  that  this  in  no  way  meant  she  was  not  scared  of
+                    him  [11/1732/10-24,  1733  13-14]. </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=81" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline time label -->
+              <div class="time-label">
+                <span class="bg-blue">Aug. 2016</span>
+              </div>
+              <!-- /.timeline-label -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">August  2016</a></h3>
+                  <div class="timeline-body">Moreover  the  evidence  adduced  by  the  Claimant  that  Ms  Heard  had  such  relationships
+                    was  very  thin.  Mr  Romero  said  that  Ms  Heard  was  visited  regularly  at  the  Eastern
+                    by  Mr  Musk  (statement  paragraph  7);  however  Mr  Romero�s
+                    Columbia  Building
+                    recollection  of  dates  was  extremely  faulty  �  see  below.  As  he  said  in  cross-examination  �/
+                    cannot  remember  exactly  the  year,  because  it  has  been  for  a  couple  of  years  already�
+                    [9/1398/2-3]  and  �I  get,  like  you  said,  the  years  messed  up�  (9/1398/19-20].  On  Mr
+                    Romero�s  account,  he  saw  Mr  Musk�s  regular  visits  start  in  March  2015,  a  year  before  Ms
+                    Heard  even  moved  into  the  building.  Mr  Baruch  confirmed  he  only  saw  Mr  Musk  in  the
+                    Eastern  Columbia  Building  after  21  May  2016  [9/1384/4-7].  Ms  Esparza�s  evidence  on  Mr
+                    Musk  related  to  the  period  after  the  break  up.  She  made  a  reference  to  Ms  Heard  having
+                    marks  on  her  after  what  was  said  to  be  a  visit  from  Mr  Musk  in  June/July  2016;  but  she
+                    was  now  unable  to  recall  where  on  Ms  Heard�s  body  the  alleged  injuries  were  [5/891/9-
+                    13].  This  evidence  was  gratuitous  and  plainly  adduced  by  the  Claimant  in  an  improper
+                    attempt  publicly  to  smear  Mr  Musk  �  reflecting  his  determination  to  seek  vengeance
+                    against  Mr  Musk,  another  of  the  Claimant�s  objectives,  as  he  explained  that  he  had  in  his
+                    text  to  Mr  Carino  in  August  2016  [File  6/119/F687.194]. </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=23" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">13  August  2016</a></h3>
+                  <div class="timeline-body">Ms  James  was  extremely  ill  disposed  towards  Ms  Heard,  as  demonstrated  by  her
+                    testimony  in  general.  She  had  been  sacked  by  Ms  Heard.  She  was  happy  to  help  the
+                    Claimant  to  attack  Ms  Heard,  as  demonstrated  by  a  text  she  received  from  the  Claimant
+                    on  13  August  2016  stating  �Thank  you  sweetheart.  I'm  disgusted  that  |  ever  fucking
+                    touched  that  scum.  Back  on  Tuesday  and  then  court.  Will  hit  you  when  |  get  back,  doll.
+                    Come  over  for  a  spot  of  purple  and  we  will  fix  her  flabby  arse  nice  and  good.  Loveth,  ji
+                    [File  6/119/F697.193];  (7/1220/16-19]. </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=35" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">16  August  2016</a></h3>
+                  <div class="timeline-body">43.  After  his  relationship  with  Ms  Heard  ended,  he  did  not  merely  resent  her.  He  set  out  to
+                    destroy  her.  In  texts  to  Christian  Carino  on  15  and  16  August  2016  [File  6/119/F687.194] </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=13" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline time label -->
+              <div class="time-label">
+                <span class="bg-blue">Oct. 2016</span>
+              </div>
+              <!-- /.timeline-label -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">28  October  2016</a></h3>
+                  <div class="timeline-body">text  the  Claimant  sent  him  on  28  October  2016  stating  �/  gots  no  cake!!!  |  should  have
+                    called  business  manager  earlier,  but  |  was  swamped!!!  1  can  probably  get  you  some  dough
+                    tonight,  just  not  very  much...  sorry  dude.  But,  we  should  talk  about  moving  you  out  of  the
+                    building,  and  for  the  moment  bring  you  to  Sweetzer...  there's  a  spot  over  here  where  you'll
+                    be  comfy  and  able  to  paint...  |  hate  it,  but  |  gotta  lose  those  fucking  Penthouses!!�  [File
+                    10/147(a)/O517},  which  Mr  Baruch  confirmed  was  about  the  fact  that  he  needed  money </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=35" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">28  October  2016</a></h3>
+                  <div class="timeline-body">text  the  Claimant  sent  him  on  28  October  2016  stating  �/  gots  no  cake!!!  |  should  have
+                    called  business  manager  earlier,  but  |  was  swamped!!!  1  can  probably  get  you  some  dough
+                    tonight,  just  not  very  much...  sorry  dude.  But,  we  should  talk  about  moving  you  out  of  the
+                    building,  and  for  the  moment  bring  you  to  Sweetzer...  there's  a  spot  over  here  where  you'll
+                    be  comfy  and  able  to  paint...  |  hate  it,  but  |  gotta  lose  those  fucking  Penthouses!!�  [File
+                    10/147(a)/O517},  which  Mr  Baruch  confirmed  was  about  the  fact  that  he  needed  money </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=35" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline time label -->
+              <div class="time-label">
+                <span class="bg-blue">May 2019</span>
+              </div>
+              <!-- /.timeline-label -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">30
+                    May  2019</a></h3>
+                  <div class="timeline-body">Mr  Murphy  was  also  one  of  the  Claimant�s  attack  dogs.  He  texted  the  Claimant  on  30
+                    May  2019  stating  �I'll  always  have  your  back,  any  time,  anywhere.  Continued  relentless
+                    exposure  of  the  fraud  and  the  scamber  bandits  is  key�.  He  went  on  to  confirm  that  he  had
+                    sent  �evidence�  to  �Adam�,  which  could  only  be  a  reference  to  Adam  Waldman,  and
+                    discussed  how  Ms  Heard�s  evidence  could  be  discredited  [File  10/147(a)/O71].  The
+                    Claimant  replied  expressing  his  appreciation  of  Mr  Murphy's  efforts  to  discredit  Ms  Heard,
+                    saying  �bless  your  heart  for  being  such  a  warrior  for  me  and  for  your  passion  to  join  me  in
+                    It  speaks  volumes  about  who  you  are  and  I've  already
+                    this  battle.  |  will  never  forget  it.
+                    known  who  you  are,  pal.  Thank  you.  All  my  love  and  respect�  [File  10/147(a)/O71]. </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=34" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline time label -->
+              <div class="time-label">
+                <span class="bg-blue">Jun. 2019</span>
+              </div>
+              <!-- /.timeline-label -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">22  June  2019</a></h3>
+                  <div class="timeline-body">In  her  oral  evidence  Ms  Divinere  said  that  she  had  been  made  uncomfortable  by  Mr
+                    Waldman�s  text  to  her  of  22  June  2019  asking  her  to  assist  because  he  had  evidence  of
+                    her  �constant  interactions�  with  Ms  Heard  (�you  were  with  her  immediately  prior  to  and
+                    immediately  after  she  created  this  hoax�).  He  told  her  that  if  she  chose  the  side  of  what
+                    he  called  the  �hoax�/�suppression  of  truth�  then  he  would  subpoena  her  to  compel
+                    a  sworn  deposition  [File  4/120/F698}.  Ms  Divenere  said  that  she  felt
+                    attendance  at
+                    �pressured�  by  Mr  Waldman  to  say  things  unfavourable  to  Ms  Heard  [9/1463/4-11]  and
+                    that  she  felt  �pressured  with  most  of  the  questions�  that  Mr  Waldman  asked  [9/1464/19- </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=15" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline time label -->
+              <div class="time-label">
+                <span class="bg-blue">Jul. 2019</span>
+              </div>
+              <!-- /.timeline-label -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">July  2019</a></h3>
+                  <div class="timeline-body">Mr  Waldman�s  role  has  not  been  confined  to  leaking  material  to  the  press.  He  has  also
+                    been  instrumental  in  obtaining  evidence  for  this  case.  Laura  Divinere  explained  in  her
+                    conversation  with  Ms  Heard  in  July  2019  the  pressure  she  was  put  under  by  Mr  Waldman
+                    to  sign  a  declaration  for  the  Claimant.  She  said  that  Mr  Waldman  told  her  that  he  had  her
+                    on  file  and  photographed/on  camera  at  the  Eastern  Columbia  building,  that  she  was
+                    conspiring  with  Ms  Heard�s  group  and  that  he  would  subpoena  her  for  a  deposition  if  she
+                    did  not  speak  to  him  and  sign  a  declaration  in  support  of  his  client.  He  said  that  the
+                    deposition  process  would  cost  her  about  fifteen  to  twenty  thousand  dollars,  and  that  he
+                    would  be  subpoenaing  other  people  in  Ms  Heard�s  group  for  perjury.  She  told  Ms  Heard
+                    that  as  a  result  she  was  left  shaken  for  days  and  had  not  slept  for  a  number  of  nights. </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=15" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">July  2019</a></h3>
+                  <div class="timeline-body">Mr  Waldman�s  role  has  not  been  confined  to  leaking  material  to  the  press.  He  has  also
+                    been  instrumental  in  obtaining  evidence  for  this  case.  Laura  Divinere  explained  in  her
+                    conversation  with  Ms  Heard  in  July  2019  the  pressure  she  was  put  under  by  Mr  Waldman
+                    to  sign  a  declaration  for  the  Claimant.  She  said  that  Mr  Waldman  told  her  that  he  had  her
+                    on  file  and  photographed/on  camera  at  the  Eastern  Columbia  building,  that  she  was
+                    conspiring  with  Ms  Heard�s  group  and  that  he  would  subpoena  her  for  a  deposition  if  she
+                    did  not  speak  to  him  and  sign  a  declaration  in  support  of  his  client.  He  said  that  the
+                    deposition  process  would  cost  her  about  fifteen  to  twenty  thousand  dollars,  and  that  he
+                    would  be  subpoenaing  other  people  in  Ms  Heard�s  group  for  perjury.  She  told  Ms  Heard
+                    that  as  a  result  she  was  left  shaken  for  days  and  had  not  slept  for  a  number  of  nights. </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=15" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">July  2019</a></h3>
+                  <div class="timeline-body">Ms  Divinere  confirmed  both  in  her  conversation  with  Ms  Heard  in  July  2019  and  in  her
+                    oral  evidence  that  on  the  days  following  the  21  May  incident  she  had  been  with  Ms  Heard
+                    and  had  seen  her  face  �red  and  puffy�  but  had  �attributed  this  to  crying�  (9/1466/18-25]. </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=73" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">16  July  2019</a></h3>
+                  <div class="timeline-body">a  text  to  Ms  Heard  on  16  July  2019  [File  7/56(a)/H206]  that
+                    Ms  Divinere  confirmed  in
+                    what  she  had  told  Ms  Heard  in  the  recorded  conversation  had  been  true.  Ms  Divinere  said
+                    in  evidence  that  she  did  not  know  the  conversation  was  being  recorded.  This  makes  the
+                    recording  all  the  more  compelling  as  evidence,  as  Ms  Divinere  would  have  no  reason  not
+                    to  be  sincere  during  the  conversation.? </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=15" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline time label -->
+              <div class="time-label">
+                <span class="bg-blue">Nov. 2019</span>
+              </div>
+              <!-- /.timeline-label -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">22  November  2019</a></h3>
+                  <div class="timeline-body">93.  As  a  general  point,  most  of  the  Claimant�s  witnesses  had  long  standing  relationships  with
+                    him  and/or  continue  to  depend  on  him  for  their  livelihoods.  This  applies  to  Mr  Bett,  Mr
+                    Murphy,  Mr  Deuters,  Mr  Baruch,  Ms  Vargas,  Mr  McGivern,  Mr  Jenkins,  Ms  Roberts  and
+                    Mr  Connelly;  others  were  paid  by  him  to  provide  services  and,  given  his  status  in
+                    Hollywood,  are  unlikely  to  want  to  fall  out  of  favour  with  him:  Mr  King,  Mr  White,  Ms
+                    Esparza,  Mr  Romero,  Mr  Harrell.  It  was  the  job  of  many  of  these  individuals  to  clear  up
+                    the  mess  left  behind  by  the  Claimant,  and  not  to  intervene  or  reprimand  him.  This  was
+                    in  her  deposition  dated  22  November  2019  [File </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=30" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline time label -->
+              <div class="time-label">
+                <span class="bg-blue">Feb. 2020</span>
+              </div>
+              <!-- /.timeline-label -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">February  2020</a></h3>
+                  <div class="timeline-body">The  court  was  introduced  to  the  activities  of  Mr  Waldman  at  the  PTR  in  February  2020
+                    when  attention  was  drawn  to  an  email  he  had  sent  Mr  Charalambous,  the  Defendants�
+                    solicitor,  following  the  recent  leaks  of  recordings  to  Mail  Online  of  conversations  between
+                    the  Claimant  and  Ms  Heard.  The  email  [File  8/86/148]  read: </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=14" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">19
+                    February  2020</a></h3>
+                  <div class="timeline-body">8  The  accounts  of  Mr  Drew  and  Ms  Pennington  are  corroborated  by  Ms  Elizabeth  Marz,  who  was
+                    with  Mr  Drew  and  Ms  Pennington  in  the  apartment  on  the  evening  of  21  May,  and  witnessed  the
+                    Claimant  enter  the  apartment,  visibly  intoxicated  and  swinging  a  wine  bottle.  Ms  Marz  also  saw  Ms
+                    Heard�s  injuries  that  night.  She  gives  her  account  in  her  US  draft  declaration  [File  3/  Tab  103],  and
+                    deposition  [File  3/Tab  F104].  Ms  Marz�s  account  is  provided  under  a  hearsay  notice  dated  19
+                    February  2020. </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=76" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline time label -->
+              <div class="time-label">
+                <span class="bg-blue">Mar. 2020</span>
+              </div>
+              <!-- /.timeline-label -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">23  March  2020</a></h3>
+                  <div class="timeline-body">Photograph  of  Amber  Heard  and  Ian  McLagan.  On  5  July  2020  the  Claimant  disclosed  this  to
+                    the  Defendants  with  a  metadata  date/time  of  �April  7,  2013  1  1:02PM�  [9/86(e)(i)/348.16]  but
+                    on  21  July  2020  Ms  Laws  QC  put  to  Ms  Heard  in  cross-examination  that  this  photograph  was
+                    in  fact  taken  on  23  March  2020.  This  assertion  was  made  on  the  basis  of  the  travel  documents
+                    of  Jan  McLagan  [11/  Tabs  148  and  149]:  see  Transcript,  Day  11,  pages  1810�18  17.
+                    Ms  Heard�s  evidence  was  that  �I  do  not  know  when  it  [this  photograph]  was  taken  �  but  her
+                    bottom  lip  in  this  photograph  looked  swollen  to  her  (Day  11,  pages  1810,  lines  10-17  and
+                    pages  1817-18).
+                    Ms  Henriquez�  evidence  was  that  in  this  photograph  �J  see  makeup  and  a  split  lip.�  (Day  13,
+                    page  2156,  lines  19-20). </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=98" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline time label -->
+              <div class="time-label">
+                <span class="bg-blue">Jul. 2020</span>
+              </div>
+              <!-- /.timeline-label -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">5  July  2020</a></h3>
+                  <div class="timeline-body">It  is  to  be  noted  that  nowhere  did  Ms  Heard  state  in  her  evidence  that  the  painting  in
+                    question  was  the  �Tasya  Van  Pee�  painting:  the  error  was  that  of  Ms  Henriquez  alone.  It  is
+                    also  to  be  noted  that  Ms  Heard�s  sixth  witness  statement,  in  which  she  said  (at  paragraph
+                    9)  that  �During  the  course  of  reading  through  these  materials,  |  have  now  realized  |  cannot
+                    cannot  say  for  certain  it
+                    be  sure  that  the  painting  incident  took  place  on  8  March  2013  ...
+                    was  on  8  March  2013�  was  served  on  the  Claimant's  solicitors  on  5  July  2020  at  10:48  am.
+                    This  was  before  any  disclosure  by  the  Claimant  of  photographs  with  Keith  Richards,  or  lan
+                    McLagan,  or  flight  records  for  Mr  McLagan.  The  suggestion  that  Ms  Heard  has  been
+                    �forced  to�  change  her  evidence  as  to  the  date  or  nature  of  the  painting  incident  as  a
+                    result  of  being  confronted  by  disclosure  from  the  Claimant  {as  was  suggested  at </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=41" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">5  July  2020</a></h3>
+                  <div class="timeline-body">Photograph  of  Amber  Heard  and  Ian  McLagan.  On  5  July  2020  the  Claimant  disclosed  this  to
+                    the  Defendants  with  a  metadata  date/time  of  �April  7,  2013  1  1:02PM�  [9/86(e)(i)/348.16]  but
+                    on  21  July  2020  Ms  Laws  QC  put  to  Ms  Heard  in  cross-examination  that  this  photograph  was
+                    in  fact  taken  on  23  March  2020.  This  assertion  was  made  on  the  basis  of  the  travel  documents
+                    of  Jan  McLagan  [11/  Tabs  148  and  149]:  see  Transcript,  Day  11,  pages  1810�18  17.
+                    Ms  Heard�s  evidence  was  that  �I  do  not  know  when  it  [this  photograph]  was  taken  �  but  her
+                    bottom  lip  in  this  photograph  looked  swollen  to  her  (Day  11,  pages  1810,  lines  10-17  and
+                    pages  1817-18).
+                    Ms  Henriquez�  evidence  was  that  in  this  photograph  �J  see  makeup  and  a  split  lip.�  (Day  13,
+                    page  2156,  lines  19-20). </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=98" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">21  July  2020</a></h3>
+                  <div class="timeline-body">Photograph  of  Amber  Heard  and  Ian  McLagan.  On  5  July  2020  the  Claimant  disclosed  this  to
+                    the  Defendants  with  a  metadata  date/time  of  �April  7,  2013  1  1:02PM�  [9/86(e)(i)/348.16]  but
+                    on  21  July  2020  Ms  Laws  QC  put  to  Ms  Heard  in  cross-examination  that  this  photograph  was
+                    in  fact  taken  on  23  March  2020.  This  assertion  was  made  on  the  basis  of  the  travel  documents
+                    of  Jan  McLagan  [11/  Tabs  148  and  149]:  see  Transcript,  Day  11,  pages  1810�18  17.
+                    Ms  Heard�s  evidence  was  that  �I  do  not  know  when  it  [this  photograph]  was  taken  �  but  her
+                    bottom  lip  in  this  photograph  looked  swollen  to  her  (Day  11,  pages  1810,  lines  10-17  and
+                    pages  1817-18).
+                    Ms  Henriquez�  evidence  was  that  in  this  photograph  �J  see  makeup  and  a  split  lip.�  (Day  13,
+                    page  2156,  lines  19-20). </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=98" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">27  July  2020</a></h3>
+                  <div class="timeline-body">27  July  2020 </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=82" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline time label -->
+              <div class="time-label">
+                <span class="bg-blue">May 2021</span>
+              </div>
+              <!-- /.timeline-label -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">May  21</a></h3>
+                  <div class="timeline-body">The  purpose  of this  document  is  to  describe,  in  the  best  possible
+                    manner,  my  description  of events  I  was  directly  witness  to  on  the
+                    evening  of Saturday,  May  21.  At  approximately  7:15,  Amber
+                    informed  me  that  her  husband  Johnny  would  be  coming  over
+                    shortly  to  pick  up  a  few  of his  personal  effects  &  discuss  their
+                    current  situation.  At  8:06PM  I  received  a  text from  Amber  asking
+                    me  to  come  over  to  PH3  right  away.  At  8:09PM  I  texted  back  to
+                    confirm  she  needed  me  immediately.  At  8:11  PM  I  knocked  on  the
+                    door.  The  door  was  locked  so  I  went  back,  grabbed  my  keys,
+                    knocked  again,  heard  Johnny  yelling.  I  immediately  unlocked  the
+                    door  and  came  in  to  see  him  standing  in  the  kitchen  area.  I  asked
+                    if everything  was  ok,  to  which  Amber  replied  "No.  Help  me."
+                    Johnny  had  a  magnum  of wine  in  his  hand,  and  told  me  to  leave.  I
+                    looked  at  Amber  holding  her face  &  her  head,  and  she  then  told
+                    me  that  he  threw  her  phone  at  her  and  hit  her,  and  to  please  help
+                    her.  He  proceeded  to  argue,  deny  any  and  all  wrongdoing,  all
+                    while  continuing  to  move  closer  to  Amber.  I  stepped  in  front  of
+                    him  to  shield  her from  him  and  put  my  hands  on  his  chest,  telling </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=148" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">May  21</a></h3>
+                  <div class="timeline-body">The  purpose  of this  document  is  to  describe,  in  the  best  possible
+                    manner,  my  description  of events  I  was  directly  witness  to  on  the
+                    evening  of Saturday,  May  21  .  At  8:06PM,  Amber  sent  a  text  to
+                    Raquel  asking  her  to  come  over  to  PH3,  where  she  was  engaged
+                    in  conversation  with  her  husband,  Johnny.  I  was  in  PHS  with  Liz,
+                    waiting for  them  to  complete  the  conversation.  Approximately  15
+                    minutes  later,  we  heard  Johnny  shouting,  and  saw  (through  the
+                    peephole)  both  of his  security  team  rush  over  in  the  direction  of
+                    'PH3.  We  heard  him  continue  to  shout,  as  well  as  what  sounded </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=147" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">16/05/21</a></h3>
+                  <div class="timeline-body">8/21/16  21:22  MET  W/  VICT,  CHCXD  LOC. VERIFIED  MUSBAND  LEFT  LOC,  VICT  ADVISED  VERBAL
+                    BUS  CARD
+                    05/24/16  21:22  DISPUTE  AND  REFUSED  TO  GIVE  ANY  PRTHR  INFO.  ISSUE
+                    05/21/16  21:22  Stat:  CL  PRYIAL-W3
+                    05/21/26  24:22  Dleposition  �1  CHANGED To: OCCSH:OFCR  COMPLETED  CALL  SUPY  NO
+                    �05/21/16  23:22  OCCSN:OFCR  COMPLETED  CALL  SUPY  NO-
+                    OS/21/16  21:22  incklent  Cloned:  16/05/21  21:22 </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=123" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline time label -->
+              <div class="time-label">
+                <span class="bg-blue">Mar. 2022</span>
+              </div>
+              <!-- /.timeline-label -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">Mar
+                    22</a></h3>
+                  <div class="timeline-body">Timestamp  on
+                    7/56(c)/H206.7
+                    screenshot
+                    (screenshot
+                    showing  date/time  |  cannot  be
+                    of  texts  as  �Mar
+                    22,  2013,  21:11�) </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=86" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">Mar
+                    22</a></h3>
+                  <div class="timeline-body">7/56(c)/H206.8
+                    (second  page  of
+                    screenshot
+                    showing  date/time  |  accurate  as  by
+                    21:11  filming
+                    of  texts  as  �Mar
+                    22,  2013,  21:11�) </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=87" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline time label -->
+              <div class="time-label">
+                <span class="bg-blue">May 2022</span>
+              </div>
+              <!-- /.timeline-label -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">May  22</a></h3>
+                  <div class="timeline-body">scratches  on  the  doors,  as  well  as  the  wine  spilled  all  over  the
+                    hallway).  During  this,  I  locked  the  door  to  PHS  (we  left  the  doors
+                    unlocked  to  let  the  girls freely  travel from  apartment  to  apartment
+                    throughout  the  day).  I  heard  Johnny  come  up  to  the  door  and
+                    shout  at  his  security  to  "open  this fucking  door,  let  me  in  this
+                    fucking  place."  Which  they  did  without  hesitation.  He  walked  in
+                    and  immediately  started  screaming  at  me.  I  can't  remember
+                    exactly  what  he  was  saying  ,  but  it  was  a  reputation  something
+                    along  the  lines  of:  "Get  the fuck  out  of my  house,"  "You
+                    motherfuckers fucking  sold  me  out,"  so  on  and  so  forth  .  The
+                    whole  time,  no  more  than  6" from  my face,  spitting  in  my face  the
+                    whole  time.  I  didn't  respond  in  any  way,  rather,  calmly  made  my
+                    way  to  the  door.  I  had forgotten  my  keys,  so  I  turned  around  to
+                    grab  them.  He followed  me  every  step  of the  way  throughout,
+                    screaming  and  spitting  in  my face.  I  did  not  see  where  Liz  went  to,
+                    as  I  thought  she  was  right  behind  me.  He  made  a  beeline  to  go
+                    right  at  her,  and  she  ran  away.  After  I  had  left,
+                    screaming  and  smashing  things  inside  the  apartment  as  I  made  my
+                    way  over  to  PH3  to  check  on  Raquel  &  Amber,  during  which  they
+                    I  moved  them  over  to  our  apartment
+                    relayed  what  had  occurred  .
+                    PHI  ,  and  dead-bolted  the  door  until  we  were  certain  he  had  left.
+                    I  kept  them  inside  PH1  ,  and  went  down  to  the  garage  to  confirm
+                    their  departure.  At  8:46PM,  I  started  getting  calls  from  his  head
+                    of security,  Jerry,  as  Johnny  had  left  his  �phone  there,  and  Jerry
+                    wanted  me  to  bring  it  down  for  him  to  pick  up.  I  told  him  not  to
+                    pull  into  the  complex,  and  that  I  would  meet  him  at  the front  door.
+                    We  had  a  verbal  confrontation  in  the  process  of handing  off the
+                    phone,  which  I  can  provide  further  detail  should  the  need  arise.  I
+                    declare  under  penalty  of perjury  that  the foregoing  is  true  and
+                    correct.  Executed  on  Sunday,  May  22 </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=148" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">May  22</a></h3>
+                  <div class="timeline-body">him  to  "stay  away from  her.�  To  this,  he  replied  "get  your fucking
+                    hands  off me."  He  then  proceeded  shoved  my  hands  out  of the
+                    way,  which  I  then  put  back  on  his  chest.  He  shouted  "Oh  you  want
+                    to  be  fucking  tough  now,  where's  your fucking  bearded  boyfriend,
+                    you've  got  what  you  want,  you've  got  her  to  yourself."  He
+                    then  backed  away,  saying  "the  DNA  test  will  prove  it,  We  Will
+                    Find  Out  who  did  this."  He  walked  over  to  the  kitchen  area  to
+                    grab  his  bag  I  then  went  over  to  the  couch  to  console  Amber,  who
+                    curled  up  in  my  arms,  saying  "I  didn't  do  anything,  I just  called  lo
+                    to  confirm  the  story,  I  didn't  do  anything.  "  While  holding  her  on
+                    the  couch,  he  starts  yelling  unintelligibly,  ranting  obscenities  &
+                    random  accusations  specifically  at  Amber  throughout.  He  grabs
+                    his  bag  &  the  wine,  makes  to  leave,  then  turns  around  and  comes
+                    back  towards  us,  walks  right  up  in  front  of us  (still  on  the  couch),
+                    times.  All  the  while,
+                    states  "Amber,  get  up,�  repeatedly,  at  least  10
+                    no  more  than  a foot  away from  us,  with  me  still  cradling  her.  At
+                    this  point  his  security,  Jerry  &  Sean  came  in.  As  soon  as  they
+                    come  in,  he  retreated  away,  about  15 feet.  Amber  got  up  to  head
+                    towards  the  bathroom,  telling  Jerry  that  if he  "hits  me  one  more
+                    time  I'm  calling  the  cops."  Johnny  denied  that  he  had  struck  her.
+                    He  said  that  he  had  "thrown  her  phone  at  her,  and  that's
+                    what  she's  accusing  me  of."  Amber  then  repeated  what  she  had
+                    said  before  "I  didn't  do  anything,  if he  hits  me  one  more  time  I'm
+                    calling  the  cops."  He  then  went  into  the  kitchen  area  and  started
+                    smashing  things  at  random.  His  security  did  nothing  but  stand
+                    behind  him.  No  effort  was  made  to  restrain  him,  no
+                    acknowledgment  was  made  of the  abuse,  nor  did  they  make  any
+                    verbal  effort  to  try  and  diffuse  the  situation  or  get  him  to  walk
+                    away.  He  then  stormed  out  of the  apartment,  screaming
+                    unintelligibly.  That  was  the  last  I  saw  of him  that  evening.  I  heard
+                    him  yelling  and  breaking  things for  the  next  I �5-30  minutes  in  the
+                    hallway  and  other  apartments.  When  I  went  to  find  Amber's  phone
+                    and  purse  in  PH3  and  PHS,  still  not  knowing  if he  was  on  the
+                    premises,  I  discovered  broken  belongings.  This  included  my  art
+                    that  had  been  thrown  against  the  wall,  Amber's  office  that  had
+                    been  ransacked,  framed photos  that  had  been  smashed  and  glass
+                    broken,  and  art  that  had  been  taken  from  the  wall  and  left  on  the
+                    bed  in  Amber's  room  .  In  the  public  hallway  there  were  puddles  of
+                    spilled  wine  on  the floor  and  splashed  on  the  walls,  and  dents  in
+                    the  doors.  Amber  was  in  my  apartment  (PHI)  when  the  police
+                    arrived.  To  my  knowledge  he  had  already  vacated  the  premises.
+                    I  declare  under  penalty  of perjury  that  the  foregoing  is  true  and
+                    correct,  Executed  on  Sunday,  May  22. </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=149" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+              <!-- timeline item -->
+              <div>
+                <i class="fas fa-arrow-alt-circle-right bg-blue"></i>
+                <div class="timeline-item">
+                  <h3 class="timeline-header"><a href="#">16/05/22</a></h3>
+                  <div class="timeline-body">05/22/16  03:00  Stat:  OS  POYIAGI-W3  Loc:  849  S  BROADWAY
+                    05/22/16  03:01  Stat:  AS  POY1AG1-W3  Loc:  849  S  BROADWAY
+                    05/22/16  03:01  RELATED  TO  PREV  INC,  VERBAL  ARGUMENT  ONLY.  CHECKED  RES.
+                    05/22/46  03:01  Stet:  CL  PR/1AG1-W3
+                    05/22/16  03:01  incident  Closed:  16/05/22  03:01
+                    05/22/36  03:01  Disposition  #1  CHANGED  To:  GOASN:GONE  ON  ARRIVAL  SUPV  NO
+                    05/22/26  03:01  GOASN:GONE  ON  ARRIVAL  SUPV  NO </div>
+                  <div class="timeline-footer">
+                    <a class="btn btn-primary btn-sm" href="https://www.nickwallis.com/_files/ugd/5df505_23ef139d05094dbb981cd11ff3d7240f.pdf#page=134" target="_blank">Link</a>
+                  </div>
+                </div>
+              </div>
+              <!-- END timeline item -->
+
+            </div>
+          </div>
+          <!-- /.col -->
+        </div>
+      </div>
+      <!-- /.timeline -->
+
+    </section>
+    <!-- /.content -->
+  </div>
+  <!-- /.content-wrapper -->
+  <footer class="main-footer">
+    <strong>Made with <a href="https://adminlte.io">AdminLTE.io</a>.</strong>
+    <div class="float-right d-none d-sm-inline-block">
+      <b>Version</b> 3.2.0
+    </div>
+  </footer>
+
+  <!-- Control Sidebar -->
+  <aside class="control-sidebar control-sidebar-dark">
+    <!-- Control sidebar content goes here -->
+  </aside>
+  <!-- /.control-sidebar -->
+</div>
+<!-- ./wrapper -->
+
+<!-- jQuery -->
+<script src="../../plugins/jquery/jquery.min.js"></script>
+<!-- Bootstrap 4 -->
+<script src="../../plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
+<!-- AdminLTE App -->
+<script src="../../dist/js/adminlte.min.js"></script>
+</body>
+</html>
