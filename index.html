@@ -1,7 +1,8 @@
-<head>
+<head xmlns="http://www.w3.org/1999/html">
     <script src="js/animatedtitle.js"></script>
     <script src="js/jparticles.js"></script>
     <script src="js/particle.js"></script>
+	<script src="https://kit.fontawesome.com/f7187ce1e1.js" crossorigin="anonymous"></script>
     <meta property="og:type" content="website" />
     <meta property="og:title" content="tangykiwi" />
     <meta property="og:image" content="https://cdn.discordapp.com/avatars/476264177204199444/800f5f3c6c9a933da5c4cea6239b7c82.webp?size=128" />
@@ -35,15 +36,22 @@
 			position: absolute;
 			margin: auto;
 			left: 50%;
-			top: 50%;
+			top: 45%;
 			transform: translate(-50%, -50%);
 			text-align: center;
 			animation-name: fadein;
 			animation-duration: 1s;
 		}
-		.right {
-			float: right;
-			text-align: right;
+		.icon-dock{
+			padding: 20px;
+			position: absolute;
+			margin: auto;
+			left: 50%;
+			top: 90%;
+			transform: translate(-50%, -50%);
+			text-align: center;
+			animation-name: fadein;
+			animation-duration: 1s;
 		}
 		.img {
 			border-radius: 60%;
@@ -83,6 +91,39 @@
 				height: 150px;
 			}
 		}
+		icon {
+			color:white;
+			text-decoration: none;
+		}
+		i {
+			letter-spacing: 20px;
+			font-size: 49px;
+			transition: all .2s ease-in-out;
+		}
+		i:hover {
+			transform: scale(1.3);
+		}
+		.fa-discord:hover {
+			color: #5865f2;
+		}
+		.fa-facebook:hover {
+			color: #1877f2;
+		}
+		.fa-github:hover{
+			color: #333;
+		}
+		.fa-google:hover{
+			color: #fbbc05;
+		}
+		.fa-instagram:hover {
+			color: #c32aa3;
+		}
+		.fa-linkedin:hover {
+			color: #0a66c2;
+		}
+		.fa-twitter:hover {
+			color: #1da1f2;
+		}
 	</style>
 </head>
 
@@ -93,10 +134,27 @@
 	<div style="font-size: 180%;">TangyKiwi</div>
 	<hr>
 	<p>
-		<a href="https://github.com/TangyKiwi" target="_blank">Github</a>
+		<a href="https://github.com/TangyKiwi/KiwiClient" target="_blank">KiwiClient</a>
+	</p>
+	<p>
+		<a href="https://tangykiwi.tk/Worldie/annex.html" target="_blank">Worldie</a>
+	</p>
+	<p>
+		<a>Portfolio (coming!)</a>
 	</p>
 	<hr>
 </span>
+<span class="icon-dock">
+	<b>&nbsp;&nbsp;</b>
+	<a href="https://discord.com/users/476264177204199444" target="_blank"><icon><i class="fab fa-discord"></i></icon></a>
+	<a href="https://www.facebook.com/orange.panda.65/" target="_blank"><icon><i class="fab fa-facebook"></i></icon></a>
+	<a href="https://github.com/TangyKiwi" target="_blank"><icon><i class="fab fa-github"></i></icon></a>
+	<a href="mailto:orange.panda.65@gmail.com" target="_blank"><icon><i class="fab fa-google"></i></icon></a>
+	<a href="https://www.instagram.com/orangepanda65/" target="_blank"><icon><i class="fab fa-instagram"></i></icon></a>
+	<a href="https://www.linkedin.com/in/kevin-lin-b360461b5/" target="_blank"><icon><i class="fab fa-linkedin"></i></icon></a>
+	<a href="https://twitter.com/tangykiwi65" target="_blank"><icon><i class="fab fa-twitter"></i></icon></a>
+</span>
+
 <script>
 		new JParticles.particle('#particles', {
 			color: ['white', '#f5ad42'],
