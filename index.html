@@ -4,6 +4,11 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>TangyKiwi</title>
+    <script>
+        (function () {
+            if (localStorage.getItem("theme") === "light") document.documentElement.setAttribute("data-theme", "light");
+        })();
+    </script>
     <script src="js/animatedtitle.js"></script>
     <script src="js/jparticles.js"></script>
     <script src="js/particle.js"></script>
@@ -16,7 +21,12 @@
 </head>
 
 <body>
+<div class="bg-layer"></div>
 <div id="particles"></div>
+
+<button class="theme-toggle" id="theme-toggle" aria-label="Toggle light/dark mode" onclick="toggleTheme()">
+	<i class="fa-solid fa-sun" id="theme-icon"></i>
+</button>
 
 <main class="panel">
 	<div class="avatar-ring">
@@ -26,24 +36,63 @@
 	<hr class="divider">
 	<nav class="links">
 		<div class="links-row">
-			<a class="link-pill" href="https://github.com/TangyKiwi/BluffMind" target="_blank"><i class="fa-brands fa-github"></i>BluffMind</a>
-			<a class="link-pill primary" href="https://github.com/TangyKiwi/KiwiClient" target="_blank"><i class="fa-brands fa-github"></i>KiwiClient</a>
-			<a class="link-pill" href="https://github.com/TangyKiwi/Domestic-Abuse-Analysis-Projects" target="_blank"><i class="fa-brands fa-github"></i>Worldie</a>
+			<a class="link-pill" href="https://github.com/TangyKiwi/BluffMind" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-github"></i>BluffMind</a>
+			<a class="link-pill primary" href="https://github.com/TangyKiwi/KiwiClient" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-github"></i>KiwiClient</a>
+			<a class="link-pill" href="https://github.com/TangyKiwi/Domestic-Abuse-Analysis-Projects" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-github"></i>Worldie</a>
 		</div>
 		<div class="links-row">
-			<a class="link-pill" href="resume.html" target="_blank"><i class="fa-solid fa-file"></i>Resume</a>
-			<a class="link-pill" href="portfolio.html" target="_blank"><i class="fa-solid fa-briefcase"></i>Portfolio</a>
+			<a class="link-pill" href="resume.html" target="_blank" rel="noopener noreferrer"><i class="fa-solid fa-file"></i>Resume</a>
+			<a class="link-pill" href="portfolio.html" target="_blank" rel="noopener noreferrer"><i class="fa-solid fa-briefcase"></i>Portfolio</a>
 		</div>
 	</nav>
 </main>
 
 <nav class="dock">
-	<a class="dock-item" data-label="Discord" href="https://discord.com/users/476264177204199444" target="_blank"><i class="fa-brands fa-discord"></i></a>
-	<a class="dock-item" data-label="GitHub" href="https://github.com/TangyKiwi" target="_blank"><i class="fa-brands fa-github"></i></a>
-	<a class="dock-item" data-label="Email" href="mailto:orange.panda.65@gmail.com" target="_blank"><i class="fa-brands fa-google"></i></a>
-	<a class="dock-item" data-label="LinkedIn" href="https://www.linkedin.com/in/klin665/" target="_blank"><i class="fa-brands fa-linkedin"></i></a>
+	<a class="dock-item" data-label="Discord" aria-label="Discord" href="https://discord.com/users/476264177204199444" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-discord"></i></a>
+	<a class="dock-item" data-label="GitHub" aria-label="GitHub" href="https://github.com/TangyKiwi" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-github"></i></a>
+	<a class="dock-item" data-label="Email" aria-label="Email" href="mailto:orange.panda.65@gmail.com" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-google"></i></a>
+	<a class="dock-item" data-label="LinkedIn" aria-label="LinkedIn" href="https://www.linkedin.com/in/klin665/" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-linkedin"></i></a>
 </nav>
 
-<script src="js/init-particles.js"></script>
+<script>
+	var DARK_PARTICLE_COLOR = 'white';
+	var LIGHT_PARTICLE_COLOR = '#2a2a2a';
+	var particleInstance;
+
+	function initParticles() {
+		var isLight = document.documentElement.getAttribute("data-theme") === "light";
+		particleInstance = new JParticles.particle('#particles', {
+			color: isLight ? [LIGHT_PARTICLE_COLOR, '#f5ad42'] : [DARK_PARTICLE_COLOR, '#f5ad42'],
+			proximity: 80,
+			range: 120,
+			parallax: true,
+			maxSpeed: 0.55,
+			minSpeed: 0.55
+		});
+	}
+	function updateParticleColors(isLight) {
+		if (!particleInstance || !particleInstance.dots) return;
+		var from = isLight ? DARK_PARTICLE_COLOR : LIGHT_PARTICLE_COLOR;
+		var to = isLight ? LIGHT_PARTICLE_COLOR : DARK_PARTICLE_COLOR;
+		particleInstance.dots.forEach(function (dot) {
+			if (dot.color === from) dot.color = to;
+		});
+	}
+	function applyThemeIcon() {
+		var isLight = document.documentElement.getAttribute("data-theme") === "light";
+		document.getElementById("theme-icon").className = isLight ? "fa-solid fa-moon" : "fa-solid fa-sun";
+	}
+	function toggleTheme() {
+		var root = document.documentElement;
+		var next = root.getAttribute("data-theme") === "light" ? "dark" : "light";
+		if (next === "light") root.setAttribute("data-theme", "light");
+		else root.removeAttribute("data-theme");
+		localStorage.setItem("theme", next);
+		applyThemeIcon();
+		updateParticleColors(next === "light");
+	}
+	applyThemeIcon();
+	initParticles();
+</script>
 </body>
 </html>

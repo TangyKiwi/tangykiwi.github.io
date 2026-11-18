@@ -21,29 +21,76 @@
 html {
 	min-height: 100%;
 	color: var(--text);
-	background: rgba(0, 0, 0, 0.55);
-	background-image: url("assets/website/background.png");
-	background-blend-mode: darken;
-	background-position: center;
-	background-repeat: no-repeat;
-	background-size: cover;
-	background-attachment: fixed;
 	font-family: "Roboto", sans-serif;
+}
+
+html[data-theme="light"] {
+	--text: #1f1a12;
+	--glass: rgba(255, 255, 255, 0.04);
+	--glass-border: rgba(180, 110, 20, 0.4);
 }
 
 body {
 	margin: 0;
 	min-height: 100vh;
 	overflow-x: hidden;
+	transition: color 0.3s ease;
 }
 
 div { cursor: default; }
+
+.bg-layer {
+	position: fixed;
+	inset: 0;
+	z-index: -1;
+	background-image: url("assets/website/background.png");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: rgba(0, 0, 0, 0.55);
+	background-blend-mode: darken;
+	transition: filter 0.3s ease, background-color 0.3s ease;
+}
+
+html[data-theme="light"] .bg-layer {
+	background-color: rgba(255, 255, 255, 0.05);
+	background-blend-mode: lighten;
+	filter: saturate(0.9);
+}
 
 #particles {
 	position: fixed;
 	inset: 0;
 	width: 100%;
 	height: 100%;
+}
+
+.theme-toggle {
+	position: fixed;
+	top: 20px;
+	right: 20px;
+	width: 40px;
+	height: 40px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	border-radius: 50%;
+	background: var(--glass);
+	border: 1px solid var(--glass-border);
+	backdrop-filter: blur(8px);
+	-webkit-backdrop-filter: blur(8px);
+	color: var(--text);
+	cursor: pointer;
+	transition: background-color 0.3s ease, border-color 0.3s ease, color 0.3s ease, transform 0.3s ease;
+}
+
+.theme-toggle:hover {
+	border-color: var(--accent);
+	transform: translateY(-2px);
+}
+
+.theme-toggle i {
+	font-size: 16px;
 }
 
 .panel {
@@ -59,10 +106,11 @@ div { cursor: default; }
 	border-radius: 24px;
 	background: var(--glass);
 	border: 1px solid var(--glass-border);
-	backdrop-filter: blur(14px);
-	-webkit-backdrop-filter: blur(14px);
+	backdrop-filter: blur(8px);
+	-webkit-backdrop-filter: blur(8px);
 	box-shadow: 0 8px 40px rgba(0, 0, 0, 0.45);
 	animation: panel-rise 0.8s ease-out;
+	transition: background-color 0.3s ease, border-color 0.3s ease, color 0.3s ease;
 	text-align: center;
 	max-width: 90vw;
 }
@@ -146,7 +194,7 @@ div { cursor: default; }
 	color: var(--text);
 	text-decoration: none;
 	font-size: 0.9rem;
-	transition: all 0.25s ease;
+	transition: all 0.3s ease;
 	background: rgba(255, 255, 255, 0.03);
 }
 
@@ -183,9 +231,10 @@ div { cursor: default; }
 	border-radius: 999px;
 	background: var(--glass);
 	border: 1px solid var(--glass-border);
-	backdrop-filter: blur(14px);
-	-webkit-backdrop-filter: blur(14px);
+	backdrop-filter: blur(8px);
+	-webkit-backdrop-filter: blur(8px);
 	animation: dock-rise 1s ease-out;
+	transition: background-color 0.3s ease, border-color 0.3s ease;
 }
 
 .dock-item {
@@ -198,7 +247,7 @@ div { cursor: default; }
 	border-radius: 50%;
 	color: var(--text);
 	text-decoration: none;
-	transition: transform 0.2s ease, color 0.2s ease;
+	transition: transform 0.3s ease, color 0.3s ease;
 }
 
 .dock-item i {
@@ -223,11 +272,16 @@ div { cursor: default; }
 	white-space: nowrap;
 	opacity: 0;
 	pointer-events: none;
-	transition: opacity 0.2s ease;
+	transition: opacity 0.3s ease, background-color 0.3s ease, color 0.3s ease;
 }
 
 .dock-item:hover::after {
 	opacity: 1;
+}
+
+html[data-theme="light"] .dock-item::after {
+	background: #fff;
+	color: #1f1a12;
 }
 
 .dock-item:hover .fa-discord { color: #5865f2; }
